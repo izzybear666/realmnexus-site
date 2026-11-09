@@ -1,0 +1,419 @@
+===== PAGE 38 (index 37) =====
+37
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+A Stoic Role
+For as long as there have been Power Ranger 
+teams, the Blue Ranger has not only been the 
+technician and the inventor for their teammates, but 
+also the stalwart memory of the Morphin Grid itself. 
+The history of all that has gone before flows through 
+their color of the Spectrum, and this is personified 
+in not only their abilities and skills, but in the beasts 
+and creatures from which their Zords take shape. 
+They are animals that embody wisdom and mys-
+ticism; the triceratops, unicorn, and sphinx are all 
+infused with the Blue Ranger’s energy.
+Spectrum Role Features
+As a Blue Ranger, you gain the following:
+ Power
+Personal Power Regeneration: 4 per day
+Personal Power Capacity: +2 per every 4 levels
+Training
+Armor: Light and Medium armor
+Starting Skill Ranks: +1 Finesse or Targeting, +1 
+Science, +1 Technology
+Grid Equipment
+You start with your own personal possessions from 
+your pre-Morphin’ life, but also gain the following 
+items from the Morphin Grid. Those marked with an 
+asterisk are only available when Morphed.
+•	Wrist Communicator
+•	Power Morpher
+•	Blade Blaster*
+•	Two-Handed Power Weapon*
+LEVEL
+ROLE PERKS
+PERSONAL 
+POWER 
+CAPACITY
+IDEA 
+POINTS
+STRENGTH 
+INCREASE
+SPEED 
+INCREASE
+SMARTS 
+INCREASE
+SOCIAL 
+INCREASE
+1st
+It’s Morphin Time!, Eureka!
+2
+1
+—
++1
++2
+—
+2nd
+Helping Hand, Grid Tech I
+2
+2
+—
++1
+—
+—
+3rd
+Zord
+2
+2
+—
+—
+—
++1
+4th
+General Perk
+4
+2
++1
+—
+—
+—
+5th
+—
+4
+3
+—
+—
++1
+—
+6th
+Zord Feature, Grid Power
+4
+3
+—
++1
+—
+—
+7th
+Grid Tech II
+6
+3
+—
+—
+—
++1
+8th
+General Perk
+6
+4
++1
+—
+—
+—
+9th
+Power Infusion (1s)
+6
+4
+—
+—
++1
+—
+10th
+Zord Feature, Power Burst (1d2)
+8
+4
+—
++1
+—
+—
+11th
+Extra Attack, Grid Power
+8
+5
+—
+—
+—
++1
+12th
+General Perk, Grid Tech III
+8
+5
++1
+—
+—
+—
+13th
+—
+10
+5
+—
+—
++1
+—
+14th
+Zord Feature
+10
+6
+—
++1
+—
+—
+15th
+Power Burst (1d4) 
+10
+6
+—
+—
+—
++1
+16th
+General Perk, Grid Power
+12
+6
+—
+—
++1
+—
+17th
+Zord Feature, Grid Tech IV
+12
+7
+—
++1
+—
+—
+18th
+Power Infusion (2s)
+12
+7
+—
+—
++1
+—
+19th
+General Perk
+14
+7
+—
++1
+—
+—
+20th
+Blue Ranger Prime
+14
+8
+—
+—
++1
+—
+TABLE 4-3: THE BLUE RANGER
+                                          
+
+
+===== PAGE 39 (index 38) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+38
+It’s Morphin Time!
+Starting at 1st level, by summoning the energy 
+within you through your Power Morpher and saying 
+the words “It’s Morphin Time!” as a standard action, 
+you are enveloped with a stylized shell of Morphin 
+Grid energy that serves as your armor, grants you 
+access to your Power-based weapons, and many 
+other abilities that require Power to activate.
+While Morphed, the following traits and  
+features apply:
+•	Your Toughness Bonus is determined by your 
+Armor Training: Light (+1), Medium (+2), Heavy 
+(+4), Ultra-Heavy (+6).
+•	All of your Jump distance maximums are tripled.
+•	As a Free Action, you can summon any single 
+Power-based weapon to your hands.
+•	When reduced to 0 Health, you may choose to 
+avoid Defeat by automatically returning to your 
+natural form, unconscious, and at 1 Health.
+Eureka!
+From the beginning of their career as a Blue Ranger 
+at 1st level, you are constantly inspired on ways to do 
+things that exemplify your wit and intelligence. You 
+receive a number of Idea Points per day as listed on 
+the table above. At any point where you are about to 
+make a skill check with a Smarts skill, you may spend 
+an Idea Point to gain Edge on that roll.
+Helping Hand
+Starting at 2nd level, you can use your connection 
+to the technology of the Morphin Grid to patch up 
+the power shell of another team member. As a Free 
+action, you may spend 1 Personal Power to heal any 
+Morphed member of a Power Rangers team within 
+60 feet one Health.
+Grid Tech 
+You have begun to unlock the technological 
+secrets of the Morphin Grid. You acquire this Role 
+Perk in four parts, I, II, III, and IV at 2nd, 7th, 12th, 
+and 17th levels. Upon gaining each version of this 
+Role Perk, you may choose two of the Grid Tech 
+bonuses currently available to them to apply.
+Grid Tech I
+Aptitude Augmenter: Pick one skill in which you 
+have at least one level. You may re-roll 1s and 2s 
+while using that skill. This Grid Tech may be chosen 
+multiple times.
+Gridspeak Receivers: You and your Power Ranger 
+team, when Morphed, can understand and read any 
+language used by creatures on the Morphin Grid.
+Gridspeak Transmitters: You and your Power 
+Ranger team, when Morphed, can speak a form of 
+universal language understandable by any creatures 
+on the Morphin Grid.
+Blaster Focusers: You may add a 1 shift to all of the 
+Blade Blaster attacks of your Power Rangers’ team.
+Grid Tech II
+Defensive Shields: You may increase the Morphed 
+Toughness of one member of your Power Ranger 
+team by +1. This Grid Tech can be chosen once per 
+team member.
+Enhanced Summoner: You and your Power Ranger 
+team reduce the number of rounds it takes to sum-
+mon your Zords by -1 (minimum of 1).
+Power Focusers: You may a 1 shift to all of the 
+Power Weapon attacks of your Power Rangers’ team.
+Vision Focuser: You may add 30 feet to the Enhanced 
+Vision of you and your Power Rangers’ team, while 
+Morphed. This Grid Tech may be chosen twice.
+Grid Tech III
+Aim Apparatus: One member of your Power 
+Ranger team gains a level in the Targeting skill. This 
+Grid Tech may be chosen multiple times, once per 
+team member.
+Morphin Grid Mapsuite: You are always aware of 
+your local position on the Morphin Grid.
+Survival Node: Pick one skill you have no levels 
+in. You gain that skill, but only at a special D2 level 
+that cannot be increased further without buying the 
+D2 level normally. This Grid Tech may be chosen 
+multiple times.
+X-Tech Visor: You now have the ability to see 
+through solid objects (not made out of lead or 
+specifically shielded against radiation) to a distance 
+of 30 feet. When doing so however, you cannot see 
+color or details, just outlines and densities of shapes 
+and objects.
+                                          
+
+
+===== PAGE 40 (index 39) =====
+39
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+Grid Tech IV
+Energic Shields: Pick one type of 
+non-physical (blunt or sharp) damage. While 
+Morphed, you gain +3 Toughness to that type 
+of damage.
+Gridspeak Translator: You and your Power 
+Ranger team, when Morphed, can speak, under-
+stand, read, and write all languages used by 
+creatures on the Morphin Grid.
+Megaform Expeditor: It takes your Zord 
+1d4 rounds less time to be ready to take 
+part in the formation of any Combined 
+transformation, minimum 1.
+Zeo Tech Augment: You and your 
+Power Ranger team can collectively 
+choose either your Blade Blasters or 
+your Power Weapons, gaining a 
+1 shift in any attack that 
+uses them.
+                                          
+
+
+===== PAGE 41 (index 40) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+40
+                                          
+
+
+===== PAGE 42 (index 41) =====
+41
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+Zords
+By the time a Ranger reaches 3rd level, their role 
+in protecting the Morphin Grid requires them to bat-
+tle larger and more devastating foes. When piloting 
+your personal Zord, you cannot suffer Snags when 
+using the Driving skill.
+You now have access to a powerful construct of a 
+particular kind based upon the Power Ranger team 
+you are a part of. These are the various Zords, Borgs, 
+and Power vehicles that the Rangers summon to aid 
+them when the monsters and other minions of evil 
+are empowered by warlords like Lord Zedd and Rita 
+Repulsa. Rules and statistics surrounding Zords can 
+be found in the section starting on page 131.
+Blue Ranger Zords
+What sort of shape a Blue Ranger’s Zord takes 
+depends on the kind of Power Ranger Team they are 
+a part of. Examples of previously chosen Zords are: 
+•	Mighty Morphin Power Rangers: Triceratops, 
+Unicorn
+•	Ninja Power Rangers: Wolf
+•	Alien Rangers: Blue Battle Borg
+•	Power Rangers Zeo: Sphinx
+•	Power Rangers Turbo: Mountain Blaster Truck
+•	Space Rangers: Mega V3 Rocket 
+ Zord Feature
+Upon reaching 6th level, then again at 10th, 14th, 
+and 17th levels, a Ranger’s connection and profi-
+ciency with their Zord has strengthened and evolved 
+to a place where their abilities while using it are 
+stronger and more powerful than ever. Each time 
+this Role Perk is acquired by a Blue Ranger, they 
+may choose from the list of Zord Features (see page 
+136 for details) to apply to their personal Zord.
+General Perk
+When you reach 4th level, and again at 8th, 12th, 
+16th, and 19th level, you have the ability to person-
+alize your Ranger a little further and must choose to 
+gain a Generic Perk of your choice for which you 
+meet the prerequisites.
+Grid Power
+First upon reaching 6th level, then again at 11th 
+and 16th levels, your understanding and connection 
+to the power that flows from the Morphin Grid in 
+ways other Rangers may not. Each time you acquire 
+this Role Perk, you may choose a Grid Power (see 
+page 99) to add to your Ranger, so long as they meet 
+the requirements, if any. 
+Power Infusion
+Upon reaching 9th level, you can pour your 
+Morphin Grid energy into one series of empowered 
+attacks from your team. As a Blue Ranger, your 
+connection to the Grid’s power is almost symbiotic. 
+Once per scene, by spending 1 Personal Power and 
+a Free action while Morphed, you and each of your 
+Morphed Power Ranger teammates within 60 feet 
+re-roll natural 1s on your next successful attack. At 
+18th level, they may also re-roll 2s.
+Power Burst
+At 10th level, the Blue Ranger knows how to tap 
+the Morphin Grid directly once per scene to send a 
+ripple of raw power into his team. You can spend a 
+standard action to have every Morphed member of 
+the Power Ranger team, no matter where they are on 
+the Grid in space and time, to gain 1d2 Power. Upon 
+reaching 15th level, this amount increases to 1d4.
+Extra Attack
+Beginning at 11th level, you can attack twice, 
+instead of once, whenever you take the Attack 
+action on your turn. This Role Perk only functions 
+while Morphed and fighting as an individual.
+Blue Ranger Prime
+At 20th level, you have become the most 
+advanced version possible of your team’s Blue 
+Ranger. Your Morphed form immediately gains the 
+following benefits:
+•	+2 to all Defenses.
+•	Additional point of  Damage on attacks from 
+Powers
+•	Edge on Social skill checks
+                                          

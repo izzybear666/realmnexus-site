@@ -1,0 +1,346 @@
+===== PAGE 76 (index 75) =====
+75
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 05: INFLUENCES
+Survivor
+You’ve escaped a hardship or deadly situation and 
+have both a sense of inner strength and appreciation 
+for life as a result. Some feel that you are more sen-
+sitive or frail due to your experience, but you have 
+learned to use the tools you gained to help your 
+determination with everything you face. You may 
+have been forced to live on your own at an early 
+age, survived an accident, escaped extreme finan-
+cial hardship, or overcome a tragic loss.
+Influence Perk
+After your hardship, you have honed your survival 
+instincts and are able to use sheer willpower to 
+overcome stressful situations. When faced with an 
+emergency situation or instinctual choice, gain an 
+Edge on a Survival or other related check to know 
+how to best navigate the situation. Additionally, at 
+any point where your Smarts would be lowered to 
+0, roll a Willpower check of 10 or above to keep it 
+at 1.
+Hang-Up
+The hardships of your life have been traumatic 
+and have left lasting effects in your consciousness. 
+This may cause you to stumble over your words or 
+freeze like a deer in headlights. While in the pres-
+ence of the reminder of your survival experience, 
+you are unable to focus on anything else and suffer 
+a Snag on all Alertness checks.
+Suggested Characteristics
+You have a calm sense of composure when quick 
+decisions need to be made. The idea of danger 
+or even death does not sway you or your actions. 
+Instead, you make methodical choices, compart-
+mentalizing your fears or memories and going with 
+your instincts for survival.
+D12
+BACKGROUND BOND
+1
+I’ve always looked at my hardship as an opportunity to 
+learn and grow.
+2
+It was only when I thought things couldn't get worse 
+that I saw all of the ways that my life could get better.
+3
+All of the lasting effects of the ordeal that I survived 
+have contributed to the awesome person I am today.
+4
+I still suffer nightmares about my survival experience, 
+but I don’t talk about them much.
+5
+People say that I inspire them to overcome their own 
+troubles, but sometimes I still need support too.
+6
+Going through the worst of times gave me the 
+opportunity to see who my true friends are.
+7
+After my survival, I gave myself a complete physical 
+and mental makeover.
+8
+I may have survived my hardship, but someone I loved 
+deeply did not.
+9
+I make impulsive decisions, because I know that I no 
+longer want to waste a single day of my life.
+10
+I regularly make charitable contributions and volunteer 
+my time to good causes.
+11
+I strive to eat healthy food and exercise to take care of 
+myself as best as I can.
+12
+When I see someone who is sad or other distress, I feel 
+compelled to reach out in friendship.
+TABLE 5-9: SURVIVOR BOND
+ 
+                                          
+
+
+===== PAGE 77 (index 76) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 05: INFLUENCES
+76
+Teacher
+Teachers come in all ages and love to share their 
+passion for whatever they teach. As a teacher, you 
+strive to inspire others to learn all that they can. 
+You may have been a professor at a college, a T.A. 
+at your high school, an extra-curricular activities 
+instructor, or a tutor for fellow students.
+Influence Perk
+Your passion for passing on knowledge to 
+others allows you to inspire them to achieve great-
+ness. When a fellow Power Ranger must make a 
+non-combat skill check, you may Lend Assistance 
+with an additional Edge. If the skill is one in which 
+you have specialized, you may Lend Assistance with 
+two additional Edges, but the task takes twice as 
+long to accomplish, as you are teaching how to do 
+it. 
+Hang-Up
+You cannot resist a teaching moment, and insist 
+on showing others “how it is done” before allow-
+ing them to try on their own. In any non-combat 
+situation in which you have more skill than a team 
+member, you will force yourself into doing the task 
+first, even if strategically or socially unsound.
+Suggested Characteristics
+You have learned to have a lot of patience by 
+dealing with the repetitive nature of teaching others. 
+As an instructor, you are focused on technique and 
+complete understanding of the subject at hand to 
+ensure that your student gains the skills you impart 
+to them.
+ 
+D12
+BACKGROUND BOND
+1
+Teaching others about the things I’m passionate about 
+is truly fulfilling.
+2
+I cannot say no when asked for help.
+3
+Some people think I am bossy, but I am just trying to 
+help them do things the correct way.
+4
+I value being a confidant and mentor to others.
+5
+I often give unsolicited advice.
+6
+I will always take the time to teach others anything I’ve 
+learned that they also want to know.
+7
+I believe the best teacher is one who wants their 
+student to surpass them in skill.
+8
+Only those who are educated have the ability to make 
+a truly informed choice.
+9
+I am secretly jealous of one of my students.
+10
+I’m resentful that I am not paid (enough) for sharing 
+my knowledge and experience.
+11
+While I have knowledge in certain areas, I still feel like 
+I have a lot to learn.
+12
+I’m painfully shy, and I only feel extroverted and 
+confident when I am showing others what I know.
+TABLE 5-10: TEACHER BOND
+                                          
+
+
+===== PAGE 78 (index 77) =====
+77
+06
+ESSENCE SCORES
+ESSENCE SCORES
+AND SKILLS
+AND SKILLS
+E
+very creature, adversary, and character in 
+the Power Rangers Roleplaying Game is 
+made up of a number of important statistics 
+and numerical values. These statistics are 
+what allow the characters to interact with 
+the game rules, and vice versa.
+This chapter looks at two of the most 
+important statistics in the Essence20 
+Roleplaying System – the primary ESSENCE 
+SCORES and SKILLS.
+                                          
+
+
+===== PAGE 79 (index 78) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+78
+Essence Scores – 
+The Four ‘S’s
+At the heart of the Essence20 Roleplaying Game 
+System are the four ‘S’s – Strength, Speed, Smarts, 
+and Social. These are called the primary Essence 
+Scores, and they dictate the core elements of the 
+character (or creature, vehicle, etc.).
+A character’s Essence Scores will be a number 
+ranging from 1 to 10 as a natural, mundane human 
+being (or similar species), where heroic examples 
+– like individuals with ultra-specialized training, 
+special augmentations, or perhaps fused with the 
+universal power of the Morphin Grid – can range 
+all the way to 15! Other creatures, like many alien 
+lifeforms or robotic entities, may even have higher 
+maximum values in their Essence Scores.
+This numerical range is NOT a direct correla-
+tion or scale of the associated Essence, but rather 
+it shows a creature’s core potential in that aspect 
+of their being. It shows their ability to grow and 
+focus upon that part of themselves, but not a 
+direct comparison.
+For example, a human with a Strength Essence 
+score of 4 is not necessarily more physically pow-
+erful than a human with a Strength Essence score 
+of 2 – but they do possess twice the Strength-based 
+potential than the other. Measuring specific things 
+like exactly how fast does a high Speed score make 
+you, or if a low Social score means you can’t pos-
+sess proper etiquettes is based upon the various Skill 
+Levels having higher Essence Ability scores grant you.
+Essence Ability Scores of 0
+Certain game effects might somehow reduce a 
+creature’s Essence Ability lower than 1. When this 
+happens, the creature in question is severely penal-
+ized in some fashion based on which Essence has 
+been zeroed out.
+•	A creature with a Strength of 0 is comatose. It 
+cannot take actions of any kind and is unaware of 
+its surroundings.
+•	A creature with a Speed of 0 is paralyzed. It can-
+not move in any way and suffers a 2 dice shift on 
+all actions it takes.
+•	A creature with a Smarts of 0 is caught in a stupor. 
+It can only take Move actions and suffers a Snag 
+on all Skill Tests.
+•	A creature with a Social of 0 is fully immersed in 
+ennui and malaise. Any Move or Standard actions 
+it takes cost an additional Free action and suffer a 
+1 dice shift.
+Strength
+A character’s Strength is their collective physical 
+potential. It sets the limits of their athletic prowess, raw 
+physicality, stamina, ability to withstand damage, and 
+the breadth of skills that make all of the above possible.
+Strength Essence is also how a character’s 
+Toughness Defense is calculated, which is covered 
+in the Combat chapter on page 169, as well as 
+many aspects of melee combat.
+Speed
+A character’s Speed is their natural leaning toward 
+agility, hand-eye coordination, manual dexterity, and 
+physical acuity. How quickly a character can react to 
+outside stimuli, their ability to learn how to move their 
+body and its various parts is all tied to their Speed.
+Speed Essence is how a character’s Evasion 
+Defense is calculated, which is covered in the 
+Combat chapter on page 169, as well as how profi-
+cient a character is with most ranged weaponry. 
+Smarts
+A character’s Smarts is their capacity of learning, 
+understanding, logic, and problem solving. The 
+higher a creature’s Smarts, the better their ability to 
+gather and hold learned information like technologi-
+cal workings, scientific applications, cultural specific 
+facts, and their sharpness and attention to detail.
+                                          
+
+
+===== PAGE 80 (index 79) =====
+79
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+Smarts Essence is how a character’s Willpower 
+Defense is calculated, which is covered in the Combat 
+chapter on page 169 and may affect the number of 
+Languages a character knows at character creation.
+Social
+A character’s Social is their instincts toward nat-
+ural charm and charisma, the potential power of 
+their personality, and their overall wit. It is through 
+this part of their core being that they learn how to 
+manipulate others, hide information with half-truths, 
+and turn on the likeability and animal magnetism.
+Social Essence is how a character’s Cleverness 
+Defense is calculated, which is covered in the 
+Combat chapter on page 169, as well as how a char-
+acter can wield their own reputation as a tool or even 
+a weapon. Social Essence may also affect the number 
+of Languages a character knows at character creation.
+Skills and 
+Specializations
+While a character’s Essence Abilities set their 
+potentials, it truly is their Skills and subsequent 
+Specializations that show the character’s ability to 
+use that potential. In the Essence20 Roleplaying 
+Game System, skills represent everything a charac-
+ter can do proficiently, as well as a few additional 
+aspects of a character’s life. 
+Skill Specializations
+Further defining what a character is especially good 
+at, most skills have Specializations. These show a par-
+ticular area of expertise, and allow the character to 
+roll more dice when their specialization comes into 
+play. Specializations are available for most skills and 
+are open ended, though this chapter suggests a few 
+for each skill that may come into play more often.
+See the ‘Using Skills’ section later in this 
+chapter to see how Specializations modify a 
+character’s skills.
+Using Each Essence & Skill
+The following sections describe the Skills char-
+acters can gain and learn as their Essence Ability 
+scores improve, broken down into their four differ-
+ent Essence-based categories. Each skill details its 
+most common uses, and lists common specializa-
+tions that often attach to them, if any. 
+Strength-Based 
+Skills 
+The following are the skills and suggested spe-
+cializations for each that are associated with a 
+character’s Strength Essence. 
+Athletics
+This skill dictates a general physical aptitude that 
+makes you at ease with making your body perform 
+actions you need it to. Hurling an object like a 
+football or a rock with a general degree of accuracy 
+would fall under this skill, but so would catching it 
+on the move, or possibly climbing a sheer cliff face, 
+etc.
+Sample Specializations
+•	Climbing: The ability to find foot and handholds 
+on surfaces, use lengths of rope, or similar circum-
+stances to scale vertical heights.
+•	Jogging/Running: The ability to maintain the 
+Sprint action over extended periods of time or 
+long distances.
+•	Sports Activity: Choose a sport or activity not cov-
+ered by another skill (such as a biathlon or archery 
+would be covered by Targeting); the character 
+benefits when making Strength skill rolls with that 
+sport.
+•	Swimming: The ability to traverse aquatic situations.
+•	Throwing: The ability to hurl an object with 
+great force.
+Brawn
+This skill is the measure of your prolonged phys-
+icality. Unlike a burst of strength, Brawn dictates a 
+general and constant level of physical prowess. This 
+is the ‘marathon effort’ of strength-based applica-
+tions, and dictates how much weight a character 
+can carry on them normally (see boxed text).
+Brawn is special in that certain equipment 
+or weapons that are very heavy have a Brawn 
+requirement to use. If a piece of equipment has 
+a Brawn requirement, every level lower than that 
+requirement you possess imposes a 1 shift in the 
+equipment’s use!
+                                          

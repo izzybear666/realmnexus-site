@@ -1,0 +1,966 @@
+===== PAGE 131 (index 130) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+130
+Zeo Jet Cycles
+THREAT LEVEL: 3
+SIZE: COMMON | HEALTH: 4
+GROUND MOVEMENT: 45 ft
+TOUGHNESS: 13 | EVASION: 13
+WILLPOWER: * | CLEVERNESS: *
+Crew: 1 driver
+Firepoints: 1 - The driver can attack with any one-
+handed weapon 
+Defenses: Light Plating (+1 plating to Toughness)
+Zeo Jet Cycles are much like the Shark Cycles, but 
+they are not quite as fast or tough. They can be used 
+for both street and offroad use. 
+SKILLS:
+Might: +d2
+Brawn: +d2
+Initiative +d6
+TRAITS: 
+Land: The Zeo Jet Cycle is a land vehicle. 
+Vehicle: As a vehicle, the Zeo Jet Cycle requires 
+a driver to operate. Without a driver, it is consid-
+ered a Threat level 0 object, and all attacks target its 
+Toughness. Effects that affect a target’s Willpower or 
+Cleverness only affect this vehicle if it has a driver, 
+in which case they target the driver’s Willpower or 
+Cleverness. It is immune to mind affecting effects 
+and effects that exclusively affect the living, like 
+poison, but is susceptible to effects that affect 
+machines, such as Anti-Tank weapons. Vehicle 
+damage can be fixed with a Standard engineering 
+kit and a Technology check. 
+ATTACKS:
+Ram (Might): +d2, Reach (2 Blunt Damage to 1 
+Target or 1 Blunt Damage to 2 Targets)
+The vehicle must move in a straight line for at 
+least 5 ft in order to Ram. Up to 2 creatures within 
+the area may be affected.
+POWERS:
+Responsive: With its light frame and design, the 
+Zeo Jet Cycle relies heavily on the driver’s survival 
+instinct. The Zeo Jet Cycle can use the driver’s 
+Evasion against attacks instead of its own.
+Wealth Checks 
+- Choosing Your 
+Socio-Economic 
+Background
+As teenagers, the Rangers do not need to worry 
+about currency, as they still live at home or may 
+have allowance or jobs that provide them with 
+money for every day living. If your campaign goes 
+into adulthood, perhaps the role of Power Ranger 
+rewards Rangers with basic comforts such as food 
+and shelter provided by the Command Center or a 
+shared Power Rangers living situation. It is up to you 
+to decide what type of socio-economic background 
+your character has.
+Living a particular lifestyle doesn’t have a huge 
+effect on your character, but your lifestyle can affect 
+the way other individuals and groups react to you. 
+For example, when you lead an wealthy lifestyle, 
+it might be easier for you to obtain the extra things 
+you may need that are not provided by Zordon than 
+if you live in poverty. A Power Ranger that must 
+keep an after-school job to earn money, rather than 
+getting an allowance from their parents, will have 
+many roleplay opportunities to meet other NPCs in 
+town or have certain connections through work.
+In this game, money is not a focus and the need to 
+roll a Wealth Check will come up rarely. All Power 
+Rangers related gear is provided by the Command 
+Center without cost. Rangers will never need to pur-
+chase a new suit of Power Armor or a new weapon 
+that may become available to them. How your 
+character spends their time in their every day life, 
+whether with a job or fully dedicated to the Power 
+will determine a universal Wealth Check whenever 
+a need arises to purchase special goods or services 
+that aren’t provided by the Command Center.
+WEALTH BONUS FINANCIAL CONDITION
++0 Impoverished or in debt
++1 to +4 Meager Wealth
++5 to +10 Lower Class
++11 to +15 Middle Class
++16 to +20 Affluent
++21 to +30 Rich
++31 or Higher Wealthy
+TABLE 8-5: WEALTH CHECKS
+                                           
+
+===== PAGE 132 (index 131) =====
+131
+09
+THE ZORDSTHE ZORDS
+Behold the power, grace, and beauty of your new Ninja Zords. These Zords are driven by the 
+force of the Ninja, and infused with the power of light and strength. They are far superior to your 
+Zords of the past. Where before your power came from the brute strength of the Dinosaurs, now 
+it comes from the swift, intelligent, cunning of the Ninja. This is more than a restoration of your 
+Ranger powers, your new Power Coins have much more advanced powers. However, as before, it is 
+important that you work together as a team. To that end, all the Zords have the ability to unite as 
+one, to form the Ninja MegaFalconZord!  
+ - Ninjor
+                                           
+
+===== PAGE 133 (index 132) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+132
+Named for the original Champion of the Grid to 
+help shape their power and call upon their help, 
+Zordon, the Zords are special constructs tied to the 
+Morphin Grid and to their Rangers. Each Zord is dif-
+ferent in its own way, allowing their linked Ranger 
+to summon them from their ancient hiding places 
+no matter upon the Morphin Grid they are, so long 
+as the need is just (i.e. – No calling on your Zord to 
+take you cross country or on vacation!), the giant 
+semi-sentient construct arrives and brings a new 
+kind of fight to the enemy.
+Zords are divided not only by their color on the 
+Morphin Grid Spectrum, but also by their type – or 
+rather how the different Ranger teams shape the 
+constructs to best serve their needs. For example, 
+the tough and straightforward Dinozords were 
+perfect for Zordon’s “teenagers with attitudes” in 
+the mainstream “Mighty Morphin” team, while the 
+zero-G vehicular Megatype Zords were needed for 
+the Space Rangers, and the natural machine-meld-
+ing psionics of the Aquitians matched with the Alien 
+Rangers’ Battle Borgs. Each team speaks to a specific 
+array of Zords, as Zordon and the other Champions 
+of the Grid had planned it.
+There are also Zords that exist outside of a team’s 
+needs – solo constructs that serve their own purpose 
+like the massive Dragonzord, Tor the Carrierzord, 
+and a few others. These Zords might stand as pow-
+erful entities on their own power, but as part of the 
+Morphin Grid’s loyal defenders, they are still com-
+patible with other Zords. When it is needed of them, 
+these outsider Zords come together into their own 
+styles of combined Megaforms to defeat evil.
+Aside from their basic most size, strength, and 
+Grid-empowered attacks, Zords also have a way of 
+taking on new and interesting aspects based upon 
+their individual Ranger. The needs, skills, and spe-
+cial features of a Zord vary as much upon the Power 
+Ranger that drives it!
+Zord Features are the collective term for these 
+special connections between the Ranger’s experi-
+ences and the abilities of their Zord. While all Zords 
+come standard with some traits and abilities, and 
+are effectively treated as vehicles in nearly all ways, 
+these special Features augment the Rangers’ most 
+powerful assets – their gigantic Zords and the com-
+bined Megaforms they turn into.
+The Zords – 
+Evolving Machines
+Within each Power Ranger – Zord relationship, 
+there is a connection of Morphin Grid energy that 
+makes their roles and their powers linked in time 
+and space. Just as Rangers are not just people 
+who have been given special powers to fight 
+injustice and evil, Zords are not just machines 
+that have been built to look like animals, myths, 
+and warriors of legendry. 
+This section looks at how to create Zords for 
+your Power Ranger characters, how they grow and 
+evolve, and the statistics of several Zords, showing 
+how they have manifested on the Morphin Grid for 
+several notable Power Ranger teams.
+Creating Your Power 
+Ranger’s Zord
+When a Power Ranger reaches the level in their 
+Spectrum Class that offers them their Zord, they 
+are given one of several types of these glorious 
+machines. Throughout Power Ranger history, the 
+kinds of Zords Rangers receive are matched up 
+through the types of Ranger Team they are a part 
+of, but in these times of extremely chaotic circum-
+stances, the Morphin Grid has been forced to adapt.
+Each Power Ranger must choose the type of 
+Ranger Team their Zord hails from to define its 
+shape, style, and initial Zord Features. In this ini-
+tial rulebook, there are six Ranger Team types to 
+choose from - the humanoid Battleborgs, ancient 
+Dinozords, conventional MegaVehicle Zords, 
+supercharged Turbozords, mythical Zeo Zords, and 
+the Unique Circumstances. Several other Ranger 
+Team types that have their own Zord stylings exist, 
+but those will be revealed in later publications.The 
+Zord begins with a set statistic block, adds one Zord 
+Feature from the Ranger’s Spectrum color, and then 
+applies the standard Zord Features from the type of 
+Ranger Team the player wants their character to rep-
+resent. In these dangerous times, it must be noted 
+that the Morphin Grid allows for Rangers and Zords 
+of different Ranger Team types to function as one 
+seamless force for good - no matter how physically 
+different they might be, first and foremost, they are 
+all still Power Rangers.
+                                           
+
+===== PAGE 134 (index 133) =====
+133
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+                                           
+
+===== PAGE 135 (index 134) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+134
+Baseline Zord Statistics
+SIZE Huge | HEALTH 6
+STRENGTH 6 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Call to Action, Recall for Repairs
+Melee Weapon Attack: Skill to hit1, reach 10 ft., 
+Effect: 2 Blunt/Sharp Damage. 
+Ranged Weapon Attack: Skill to hit1, reach 50/120 
+ft., Effect: 2 Energy Damage.
+*Use the Driver’s Statistic
+1Equal to the Driver’s Driving Skill, plus any other 
+modifiers
+Spectrum-based Zord Features
+The Power Ranger’s new Zord is adjusted by 
+what kind of Spectrum class color the Zord is being 
+created to link to, setting the color of the Zord itself. 
+These are listed below:
+Black: Hardened Chassis 
+Blue: Enhance (Attack)
+Green: Additional Attack Type 
+Pink: Movement Booster
+Red: Increase (Ability)
+Yellow: Light Chassis
+Advanced Spectrum: Any of the Above OR 
+Auxiliary Zord
+Automatic Zord Features
+The Power Rangers’ Zords will gain new powers and 
+abilities based on their Ranger, but they also come 
+standard with one or more Features of their own from 
+their Power Ranger team type. These are listed below:
+Battleborgs: Extra Attack, Martial Zord 
+Dinozords: Combiner, Heavy Chassis
+MegaVehicle Zords: Combiner, Zero-G 
+Turbozords: Combiner, Crew Compartment
+Zeo Zords: Combiner, Megaform Trait
+Unique Circumstance: Auxiliary Zord, Enhance 
+(Attack)
+Gaining Levels With Your Zord
+Not only will a Power Ranger’s Zord gain new 
+Zord Features as they reach certain levels in their 
+Spectrum Class, but their Zord will also use their 
+Ranger’s growing skills, possible Perks, and so on. 
+Gaining Zord Health and Skills
+A Zord grows with every fifth level gained by their 
+Power Ranger. Different from the Zord Features that 
+Power Rangers gain as they increase in level, these 
+increase as natural growth between a Zord and their 
+Ranger. A Zord that is linked to a Power Ranger gains 
+one of the following (Ranger’s choice) at 5th level, 
+10th level, 15th level, and then again at 20th level. 
+• +1 Health
+• +1 Armor Toughness Bonus
+• +10 feet to any movement type
+• +1 Dice Level to Driving Skill
+• +1 Dice Level to Initiative Skill
+• +1 Damage to one Attack T
+ype
+Common Zord Features
+The very nature of Zords and how they serve the 
+Power Rangers grants each and every one of the 
+powerful constructs two specific Zord Features as 
+a rule. These features are the bookends of a Zord’s 
+presence on the battlefield; how to summon a Zord 
+to battle, and what happens when it is too damaged 
+to keep fighting. These are called Call to Action and 
+Recall for Repairs.
+Call to Action
+Unlike a soldier’s tank, or a pilot’s aircraft, Zords 
+are not just a method of locomotion. They are fight-
+ing machines that exemplify and personify the role 
+of their Ranger and are an honorific of the defenders 
+of the Morphin Grid.
+This Zord Feature details when and how a Power 
+Ranger summons their Zord to their side for use.
+There are two rules the Morphin Grid places upon 
+its Power Rangers concerning the summoning of 
+their Zords:
+• Rule #1. A Zord shall not answer to do a task a 
+Ranger can do on their o
+wn.
+• Rule #2. A Zord shall not answer to fight a battle 
+until the tides ha
+ve turned and the enemy has the 
+upper hand.
+                                           
+
+===== PAGE 136 (index 135) =====
+135
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+These rules are put in place to keep Power 
+Rangers from abusing their powers and their Zords, 
+and represents the connection and agreement to 
+protect the sanctity of the Morphin Grid. It is up the 
+GM to decide if a situation breaks either of the rules 
+above, at which point the Ranger attempting to sum-
+mon their Zord will receive a feeling that they have 
+acted in error and to try again when the situation 
+is more right. The first few transgressions however, 
+might come with a message from Zordon, Alpha-5, 
+etc. to remind the Ranger what Zords are used for.
+Rule #1 is simple; Rangers need to be capable 
+of travel, removing basic obstructions, and dealing 
+with common problems without having to call upon 
+their Zords for help.
+Rule #2 is a little more complex, as that it is 
+based upon whatever combat the Power Rangers 
+and their allies are up against. One good method to 
+determine if the Zords will answer is whether or not 
+there are other vehicles or Megaform-sized enemies 
+involved in the battle as of yet. If so, the Zords will 
+surely answer the call. If not, it would require a 
+significantly powerful Personal Scale enemy – like 
+some kind of ultra-enhanced alien being or a devas-
+tating spell-slinging warlock – to validate the giant 
+constructs’ need to come to battle.
+The Call
+When it has been determined that a Power 
+Ranger can use this Zord Feature and summon 
+their Zord, they must take a standard action to 
+summon their Zord.
+Once the call has been made, the Zord in ques-
+tion fills with Morphin Grid energy and rises from a 
+pocket in physical space that embodies their fea-
+tures. For example, the furious red Tyrannosaurus 
+Rex Dinozord springs from a metaphysical volcano, 
+the White Tiger Thunderzord charges in from a 
+sprawling canyon path, and all of the Mega-Vehicle 
+Zords cruise in from outer space.
+In 3d2 game rounds, the Zord arrives to the 
+border of the conflict, awaiting to be piloted by the 
+Ranger that summoned it. Once the Ranger comes 
+into contact with the Zord, they are placed in a driv-
+er’s position and they begin to use the Zord’s stats 
+for vehicular combat immediately.
+                                           
+
+===== PAGE 137 (index 136) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+136
+Recall for Repairs
+When most vehicles reach 0 Health, they become 
+a wreck, crash, and potentially explode. Zords are 
+almost like living constructs, however, and are not 
+defeated in the same fashion.
+When a Zord reaches 0 Health – for any reason – it 
+immediately becomes Prone and its crew are allowed 
+to jump away from it as per an emergency disembark.
+Once the crew is safely disembarked from their 
+Zord, it lays dormant and Prone for up to one hour 
+– or until its Ranger decides to recall it to its meta-
+physical lair in the Morphin Grid for repairs. 
+After a Zord as been recalled for repairs, it must 
+stay in its Morphin Grid lair until after the scene is 
+over before it can be called again. When it is avail-
+able again however, it will be at full Health with no 
+lingering conditions.
+Customizing Your 
+Zords – Zord 
+Features
+Dinozords, Ninjazords, Battle Borgs, Turbozords, 
+etc. all connect a Power Ranger to the strongest 
+elements of the Morphin Grid once summoned, but 
+they are uniquely suited to bring the battle to the 
+enemy in their own ways.
+Each Zord comes with standard Zord Features 
+based on the kind of Zord they are, but they are 
+also gained as the Power Ranger gains levels in their 
+specific Spectrum class.
+Zord Features are ways to have the ultra-powerful 
+robotic vehicles of the Power Rangers come to life 
+and reflect the unique styles and needs of the vari-
+ous Ranger teams that summon them.
+Zord Features
+The following are Zord Features that are either 
+found as standard on a Power Ranger’s Zord, or 
+reflect the Ranger’s experience and skill altering 
+how a Zord uses the energy from the Morphin Grid 
+in unique ways.
+Just as there are more types of Zord that exist in the 
+entirety of the universe that will be revealed in future 
+Might Morphin Power Rangers Roleplaying Game 
+products, additional Zord Features will be introduced 
+in such products as well.
+Additional Attack Type
+This Zord has evolved and developed an addi-
+tional method of attacking, whether it is an 
+additional limb that can strike in close combat, a 
+missile rack that hurls volleys of missiles, a frozen 
+spray from its trunk, etc.
+You may choose to add either a basic melee or 
+ranged attack to your Zord, using the baseline Zord 
+attack statistics and choosing the details (damage 
+type, description, etc.).
+Auxiliary Zord
+This Zord is designed as an additional component 
+to one or more team’s Zord Megaform, meaning it 
+more commonly has to fight on its own, without 
+team, until called upon to combine. The following 
+bonuses are added to the Zord:
+• +2 to Strength
+• 2 Bonus Health
+• +1 Damage to Melee Attacks
+Blast Attack
+Your Zord’s ranged attack is designed to deal with 
+groups of targets instead of a single foe. Your ranged 
+attack is now an Area of Effect weapon with a 20’ x 
+20’ area of attack.
+Carrier
+This Zord is designed to keep other Zords within 
+itself, protecting them from harm until it is time to 
+release them for battle. The following bonuses are 
+added to the Zord:
+• +2 to Strength
+• 2 Bonus Health
+• Contains a metaphysical space that holds up to 
+five V
+ehicular Scale Zords and their Crew inside 
+itself; carried Zords may not be harmed until 
+released as an action
+• Automatically releases all carried Zords upon 
+reaching 0 Health
+Combiner
+This Zord is capable of altering its own form and 
+modulating into being part of a larger, combined 
+form with one or more other mechanical beings – a 
+Megaform that is more than the sum of its parts. Full 
+rules for using the Combiner Zord Feature can be 
+found later in this chapter, starting on page 139.
+                                           
+
+===== PAGE 138 (index 137) =====
+137
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+Crew Compartment
+The Zord has additional access points and pas-
+senger areas that allow up to three additional crew 
+to join the driver. These additional crew should be 
+treated like any other vehicle crew, allowing the 
+Zord to access multiple weapon systems when it 
+takes an attack action. However, the Zord does NOT 
+have external points where these crew can attack 
+with their own weaponry. For more information on 
+Vehicle Crews, see page 175.
+Enhance (Attack)
+The Zord has an enhanced form of one of its 
+attack types or weapon systems, making it more 
+potent. Choose one of the Zord’s methods of attack. 
+Choose either to add a 1 dice shift to the attack, 
+add 1 Damage, or apply one special effect from the 
+list below to the attack.
+• Doubles Melee Reach
+• Adds 30/60 to Ranged Reach
+• Reduces Target’s Speed b
+y D2 (D4 if taken twice)
+• Ignores Armor Bonus to Toughness
+• Gain Multi-Weapon (2) (or add +1 if taken multi-
+ple times)
+• Change Damage Type (energy, fire, etc.)
+Extra Attack
+The Zord has faster than normal reflexes with its 
+melee-style attacks, allowing it to make an addi-
+tional melee attack when it takes an attack action. 
+This Zord Feature may be chosen multiple times, 
+each time adding another melee attack to the Zord’s 
+attack action. It should be noted that this Zord 
+Feature does NOT carry over as a trait of the attack 
+when combined into a Megaform.
+Fast Modulation
+Prerequisite: Combiner
+This Zord is always ready to take the next step and 
+transform into their part of a larger, combined form. 
+The Zord Feature speeds up how long the Zord must 
+be in combat before it can join with others using 
+its Combiner feature. Each time this Zord Feature is 
+chosen, the type of die is reduced by one type (d6 to 
+d4, d4 to d2, etc.) to a minimum of 1.
+Hardened Chassis
+The Zord has an armored shell that is tougher and 
+more durable than that of its brethren. Not only 
+does it increase its Strength score by 1, it adds +2 
+to its Armor bonus to Toughness as well. While in a 
+Combined Megaform, it adds +1 to the Megaform’s 
+Armor bonus to Toughness.
+Heavy Chassis
+This Zord is built for durability and raw power – 
+a real brute force kind of Zord. This Zord Feature 
+increases the Zord’s Strength by 1 and gives the Zord 
+one additional Health.
+Increase (Essence)
+The Zord has an exemplary degree of enhance-
+ment in one of its primary Essence Scores; Strength 
+or Speed. This Zord feature increases one of these 
+three ability scores by +2, to a maximum of 15.
+Light Chassis
+This Zord is built for mobility and flexibility 
+instead of durability. This Zord Feature increases 
+the Zord’s Speed by 1 and gives the Zord a level 
+increase to its Initiative skill. While in a Combined 
+Megaform, it provides a level increase to the 
+Megaform’s Initiative skill.
+Martial Zord
+The Zord is of a humanoid shape and links 
+with the Ranger driving it to use their own bodily 
+movements and martial training to pilot its battle 
+movements. The Zord’s melee attacks are more 
+in tune with the driver, gaining an automatic 1 
+dice shift.
+Megaform Trait
+Prerequisite: Combiner
+This Zord is designed to function better as a part of 
+the whole. This feature allows you to choose a third 
+Megaform Trait for your Zord to contribute to any 
+Megaform they are a part of.
+Movement Booster
+The Zord is capable of extraordinarily fast move-
+ments or a different manner of locomotion than 
+simply walking. This feature adds 30 feet to an exist-
+ing kind of movement in the Zord’s move, or creates 
+a new kind of movement type (aerial, aquatic, 
+burrowing, etc.) at 45 feet.
+                                           
+
+===== PAGE 139 (index 138) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+138
+Ninja Powered
+Prerequisite: Ranger Must have the Ninja 
+Power Feat
+The Zord has been joined with the mighty power 
+of Ninjor and infused with light and strength, 
+transforming it into a new animal form and grant-
+ing it one of the following special powers (you may 
+choose one):
+Balance of Justice: Grants Edge to allies who 
+attack a target already attacked by this Zord in the 
+same round.
+Deep Wisdom: Edge on attacks versus targets with 
+Damage Resistance/Invulnerabilities
+Mighty Strength: Increase Strength score by 2; 
+increase the skill for one Melee Attack by two dice 
+levels. 
+Raw Ferocity: May choose to take a Snag on 
+melee attacks to inflict two damage (of the appropri-
+ate type).
+Shining Light: Snag to ranged attacks targeting it 
+specifically.
+Stealthy Misdirection: Can take the Defend action 
+as part of any move action that is more than 20 feet.
+ Relic Key
+Prerequisite: Auxiliary Zord
+The Zord has a connection to an ancient item 
+known only to the Champions of the Grid and some 
+of its most dire enemies. This connection makes 
+possession of this Relic Key necessary to pilot the 
+Zord, but it also grants it two very distinct bonuses:
+• The Zord may choose to ha
+ve Edge on any one 
+roll in the scene.
+• The Zord has a default Smarts and Social of 3 
+when the Relic Key is present but no crew is cur
+-
+rently driving
+Titan Body
+The Zord is built on a much larger frame than oth-
+ers, standing nearly as large as some team’s Zords’ 
+Megaform. The following rules apply to the Zord 
+with this feature:
+• The Zord is of To
+wering Size class
+• The Zord’s gains 2 Health
+• The Zord’s base attacks deal 3 Damage.
+• The Zord’s Strength increases by 1, but its Speed 
+score is reduced b
+y 2.
+• The Zord cannot benefit from the following Zord 
+Features: Hardened Chassis, Light Chassis, Ninja 
+Po
+wered, Upgraded Zord
+Upgraded Zord
+The Zord has been chosen to receive an upgrade 
+to its entire form and function by the Morphin Grid. 
+It completely changes the shape, spirit, and effi-
+ciency of the Zord in question. Depending on the 
+type of Upgrade being granted by the Morphin Grid, 
+there are specific bonuses granted to the Zord in 
+question:
+• Thunder Upgrade: +1 Speed, +1 skill lev
+el to 
+Driving, increase all attack damage by one 
+• Shogun Upgrade: +1 Strength, 1 to melee 
+attacks, ability to Defend as a Free action
+• Super-Zeo Upgrade: +2 
+Toughness, +2 Health, 1 
+to ranged attacks
+• Rescue Upgrade: +1 Strength, +1 Speed, +20 
+feet to all mov
+ement types, +1 Armor bonus to 
+Toughness
+Warrior Mode
+The Zord can shift into a different fighting form by 
+spending 3 of its Ranger’s Personal Power, changing 
+from its animal, mythological, or other shape into 
+that of a gigantic humanoid fighting form. When it 
+does so, it makes the following adjustments:
+• Now is considered a To
+wering Size combatant
+• Grants 2 to Initiative Skill Tests
+• Melee attacks deal 1 additional Damage while 
+in W
+arrior Mode
+• Warrior Mode lasts until the Zord is involv
+ed 
+in a Combiner Megaform or is subject to Recall 
+for Repairs
+Zero-G
+The Zord is ready and equipped to leave its 
+planet and venture into the vacuum of space. Upon 
+acquiring this Zord Feature, the Zord gains an aerial 
+movement type of 60/30’ and is fully capable of 
+moving unhindered in the vacuum of outer space. 
+Additionally, as ranged combat is a necessity in 
+outer space combat, this Zord’s ranged attacks all 
+receive a 1 dice shift.
+                                           
+
+===== PAGE 140 (index 139) =====
+139
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+Zord Mega-Weapon System
+The Zord has a special weapon, be it like a giant 
+sword for melee or a fire-throwing dragon’s head 
+for ranged, that it can call into being from the 
+Morphin Grid. It costs a total of 5 Personal Power 
+expended from any combination of the Crew to 
+bring into being, and lasts for 1d2+1 attacks (hit 
+or miss) before it would need to be “paid for” 
+again. This special weapon inflicts a base of 5 
+Damage. The weapon system and its kind of dam-
+age (energy, fire, etc.) are decided when the Zord 
+Feature is acquired. This Zord Feature CAN be used 
+while part of a Megaform.
+The Combiner Zord 
+Feature – Bringing 
+Your Zords Together
+While not present in every Zord provided to the 
+Power Ranger teams, the vast majority of Zords 
+possess the Combiner Zord Feature. This feature 
+allows them to connect and attach to other Zords 
+– even those without the Combiner trait – to form 
+more powerful Megaform Zord combinations. 
+History only shows Zords from the same Power 
+Ranger team types combining with few exceptions. 
+Ever since the Morphin Grid was shaken to its 
+core by the forces of evil, Zords have 
+been able to do so with their allies from 
+all across the Grid, regardless to their 
+Ranger Team stylings. There are even whis-
+pers of Zords connecting and combining 
+with alien technology in order to defeat 
+local evils!
+Much like how a Zord will not 
+answer the call to battle unless it is for 
+a worthy adversary, the Zords will not 
+combine into a Megaform without a suitably 
+worthy foe to battle.
+To determine whether or not a foe is worthy, 
+the collective Zords must have already been in a 
+combat scene for a standard length of 1d6+1 game 
+rounds before they are “ready” to combine into their 
+Megaform. Each participant in the Megaform rolls a 
+separate amount of time, with the highest roll result 
+setting when the combination will take place (at the 
+end of that round).
+Creating Your Megaform – Choose 
+Your Megaform Traits
+Once the combination of participants in the 
+Megaform has finished, it operates as if one single 
+creature with a statistic block made up of specific 
+elements from its combined parts.
+When designing a Power Ranger’s Zord with 
+the Combiner Zord Feature, they may choose one 
+Megaform Trait from the following list to be the spe-
+cial element their Zord contributes to the Megaform:
+• Core Body: Double this Zord’s Health w
+hile in a 
+Megaform.
+                                           
+
+===== PAGE 141 (index 140) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+140
+• Move: If the Zord has a special type of move-
+ment or higher mo
+vement rate than the rest of 
+the Megaform, it grants +10 feet to one of the 
+Megaform’s movement types.
+• Core Ability: Choose Strength or Speed when the 
+Zord Feature is gained; the Megaform uses this 
+Zord’
+s Essence ability score of that type +1. If 
+multiples of this benefit are chosen, each instance 
+grants and additional +1.
+• Core Defenses: The Megaform uses this Zord’
+s 
+Toughness or Evasion with a +1 bonus. If mul-
+tiples of this benefit are chosen, each instance 
+grants and additional +1 to one of the Defenses.
+• Enhanced Melee Attack: 
+The Megaform has an 
+enhanced melee weapon or attack type that 
+may only be used once per scene, but the attack 
+inflicts three times the normal level of damage as 
+this Zord’s strongest melee attack with a damage 
+type of your choice (energy, fire, etc.), doubles the 
+attack’s Reach. If multiples of this benefit are cho-
+sen, either the number of times it may be used per 
+scene increases by 1 or add an additional form of 
+this attack.
+• Enhanced Ranged Attack: The Megaform has an
+ 
+enhanced ranged weapon or attack type that may 
+only be used once per scene, but the attack inflicts 
+three times the normal level of damage as this 
+Zord’s strongest ranged attack with a damage type 
+of your choice (energy, fire, etc.), and uses twice 
+its Reach numbers. If multiples of this benefit are 
+chosen, either the number of times it may be used 
+per scene increases by 1 or add an additional form 
+of this attack.
+Megaform entities, like the Dinozord Megazord or 
+the Zeo Mega Battlezord, follow specific rules when 
+combined and are treated as a single combatant. These 
+rules apply to all creatures using the Combiner Feature 
+to become one fighting being:
+• The Megaform has the highest ability scores of 
+each type from its participating Combiner compo-
+nents and Crew, to a maximum score of 15.
+• Only specifically noted Perks, Grid Powers, etc. 
+apply to the Megaform.
+• The Megaform has a base starting Armor bonus of 
++3 before any modifiers.
+• All Crew retain their own Skills if called upon to 
+somehow use them.
+• The Megaform acts as if it was a single creature 
+in the combat round, rolling Initiativ
+e on its own, 
+making one move, one standard action, etc.
+• The Megaform moves as quic
+kly as its slowest 
+participants movement, but possesses only a basic 
+ground movement type.
+• The Megaform may choose an
+y of its participants’ 
+attack types to use when it makes an attack action, 
+using its Megaform ability scores instead of the 
+Combiner participant’s.
+• Each Combiner participant possesses its own 
+Health. When the Megaform suffers dam-
+age, di
+vide the damage equally (rounding up; 
+minimum 1) between all Combiner participants – 
+unless the attacks voluntarily takes a Snag to focus 
+the attack on a specific Combiner participant.
+• If a Combiner participant in a Megaform reaches 
+0 Health, they can no longer contribute in any 
+wa
+y to the Megaform’s abilities, attacks, features, 
+etc. Additionally, they no longer take any damage 
+away from the other participants when attacked, 
+meaning the rest of the Megaform will take larger 
+portions of damage, etc.
+• When more than half of a Megaform’s Combined 
+participants are reduced to 0 Health, the 
+Megaform is Defeated and falls apart to its partici-
+pant pieces, each one becoming prone.
+Example Zords
+The following are stat blocks for existing Zords in 
+the Mighty Morphin Power Rangers universe. While 
+we encourage players to use this chapter to create 
+their own Power Ranger character’s Zords, the fol-
+lowing pre-made Zords are available for players and 
+GMs alike to call upon for easy use.
+ 
+                                           
+
+===== PAGE 142 (index 141) =====
+141
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+The Dinozords
+Tyrannosaurus Dinozord
+Prerequisite: Red Ranger
+SIZE Gigantic | HEALTH 8
+STRENGTH 9 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 22 (3 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft.
+Skills: Brawn D8, Conditioning IV, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Additional Attack Type, Call to 
+Action, Combiner (Core Body), Heavy Chassis, 
+Increase (Strength), Recall for Repairs
+Claws: D8 Skill, reach 15 ft., Effect: 2 Sharp 
+Damage. 
+Laser Beam Eyes: D6 Skill, reach 50/120 ft.,  
+Effect: 2 Energy Damage.
+Roar: D6 Skill, reach 50/120 ft., Effect:  
+2 Sonic Damage.
+                                           
+
+===== PAGE 143 (index 142) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+142
+Mastodon Dinozord
+Prerequisite: Black Ranger
+SIZE Extended II | HEALTH 7
+STRENGTH 8 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 21 (3 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Blast Attack, Call to Action, 
+Combiner (Core Defenses), Hardened Chassis, 
+Heavy Chassis, Recall for Repairs
+Tusks: D8 Skill, reach 15 ft., Effect: 2 Blunt Damage. 
+Freezing Trunk Mist: D6 Skill, reach 50/120 ft., Area 
+of Effect 20’ x 20’. Effect: 2 Cold Damage.
+Triceratops Dinozord
+Prerequisite: Blue Ranger
+SIZE Extended II | HEALTH 7
+STRENGTH 8 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 18 (1 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft.
+Skills: Brawn D8, Conditioning III, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Additional Attack Type, Call to 
+Action, Combiner (Enhanced Melee), Enhance (Tail 
+Cannons), Heavy Chassis, Recall for Repairs
+Horns: D6 Skill, reach 15 ft., Effect: 2 Sharp Damage
+Tail Cannons: D6 Skill, reach 50/120 ft., Effect: 3 
+Energy Damage
+Chain Hurler: D6 Skill, reach 50/120 ft., Effect: 
+Target is Restrained
+                                           
+
+===== PAGE 144 (index 143) =====
+143
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+Sabretooth Tiger Dinozord
+Prerequisite: Yellow Ranger
+SIZE Extended II | HEALTH 7
+STRENGTH 7 | SPEED 5 | SMARTS * | SOCIAL * 
+TOUGHNESS 18 (1 Armor) | EVASION 15
+GROUND MOVEMENT 40 ft.
+Skills: Athletics D2, Brawn D6, Conditioning III, 
+Driving (Autopilot) D2, Initiative D8
+Zord Features: Call to Action, Combiner (Enhanced 
+Ranged), Crew Compartment, Heavy Chassis, Light 
+Chassis, Recall for Repairs
+Bite: D8 Skill, reach 15 ft., Effect: 2 Sharp Damage. 
+Tail Laser: D6 Skill, reach 50/120 ft., Effect: 2 
+Energy Damage.
+Pterodactyl Dinozord
+Prerequisite: Pink Ranger
+SIZE Extended | HEALTH 7
+STRENGTH 7 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft. | AERIAL 
+MOVEMENT 40 ft.
+Skills: Athletics D2, Brawn D6, Conditioning III, 
+Driving (Autopilot) D2, Initiative D6
+Zord Features: Call to Action, Combiner (Move), 
+Enhance (Lightning Cannons), Heavy Chassis, 
+Movement Boosters, Recall for Repairs
+Wing Bash: D6 Skill, reach 10 ft., Effect: 2 Blunt 
+Damage. 
+Lightning Cannons: D8 Skill (Ignores Armor), reach 
+50/120 ft., Effect: 2 Electric Damage.
+                                           
+
+===== PAGE 145 (index 144) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+144
+The Dino Megazord 
+SIZE Towering Size (Combiner) | HEALTH 
+(16/7/7/7/7)
+STRENGTH 9 | SPEED 5 | SMARTS * | SOCIAL * 
+TOUGHNESS 22 (3 Armor) | EVASION 16
+GROUND MOVEMENT 50 ft.
+Skills: Brawn D8, Driving (Autopilot) D2, Initiative 
+D6, Might D6
+Participant Melee Attack: D8 Skill, reach 20 ft., 
+Effect: 2 Blunt Damage. 
+Participant Ranged Attack: D8 Skill, reach 50/120 
+ft., Effect: 3 Energy Damage.
+Power Sword (1/scene): D8 Skill, reach 40 ft., 
+Effect: 9 Sharp Damage.
+Cranial Laser (1/scene): D8 Skill (Ignores Armor), 
+reach 100/240 ft., Effect: 6 Energy Damage.
+The Dragonzord
+Prerequisite: Green Ranger or Relic Key Holder
+SIZE Towering | HEALTH 11
+STRENGTH 9 | SPEED 2 | SMARTS * | SOCIAL * 
+TOUGHNESS 19 (1 Armor) | EVASION 12
+GROUND MOVEMENT 40 ft.
+Skills: Brawn D8, Conditioning IV, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Additional Attack Type, Auxiliary 
+Zord, Call to Action, Combiner (Core Body), 
+Enhance (Tail Drill), Recall for Repairs, Relic Key, 
+Titan Body
+Tail Drill: D8 Skill, reach 40 ft., Effect: 4 Sharp 
+Damage. 
+Energy Beam: D6 Skill, reach 50/120 ft., Effect: 3 
+Energy Damage.
+Knuckle Missile Racks: D6 Skill, reach 50/120 ft., 
+Area of Effect 20’ x 20’. Effect: 3 Fire Damage.
+                                           
+
+===== PAGE 146 (index 145) =====
+145
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+The Dragon Megazord 
+SIZE Towering (Combiner) | HEALTH (22/7/7/7/7)
+STRENGTH 9 | SPEED 5 | SMARTS * | SOCIAL * 
+TOUGHNESS 22 (3 Armor) | EVASION 16
+GROUND MOVEMENT 50 ft.
+Skills: Brawn D8, Might D6, Driving (Autopilot) D2, 
+Initiative D6
+Participant Melee Attack: D8 Skill, reach 20 ft., 
+Effect: 4 Sharp Damage. 
+Participant Ranged Attack: D8 Skill, reach 50/120 
+ft., Effect: 3 Energy Damage.
+Power Staff (1/scene): D8 Skill, reach 40 ft., Effect: 
+12 Sharp Damage.
+Energy Fin Beam (1/scene): D8 Skill (Ignores 
+Armor), reach 100/240 ft., Effect: 6 Energy Damage.
+White Tigerzord
+Prerequisite: White Ranger
+SIZE Extended II | HEALTH 8
+STRENGTH 9 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 22 (3 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft.
+Skills: Athletics D4, Brawn D6, Conditioning III, 
+Driving (Autopilot) D2, Initiative D6
+Zord Features: Auxiliary Zord, Call to Action, 
+Combiner (Core Defenses), Enhanced (Claws), 
+Hardened Chassis, Recall for Repairs, Relic Key, 
+Warrior Mode
+Claws: D8 Skill, reach 15 ft., Multi-Weapon (2). 
+Effect: 3 Sharp Damage. 
+White Tiger Thunderbolts: D6 Skill, reach 50/120 
+ft., Effect: 2 Electric Damage. 
+                                           

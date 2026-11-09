@@ -1,0 +1,962 @@
+===== PAGE 119 (index 118) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+118
+TYPE DESCRIPTION AVAILABILITY PREREQUISITE BENEFIT
+Cryo Tank This energy weapon is retrofit to also spew liquid nitrogen. Restricted
+Weapon with 
+range measured 
+in feet, with an 
+Energy trait other 
+than Cold.
+The weapon gains the Cold trait. This 
+is in addition to any other Energy 
+trait.
+Detonator 
+Bomb
+This explosive is planted instead of 
+thrown, detonating when a detona-
+tor is triggered. 
+Restricted Grenade.
+The grenade's range becomes Reach. 
+Setting a bomb is a Standard action. 
+The bomb triggers when someone 
+-usually the person who planted the 
+bomb, presses a detonator button. 
+Designate the detonator when 
+setting the bomb. Multiple bombs 
+can be set to be triggered by the 
+same detonator. Using a detonator 
+is a free action. The detonator must 
+be in hand in order to use it. When a 
+bomb detonates, whoever planted it 
+makes a Technology (Explosives) skill 
+test against anyone in the bomb’s 
+blast radius. This does mean that if 
+the person who set the bomb gets 
+caught in the bomb’s blast radius, 
+they attacks themself. 
+Ignition Tank A flame throwing mechanism is added to this energy weapon. Restricted
+Weapon with 
+range measured 
+in feet, with an 
+Energy trait other 
+than Fire.
+The weapon gains the Fire trait. This 
+is in addition to any other Energy 
+trait.
+Quake Maker
+This energy weapon is equipped 
+with a concentrated vibration 
+generator.
+Restricted
+Weapon with 
+range measured 
+in feet, with an 
+Energy trait other 
+than Sonic.
+The weapon gains the Sonic trait. 
+This is in addition to any other 
+Energy trait.
+Ray 
+Generator
+A laser scope that can be dialed up 
+to a second weapon option. Restricted
+Weapon with 
+range measured 
+in feet, with an 
+Energy trait other 
+than Laser.
+The weapon gains the Laser trait. 
+This is in addition to any other 
+Energy trait.
+Seeking Through either magnets or radar, this ammo finds its mark. Restricted Weapon with range measured in feet The weapon gains the Indirect trait.
+Swift
+Rare, light but durable material 
+makes using this weapon twice as 
+fast without sacrificing accuracy.
+Restricted
+Weapon with 
+range measured 
+in feet
+One of the Weapon's non-blast 
+Effects gains Multiple Targets (2, 
+10ft radius), or one of the weapon's 
+Multiple Targets effects increases 
+by 1.
+Voltage tank A secondary barrel emits electric bolts. Restricted
+Weapon with 
+range measured 
+in feet, with an 
+Energy trait other 
+than Electric.
+The weapon gains the Electric trait. 
+This is in addition to any other 
+Energy trait.
+Smart Scope
+A computerized scope which 
+accounts for range, wind, weapon 
+drift, drop, digital magnification, 
+night vision, and other benefits.
+Prototypical Targeting Weapon
+The weapon gains the computerized 
+trait if it does not already have it. 
+Increase effective range by 1.5 and 
+long range by 2. The weapon suffers 
+no penalties for firing in darkness.
+TABLE 8-4.3: WEAPON UPGRADES
+                                           
+
+===== PAGE 120 (index 119) =====
+119
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+Power Armor
+All Power Rangers in morphed form gain basic 
+armor inherently built into their suits, as well as 
+the innate ability to be proficient in wearing it. 
+In addition to their Power Armor, there are var-
+ious pieces of armored equipment that will add 
+protection for a Ranger, as well as certain Limited 
+or Restricted suit upgrades available to the Power 
+Armor that change the protection level of the armor 
+without affecting how the suit looks.
+Every Power Ranger automatically receives 
+Power Armor in a color based on their Role. This 
+armor may be chosen from different types, each 
+with a specific benefit. When you choose your 
+armor, you designate your character’s overall pro-
+tection. All Rangers are proficient in their standard 
+armor, while Limited or Restricted armor may 
+require additional Training.
+Power Armor Traits
+Power Armor has the following traits that define 
+what they can do and how.
+Deflective: Dense protective sheets provide 
+some or all of this armor’s protective benefits. 
+Armor Piercing weapons ignore this armor’s 
+bonus to Toughness.
+AVAILABILITY TYPE CLASSIFICATION DESCRIPTION EFFECT TRAITS
+Automatic
+Clothes Non Armor
+A simple layer of clothing. Not armor, 
+but clothes qualify for certain armor 
+upgrades.
++0 Silent
+Standard
+Mighty Morphin 
+Armor Light Armor Layered soft armor known for its ver-satility through modularity. Toughness +1 Deflective
+Zeo Armor Medium Armor Soft goods reinforced with bullet resistant plating. Toughness +2 Deflective
+Turbo Armor Medium Armor Soft goods reinforced with bullet resistant plating. Toughness +2 Deflective
+In Space Armor Medium Armor Soft goods reinforced with bullet resistant plating. Toughness +2 Deflective
+Limited
+Metallic Body 
+Armor Heavy Armor
+Stiff, thick armor designed for specific 
+tasks that require more protection 
+than mobility, but can be retrofit for 
+more general purposes.
+Toughness +3 Deflective
+TABLE 8-5: POWER ARMOR
+                                           
+
+===== PAGE 121 (index 120) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+120
+Silent: Extremely light or built in a way to min-
+imize sound, wearers of Silent armor can make 
+Infiltration skill checks without penalty. Anyone 
+making an Infiltration skill check while wearing 
+armor without the Silent trait does so with a  pen-
+alty equal to its total bonus. For example, wearing 
+a suit with no Silent trait but with an Evasion +2, 
+Toughness +2 confers a 4 on Infiltration checks.
+Gear
+This section describes items that you may pick up 
+or have in your possession that have special rules 
+or require further explanation. Most gear requires 
+either a standard or move action to use, at the dis-
+cretion of the GM.
+Acid. As an action, you can splash the contents of 
+this vial onto a creature within your Reach or throw 
+the vial up to 20 feet, shattering it on impact. In 
+either case, you must succeed on a Targeting Skill 
+Test against a creature or object for a successful hit. 
+On a hit, the target takes 1 acid damage. 
+Binoculars. Binoculars allow a sighted user to see 
+up to 800 feet in bright light or 200 feet distance in 
+dim light. Any objects or creatures within 30 feet of 
+the user cannot be seen while binoculars are in use.
+Book. A book may contain geographical informa-
+tion, historical lore, scientific information, journal 
+notes or field entries, basic educational information, 
+accounting ledgers, and basically anything that can 
+be written or illustrated. 
+Caltrops. Caltrops are small, spiked weapons that 
+can be spread across a floor to make crossing the 
+area a painful chore. One bag of caltrops will cover 
+a 5 ft. square area, and any creature that attempts 
+to cross the area must succeed on a DIF 15 Speed 
+(Acrobatics) Skill Test or stop moving and lose 1 
+Speed point. 
+Candle. A candle will provide bright light in a 5 ft. 
+square area and dim light for an additional 10 feet. 
+Standard candles last for approximately 1 hour.
+Chain. Chains are 15 ft. long and have a 
+Toughness of 20, whether struck with a blunt or 
+sharp weapon. 
+Climber’s Kit. A climber’s kit includes 50 ft. of rope, 
+20 climber’s pitons, boot tips, gloves, and a harness. 
+While using a climber’s kit, you cannot fall any 
+further than 20 ft. from where you have positioned a 
+piton, and all climbing Skill Tests have a DIF 10.
+Computer Tablet. A computer tablet is a hand-
+held personal computer that can be used to store 
+and access any digital information as well as record 
+video, audio, or still photographs. Computer tablets 
+can interface with any other computer device either 
+directly or through satellite, wifi, or other networks. 
+A user with Technology (Computers) gains an Edge 
+on all Skill Tests for hacking while using this device.
+Crowbar. Using a crowbar grants Edge to any 
+Brawn Skill Tests where the crowbar’s leverage can 
+be used. Crowbars may also be used as improvised 
+weapons and deal blunt damage.
+Flashlight. A flashlight enables the user to illumi-
+nate a 30-foot cone of bright light with dim light 
+extending an additional 30 feet. Flashlights may be 
+mounted to a shoulder, wrist, or head strap as well 
+as most ranged weapons.
+Lock. Basic locks may be either keyed or digi-
+tal. For key locks, a key is provided with the lock. 
+Digital locks are set with a specific passcode. 
+Without the key or passcode, a creature may pick 
+or hack the lock with a DIF 15 Sleight of Hand or 
+Technology Skill Test, respectively. There may be 
+more secure locks that the GM decides have a 
+higher DIF, and acquiring these locks may take spe-
+cial connections or a higher wealth check to obtain.
+Power Morpher. A Power Ranger’s Power Morpher 
+is a custom device that is used to instantaneously 
+transform into their Power Suit, as well as grants 
+them all of their enhanced abilities of their morphed 
+form. Power Morphers include a power source, usu-
+ally a Power Coin unique to each Ranger.
+                                           
+
+===== PAGE 122 (index 121) =====
+121
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+Rope. Rope, whether made of hemp or silk, 
+comes in 50 ft. lengths and has a Toughness of 16. 
+Rope may only be cut with weapons that deal sharp 
+or fire damage.
+Wrist Communicator. This watch-like device is 
+used to communicate with other users who have a 
+wrist communicator, as well as with the Command 
+Center. It contains a link to the Command Center’s 
+teleportation system, which allows the user to tele-
+port from any location to the Command Center and 
+vice versa, each trip consuming one charge. Wrist 
+communicators have three charges before they must 
+be recharged, which takes 8 hours.
+Kits
+Engineering Kit
+This kit is a metallic case with tools 
+necessary for simple engineering and 
+technology repairs, including screw-
+drivers, wrenches, soldering iron, a 
+hammer, copper wiring, and an 
+assortment of bolts, cogs, nails, 
+nuts, screws, and springs.
+Med Kit
+This kit is a hard plastic case 
+containing bandages, antibacterial 
+solutions, splints, and pain med-
+ication. The kit has ten uses before 
+its supplies must be replenished. As 
+an action, you may expend one use of the kit heal 
+1 Damage, without needing to make a Science 
+(Medicine) check. Users with Science (Medicine) 
+may use the kit to heal 2 Damage.
+Power Boxes
+Power Boxes are backpacks that act as survival 
+packs for the Rangers. They come with rations, 
+water, and a flashlight, as well as a life preserver, a 
+canteen, and a pair of high tech binoculars.
+Vehicles
+With the capability of teleportation, it isn’t often 
+that Power Rangers need vehicular transport on 
+common missions. However, sometimes they face a 
+Threat in a remote location or even in space, where 
+the right vehicle is needed to get the job done. 
+Additionally, since Power Rangers are limited to the 
+number of charges in their Wrist Communicator for 
+teleportation, having a vehicle enables the ability 
+to travel from location to location without having 
+to spend precious charges. While your Ranger may 
+have access to run-of-the-mill cars, depending on 
+their Wealth Check, there are a few vehicles that 
+they may access from the Command Center if they 
+have the proper training, experience, and need.
+About Vehicles
+Because of everything a vehicle can do, vehicle 
+rules are presented more similarly to characters than 
+other equipment. Like a character, vehicles have 
+a Size, defenses based on Essense Scores, Health, 
+Skills, Perks, and Attacks. The reason vehicles are 
+equipment is that they have no Smarts or Social 
+scores by default, and they do nothing without a 
+character operating them, with rare exception. 
+                                           
+
+===== PAGE 123 (index 122) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+122
+Vehicles are almost exclusively given out as 
+Mission Critical Items or captured during a mission, 
+unless your GM allows you to keep one as part of 
+your standard equipment. 
+Vehicles also have the following Statistic: Crew, 
+Hardpoint Weapons, and Firepoints, summarized 
+below:
+Crew
+A Vehicle’s crew represents a combination of its 
+operators and capacity for passengers. Crew falls 
+under two categories:
+Drivers: The vehicle’s main and most important 
+crew. Without a driver, a vehicle cannot move and 
+is treated as an object. If a vehicle lists multiple driv-
+ers, it can move as long as it has one driver, but only 
+at half speed. It can only move at full speed with its 
+full complement of drivers. Only one driver makes 
+Driving Skill Tests. Additional drivers can lend assis-
+tance on Skill Tests. 
+Passengers: Gunners, navigators, and anyone just 
+along for the ride all count as passengers. Passengers 
+can lend assistance to the driver’s Driving tests, 
+operate hardpoint weapons, fire out of firepoints, or 
+use their own abilities. 
+Additional information might be provided to 
+clarify what the passengers can do in parentheses. 
+These are optional secondary crew positions. When 
+embarking the vehicle as a passenger, indicate 
+whether you will be filling one of the secondary 
+crew positions immediately. Otherwise it takes a 
+Move action for a passenger to fill a secondary crew 
+position. Similarly, it takes a Move action to move 
+from a secondary crew position to another second-
+ary crew position, or to the passenger area. 
+Hardpoint Weapons
+Weapons built into the vehicle. If the weapon 
+has the Targeting System trait, a driver can use this 
+weapon as a Standard action, using the vehicle’s 
+Targeting for the Skill Test. Otherwise, a passen-
+ger in a gunner secondary crew position operates 
+this weapon as a Standard action, using their own 
+Targeting skill. 
+Firepoints
+Firepoints indicate the amount of crew that can 
+target enemies outside the vehicle from inside the 
+vehicle. Firepoints do not limit the number of crew 
+that can target enemies who board the vehicle. 
+ Vehicles 
+come in sizes 
+and move at 
+speeds that make 
+them hard to con-
+tain on a typical battle 
+mat. That’s not always a problem. 
+If four PCs on foot face off against 
+an enemy is a flying craft, its abil-
+ity to leave them in its dust is the 
+point. Similarly, when a vehicle 
+attacks an enemy on foot, regard-
+less of their relative speed, the 
+fight will stay in tight quarters for 
+weapon targeting. 
+However, the average battlemap 
+might not be big enough to con-
+tain all of the action of combats 
+dominated by vehicles. Vehicles 
+can take up more than 30 ft, and 
+travel at speeds two or three times 
+that of your PCs’ movement. If 
+you find battles between vehicles 
+outpace their map spaces, you 
+can change the scale. Typically, 
+1 square = 5 ft x 5 ft. For vehic-
+ular combat, you can zoom out, 
+making 1 square = 15 ft x 15 ft, 
+or 30 ft x 30 ft. Why 15 or 30? The 
+average ground movement speed 
+of a Common sized character is 
+30 ft. By switching to 15 ft or 30 
+ft squares, characters outside of 
+vehicles can still move about the 
+battlefield, but vehicles dominate. 
+This effectively makes your maps 
+3 to 6 times bigger, plenty of room 
+for larger combatants.
+                                           
+
+===== PAGE 124 (index 123) =====
+123
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+Vehicle Skills
+Vehicles have a list of Skills, drawn from the same 
+Skills characters have access to. These represent 
+what the vehicle is capable of when crewed by at 
+least one driver. When the GM calls upon a vehicle 
+to make Skill Tests, determine whether the situation 
+calls for the Skills of the vehicle, a driver, or a pas-
+senger filling a secondary crew position. 
+For example, your Red Ranger is driving the 
+Lightning Cruiser. The Lightning Cruiser has Alertness 
+d6, based on its ability to sentiently perceive the world 
+around it. Your character has Alertness d8, mostly 
+based on your eyes. The Lightning Cruiser speeds past 
+a secret hideout that Goldar is using to plan a surprise 
+attack. The GM determines whether you could have 
+spotted the hideout or if the only way you could have 
+noticed it was if it came up on Lightning Cruiser’s 
+radar. Given the speed at which Lightning Cruiser 
+moves, as well as the focus needed for you to drive it, 
+the GM rules it’s unlikely that you saw the hideout on 
+your own, even though your Alertness is pretty high. 
+Fortunately, with this ruling, you may roll for Lightning 
+Cruiser’s Alertness as a backup. 
+Vehicle Attacks
+Skill tests for attacking with a vehicle favor the 
+crew. Use the operating crew member’s listed skill, 
+unless two Skills are listed (usually a vehicle Skill 
+and an operator Skill). In that case, use the better 
+of the two Skills. In the case of a sentient vehicle or 
+mounted vehicle weapons, you may opt to use the 
+vehicle’s skill instead of the crew.
+For example, you’ve found Goldar, and you attack 
+with the Lightning Cruiser’s Energy Blast. The Energy 
+Blast lists the Skill Test as Targeting d6 or passen-
+ger’s Targeting. Your teammate may have a better or 
+worse Targeting Skill than the Lightning Cruiser, and 
+if it is worse, it is best to choose to let the sentient 
+vehicle shoot for itself. 
+Vehicle Perks, Powers, and Traits
+Vehicles have exclusive perks and powers, sum-
+marized in its stat block. 
+All vehicles gain the Vehicle trait, as well as a 
+selection of other traits, summarized below:
+A.I.: This vehicle has Smarts and Social Essence 
+Scores, as well as Willpower and Cleverness 
+defenses. Whether truly A.I. or an actual sentient 
+being, this is the trait for all vehicles that have these 
+Essence Scores. The vehicle can be targeted with 
+mind-affecting effects, although it is still immune to 
+fear. Its driver’s Willpower and Cleverness can still 
+be targeted. On the vehicle’s turn, it gains a number 
+of Free actions equal to its Smarts minus 2. It can 
+use these Free actions to lend assistance to its crew, 
+along with any Free actions available to the crew 
+from other vehicle Perks, Powers, and Traits.
+Air: This is a flying vehicle, such as an aircraft, 
+rotarycraft, or jet pack. 
+Amphibious: This counts as both a land and sea 
+vehicle. 
+Armored Cabin: Armor extends to cover the 
+driving cabin. Attacks can’t target the vehicle’s 
+Crew.  
+Autopilot: As long as this vehicle has 1 dri
+ver, 
+it operates at full capacity. If this vehicle has a 
+full complement of drivers, a driver can use a free 
+action to have the autopilot lend assistance on a 
+Driving Skill Test. 
+Autopilot, Advanced: If this vehicle has no driv-
+ers, it operates like a normal vehicle with at least 1 
+driver but less than its full complement of drivers. 
+Land: This is a ground vehicle, such as a motorcy-
+cle, jeep, or tank. 
+Ram: A land vehicle’s natural attack, sideswiping 
+or colliding head on in a way that deals damage to 
+target but not the attacker. 
+Sea: This is an aquatic vehicle, such as a boat, 
+submarine, or personal watercraft. 
+Sensors: This vehicle can invest ranks into the 
+Alertness skill, even without a Smarts Essence score. 
+Sidecar: This vehicle has the capability of attach-
+ing a removable pod that can hold 1 passenger. 
+When a sidecar is attached, the vehicle gains crew 
+capacity of 1, but its Evasion is lowered by 2 and 
+movement is reduced by 5 ft.
+Targeting System: The driver can attack with this 
+weapon as a Free action, using their own Driving 
+skill or the vehicle’s Targeting skill, if it has one, for 
+the Skill Test. 
+Take Off: This vehicle needs to move this far in 
+a straight line on the ground in order to use its air 
+movement.  
+                                           
+
+===== PAGE 125 (index 124) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+124
+Vehicle: As a vehicle, this is a sophisticated 
+piece of equipment that requires at least one 
+Driver to operate. Without a driver, it is considered 
+a Threat level 0 object, and all attacks target its 
+Toughness. Effects that affect a target’s Willpower or 
+Cleverness only affect this vehicle if it has a driver, 
+in which case they target the driver’s Willpower or 
+Cleverness.It is immune to mind affecting effects 
+and effects that exclusively affect the living, like 
+poison, but is susceptible to effects that affect 
+machines, such as Anti-Tank weapons. Vehicle dam-
+ages can be fixed with a Standard engineering kit 
+and a Technology check. 
+VTOL: This vehicle takes off and lands vertically. 
+Wearable: The crew of this personal vehicle wears 
+it rather than rides it. Attacks can target the crew or 
+the vehicle equally, rolling against the defenses of 
+the target. 
+Battle Bike
+THREAT LEVEL: 2
+SIZE: COMMON | HEALTH: 4
+GROUND MOVEMENT: 45 feet
+TOUGHNESS: 14 | EVASION: 12
+WILLPOWER: | CLEVERNESS: *
+Crew: 1 driver (+1 passenger if equipped with 
+sidecar)
+Firepoints: 1 - The driver can attack with any one-
+handed weapon (+1 passenger if equipped with 
+sidecar, who can attack with any weapon)
+Defenses: Light Plating (+1 plating to Toughness)
+The first Battle Bikes were modeled after the 
+Tyrannosaurus, Triceratops and Mastodon Zords, 
+but Rangers can request the use of Battle Bikes from 
+Command Center to match any color and Zord. 
+Battle Bikes have the option of a sidecar, providing 
+transportation to other Rangers who don’t know how 
+to ride a motorcycle and rescued civilians alike.
+SKILLS:
+Might +d4
+Brawn +d2
+Initiative +d2
+TRAITS: 
+Land: The Battle Bike is a land vehicle. 
+Vehicle: As a vehicle, the Battle Bike requires a 
+driver to operate. Without a driver, it is considered 
+a Threat level 0 object, and all attacks target its 
+Toughness. Effects that affect a target’s Willpower or 
+Cleverness only affect this vehicle if it has a driver, 
+in which case they target the driver’s Willpower or 
+Cleverness. It is immune to mind affecting effects 
+and effects that exclusively affect the living, like 
+poison, but is susceptible to effects that affect 
+machines, such as Anti-Tank weapons. Vehicle 
+damage can be fixed with a Standard engineering 
+kit and a Technology check. 
+ATTACKS:
+Ram (Might): +d4, Reach (2 Blunt Damage to 1 
+Target or 1 Blunt Damage to 2 Targets)
+The vehicle must move in a straight line for at 
+least 5 ft in order to Ram. Up to 2 creatures within 
+the area may be affected.
+                                           
+
+===== PAGE 126 (index 125) =====
+125
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+Galaxy Glider
+THREAT LEVEL: 0
+SIZE: COMMON | HEALTH: 6
+GROUND MOVEMENT: 40 feet (hover), flying 100 
+feet
+TOUGHNESS: 15 | EVASION: 17
+WILLPOWER: * | CLEVERNESS: *
+Crew: 1 driver
+Firepoints: 1 - The driver can use any weapon
+Defenses: Light Plating (+1 plating to Toughness)
+The Galaxy Glider is a personal spacecraft, ridden 
+much like a surfboard. The pilot of the Galaxy 
+Glider must be adept at driving and acrobatics, as 
+the glider is accelerated by leaning forward and 
+decelerated by leaning backwards, all while main-
+taining perfect balance. Extremely rare, these can 
+be requisitioned from the Command Center only for 
+special missions.
+SKILLS:
+Acrobatics +d6
+Might +d4
+Initiative +d8
+TRAITS: 
+Air: The Galaxy Glider is an air vehicle.
+Vehicle: As a vehicle, the Lightning Cruiser 
+requires a driver to operate. Without a driver, it is 
+considered a Threat level 0 object, and all attacks 
+target its Toughness. Effects that affect a target’s 
+Willpower or Cleverness only affect this vehicle if 
+it has a driver, in which case they target the driv-
+er’s Willpower or Cleverness. It is immune to mind 
+affecting effects and effects that exclusively affect 
+the living, like poison, but is susceptible to effects 
+that affect machines, such as Anti-Tank weapons. 
+Vehicle damage can be fixed with a Standard engi-
+neering kit and a Technology check. 
+ATTACKS:
+Flyby (Acrobatics): +d6, Reach (1 Blunt Damage 
+or Trip)
+The vehicle must move in a straight line for at 
+least 10 ft in order to do a Flyby. Up to 2 creatures 
+within the area may be affected.
+Lightning Cruiser
+THREAT LEVEL: 8
+SIZE: LONG | HEALTH: 10
+GROUND MOVEMENT: 50 feet, flying 100 feet
+TOUGHNESS: 17 | EVASION: 15
+WILLPOWER: 18 | CLEVERNESS: 14
+Crew: 1 driver, 4 passengers
+Firepoints: 5 - All crew can use any weapon, how-
+ever, if the driver is using a two-handed weapon, 
+Lightning Cruiser must be on autopilot.
+Defenses: Light Plating (+1 plating to Toughness)
+Lightning Cruiser is a sentient living being that is 
+able to drive on its own, as well as think and act 
+rationally in any given situation. It can drive on 
+land at great speeds without losing its stability and 
+maneuverability, and boasts a forward-facing fixed 
+cannon mounted on the roof of the car, which fires 
+Energy Blasts. 
+Additionally, the Lightning Cruiser can transform 
+into Jet Cruiser Mode, with the ability to to fly. 
+While in Jet Cruiser Mode, it is able to fire from the 
+four assault guns located on the wings, which are 
+hidden while in its default car mode.
+SKILLS:
+Alertness +d6
+Brawn +d4
+Might +d4
+Initiative +d8
+Targeting: +d6
+TRAITS: 
+A.I.: The Lightning Cruiser is sentient and is 
+susceptible to any Social or Smarts attacks, as it 
+has both Essence Scores. It is able to act and make 
+strategic decisions on its own.
+Air: The Lightning Cruiser converts into an air 
+vehicle.
+Autopilot, Advanced: The Lightning Cruiser does 
+not need a driver to operate at full capacity, includ-
+ing firing its weapon.
+Land: The Lightning Cruiser is a land vehicle. 
+Targeting System: The driver can attack with this 
+weapon as a Free action, using their own Driving 
+skill or the Lightning Cruiser’s Targeting skill. 
+                                           
+
+===== PAGE 127 (index 126) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+126
+Vehicle: As a vehicle, the Lightning Cruiser 
+requires a driver to operate. Without a driver, it is 
+considered a Threat level 0 object, and all attacks 
+target its Toughness. Effects that affect a target’s 
+Willpower or Cleverness affect this vehicle, as it 
+has those traits as a sentient being. It is immune to 
+effects that exclusively affect the living, like poison, 
+but is susceptible to effects that affect machines, 
+such as Anti-Tank weapons. Vehicle damage can 
+be fixed with a Standard engineering kit and a 
+Technology check. 
+ATTACKS:
+Multiple Attacks: The Lightning Cruiser makes 
+four attacks with its wing-mounted assault guns.
+Ram (Might): +d4, Reach (2 Blunt Damage to 1 
+Target or 1 Blunt Damage to 2 Targets)
+The vehicle must move in a straight line for at 
+least 5 ft in order to Ram. Up to 2 creatures within 
+the area may be affected.
+Energy Cannon (Targeting): +d6, Range 30/80 ft. 
+(2 Energy Damage)
+The Lightning Cruiser’s mounted cannon is only 
+available when in Land mode and makes one attack 
+per Turn unless damaged. The cannon is destroyed 
+after the Lightning Cruiser takes 6 Damage.
+Assault Guns (Targeting): +d6, Range 100/300 ft. 
+(1 Energy Damage)
+The Lightning Cruiser’s assault guns are only avail-
+able when in Air mode. Each of the four guns may 
+make an attack per round, suffering 1 cumulatively 
+for each attack after the first. 
+Megatank
+THREAT LEVEL: 8
+SIZE: LARGE | HEALTH: 10
+GROUND MOVEMENT: 60 feet
+TOUGHNESS: 18 | EVASION: 15 
+WILLPOWER: * | CLEVERNESS: *
+Crew: 1 driver, 8 passengers
+Firepoints: 0 
+Defenses: Heavy Plating (+3 plating to Toughness)
+The Megatank is a 6-wheeled mobile unit capable 
+of terrestrial movement while maintaining atmo-
+spheric conditions suitable for human beings. While 
+it can be used on Earth, it was designed for space 
+missions and is stored with the Megaship in a secret 
+remote location in space.
+The Megatank has two mounted Energy Cannons 
+and a large claw, used for relocating obstructions 
+and the occasional battle. It was designed for Rough 
+Terrain and is not suitable for driving on city streets.
+SKILLS:
+Brawn +d6
+Initiative +d4
+Might +d10
+Targeting +d6
+TRAITS: 
+Armored Cabin: Armor extends to cover the driv-
+ing cabin. Attacks can’t target the vehicle’s Crew. 
+Land: The Megatank is a land vehicle. It ignores 
+all penalties for Rough Terrain.
+Targeting System: The driver can attack with this 
+weapon as a Free action, using their own Driving 
+skill or the vehicle’s Targeting skill, if it has one, for 
+the Skill Test.
+Vehicle: As a vehicle, the Megatank requires a driver 
+to operate. Without a driver, it is considered a Threat 
+level 0 object, and all attacks target its Toughness. 
+Effects that affect a target’s Willpower or Cleverness 
+only affect this vehicle if it has a driver, in which 
+case they target the driver’s Willpower or Cleverness. 
+It is immune to mind affecting effects and effects 
+that exclusively affect the living, like poison, but is 
+susceptible to effects that affect machines, such as 
+Anti-Tank weapons. Vehicle damage can be fixed with 
+a Standard engineering kit and a Technology check. 
+                                           
+
+===== PAGE 128 (index 127) =====
+127
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+ATTACKS:
+Claw (Might): +d10, Reach (1 Blunt Damage, grapple)
+The Claw can be used as an attack or to maneuver 
+large objects such as walls or other vehicles.
+Energy Cannon (Targeting): +d6, Range 30/80 ft. 
+(2 Energy Damage)
+The Megatank’s mounted cannon makes one 
+attack per Turn unless damaged. The cannon is 
+destroyed after the Megatank takes 6 Damage.
+Ram (Might): +d10, Reach (2 Blunt Damage to 1 
+Target or 1 Blunt Damage to 2 Targets)
+The vehicle must move in a straight line for at 
+least 5 ft in order to Ram. Up to 2 creatures within 
+the area may be affected.
+RadBug
+THREAT LEVEL: 1
+SIZE: LONG | HEALTH: 4
+GROUND MOVEMENT: 120 feet, flying 500 feet
+TOUGHNESS: 12 | EVASION: 20 
+WILLPOWER: * | CLEVERNESS: *
+Crew: 1 driver, 4 passengers
+Firepoints: 4 - The driver cannot use a weapon, but 
+all passengers can use any weapon. 
+Defenses: Light Plating (+1 plating to Toughness)
+RadBug is an acronym for “Remote Activated 
+Drivingzord for Basic Ultra Geomorphology” and 
+is a Volkswagon Beetle that was originally designed 
+and built by Blue Ranger Billy Cranston. Capable of 
+flight, it can go from 0 to 3,000 mph in less than three 
+seconds. Despite technically being a “Zord,” it was 
+not meant for combat and should always be used for 
+transportation, as it cannot stand up to much damage. 
+The RadBug is stored in the Command Center’s vault.
+SKILLS:
+Might +d2
+Initiative +d12*
+TRAITS: 
+Air: The RadBug can convert to a flying vehicle.
+Land: The RadBug is a land vehicle. 
+Take Off: The RadBug must be able to move unob-
+structed for at least 45 feet to take off into flight mode.
+Vehicle: As a vehicle, the RadBug requires a driver 
+to operate. Without a driver, it is considered a Threat 
+level 0 object, and all attacks target its Toughness. 
+Effects that affect a target’s Willpower or Cleverness 
+only affect this vehicle if it has a driver, in which 
+case they target the driver’s Willpower or Cleverness. 
+It is immune to mind affecting effects and effects 
+that exclusively affect the living, like poison, but is 
+susceptible to effects that affect machines, such as 
+Anti-Tank weapons. Vehicle damage can be fixed with 
+a Standard engineering kit and a Technology check. 
+ATTACKS:
+Ram (Might): +d2, Reach (2 Blunt Damage to 1 
+Target or 1 Blunt Damage to 2 Targets)
+The vehicle must move in a straight line for at 
+least 5 ft in order to Ram. Up to 2 creatures within 
+the area may be affected.
+                                           
+
+===== PAGE 129 (index 128) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+128
+Storm Blaster
+THREAT LEVEL: 8
+SIZE: LONG | HEALTH: 11 
+GROUND MOVEMENT: 45 feet
+TOUGHNESS: 16 | EVASION: 16
+WILLPOWER: 17 | CLEVERNESS: 15
+Crew: 1 driver, 4 passengers
+Firepoints: 5 - All crew can use any weapon, how-
+ever, if the driver is using a two-handed weapon, 
+Storm Blaster must be on autopilot.
+Defenses: Light Plating (+1 plating to Toughness)
+Storm Blaster is a sentient living being, able to 
+drive and think on its own, much like Lightning 
+Cruiser. It is a rugged jeep that is equally suited 
+for paved roads and Rough Terrain. Storm Blaster 
+is affixed with a Turbine Laser on its roof rack, and 
+it has a winch attached to its grill with a powerful 
+cable that it can use to pull heavy cargo.
+SKILLS:
+Alertness +d6
+Brawn +d8
+Might +d4
+Initiative +d6
+Targeting: +d6
+TRAITS: 
+A.I.: The Storm Blaster is sentient and is suscep-
+tible to any Social or Smarts attacks, as it has both 
+Essence Scores. It is able to act and make strategic 
+decisions on its own.
+Autopilot, Advanced: The Storm Blaster does not 
+need a driver to operate at full capacity, including 
+firing its weapon.
+Land: The Storm Blaster is a land vehicle. 
+Targeting System: The driver can attack with this 
+weapon as a Free action, using their own Driving 
+skill or the Storm Blaster’s Targeting skill. 
+Vehicle: As a vehicle, the Storm Blaster requires 
+a driver to operate. Without a driver, it is consid-
+ered a Threat level 0 object, and all attacks target its 
+Toughness. Effects that affect a target’s Willpower 
+or Cleverness affect this vehicle, as it has those 
+traits as a sentient being. It is immune to effects 
+that exclusively affect the living, like poison, but is 
+susceptible to effects that affect machines, such as 
+Anti-Tank weapons. Vehicle damage can be fixed 
+with a Standard engineering kit and a Technology 
+check. 
+ATTACKS:
+Ram (Might): +d4, Reach (2 Blunt Damage to 1 
+Target or 1 Blunt Damage to 2 Targets)
+The vehicle must move in a straight line for at 
+least 5 ft in order to Ram. Up to 2 creatures within 
+the area may be affected.
+Turbine Laser (Targeting): +d6, Range 50/200 ft. 
+(2 Laser Damage)
+The Storm Blaster’s Turbine Laser makes one 
+attack per Turn unless damaged. The Turbine Laser is 
+destroyed once the Storm Blaster takes 8 Damage.
+Winch (Brawn): +d8, Reach +200 ft. (Grapple, 
+Maneuver)
+The Storm Blaster’s winch can be attached to any-
+thing within 200 ft. and pulled in a straight line up to 
+30 ft. each subsequent turn. Storm Blaster must will-
+ingly allow the winch clasp to be undone or a DIF 15 
+Might Skill Test must succeed to break the grapple.
+                                           
+
+===== PAGE 130 (index 129) =====
+129
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+Shark Cycles
+THREAT LEVEL: 4 
+SIZE: COMMON | HEALTH: 6
+GROUND MOVEMENT: 60 feet
+TOUGHNESS: 15 | EVASION: 15 
+WILLPOWER: * | CLEVERNESS: *
+Crew: 1 driver 
+Firepoints: 1 - The driver can attack with any one-
+handed weapon 
+Defenses: Light Plating (+1 plating to Toughness)
+Built for street and offroad use, the Shark Cycles 
+are made from the fossilized fin of a great prehistoric 
+shark. Due to their light weight, these motorcycles 
+are fast and easy to maneuver. The Black and Blue 
+Shark Cycle designs are based slightly on hammer-
+head sharks, and the Yellow and Pink Shark Cycles 
+are based on sawsharks. Because the Shark Cycles are 
+built from such a rare material, once one is destroyed, 
+it is nearly impossible to obtain another one.
+SKILLS:
+Might +d6
+Brawn +d4
+Initiative +d6
+TRAITS: 
+Land: The Shark Cycle is a land vehicle. 
+Vehicle: As a vehicle, the Shark Cycle requires 
+a driver to operate. Without a driver, it is consid-
+ered a Threat level 0 object, and all attacks target its 
+Toughness. Effects that affect a target’s Willpower or 
+Cleverness only affect this vehicle if it has a driver, 
+in which case they target the driver’s Willpower or 
+Cleverness. It is immune to mind affecting effects and 
+effects that exclusively affect the living, like poison, but 
+is susceptible to effects that affect machines, such as 
+Anti-Tank weapons. Vehicle damage can be fixed with 
+a Standard engineering kit and a Technology check. 
+ATTACKS:
+Ram (Might): +d6, Reach (2 Blunt Damage to 1 
+Target or 1 Blunt Damage to 2 Targets)
+The vehicle must move in a straight line for at 
+least 5 ft in order to Ram. Up to 2 creatures within 
+the area may be affected.
+POWERS:
+Responsive: With its light frame and design, the 
+Shark Cycle relies heavily on the driver’s survival 
+instinct. The Shark Cycle can use the driver’s Evasion 
+against attacks instead of its own.  
+Turbo Carts
+THREAT LEVEL: 6
+SIZE: LONG | HEALTH: 8
+GROUND MOVEMENT: 45 feet
+TOUGHNESS: 16 | EVASION: 14 
+WILLPOWER: * | CLEVERNESS: *
+Crew: 1 driver, 3 passengers
+Firepoints: 4 - The driver can use a one-handed 
+weapon, and all passengers can use any weapon. 
+Defenses: Light Plating (+1 plating to Toughness)
+Fast and lightweight, these go-karts are equipped 
+with mounted blasters. While a Turbo Cart may be 
+used independently, Power Rangers with a Turbo 
+Zord have the ability to integrate their Turbo Cart 
+into it, as the Turbo Cart becomes the cockpit. 
+SKILLS:
+Might +d4
+Initiative +d4
+Targeting: +d4
+TRAITS: 
+Land: The Turbo Cart is a land vehicle. 
+Vehicle: As a vehicle, the Turbo Cart requires a 
+driver to operate. Without a driver, it is considered 
+a Threat level 0 object, and all attacks target its 
+Toughness. Effects that affect a target’s Willpower or 
+Cleverness only affect this vehicle if it has a driver, 
+in which case they target the driver’s Willpower or 
+Cleverness. It is immune to mind affecting effects and 
+effects that exclusively affect the living, like poison, but 
+is susceptible to effects that affect machines, such as 
+Anti-Tank weapons. Vehicle damage can be fixed with 
+a Standard engineering kit and a Technology check. 
+ATTACKS:
+Multiple Attacks: The Turbo Cart makes 2 Energy 
+Blaster attacks or one Ram attack per turn.
+Ram (Might): +d4, Reach (2 Blunt Damage to 1 
+Target or 1 Blunt Damage to 2 Targets)
+The vehicle must move in a straight line for at 
+least 5 ft in order to Ram. Up to 2 creatures within 
+the area may be affected.
+Energy Blaster (Targeting): +d4, Range 30/80 ft. (2 
+Energy Damage)
+The Turbo Cart’s mounted blasters each make 
+one attack per Turn unless damaged. Each blaster is 
+destroyed per 2 Damage the Turbo Cart takes.
+                                           

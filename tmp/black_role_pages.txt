@@ -1,0 +1,404 @@
+===== PAGE 32 (index 31) =====
+31
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+BLACK RANGER
+Rangers that are imbued with the Black energy of the 
+Morphin Grid tend to be social charmers, entertainers, 
+and the real life of the party. They are the person-
+ification of team unity, and a lot of what they 
+do helps keep the bonds between mem-
+bers strong and tight. Black Rangers are 
+equally adept at fighting back to back 
+with their friends, showing that the 
+team comes first and always 
+ready to stand up for any part 
+of it.
+Dance, Song, Jokes
+One collective way that Black 
+Rangers tend to reach their 
+teammates with their special 
+brand of reinforcing positivity 
+is through light-hearted behav-
+iors not commonly found in a 
+staunch warrior. Whether that is 
+through telling one liner jokes, 
+harmless limericks or rhymes, 
+singing pleasant tunes, and 
+maybe even just showing with 
+a little personal dance, Black 
+Rangers find their own way to 
+connect their team members to 
+themselves and each other. 
+Good Leaders
+When a Ranger more dedi-
+cated to leadership, like a Red 
+or White Ranger, isn’t available 
+for the team, Black Rangers 
+often step up and take the 
+role. Their dedication to team 
+strength and cooperation put 
+them in a great place to make 
+collective plans, and their team-
+mates rarely have reason to question 
+what motivates a Black Ranger. 
+While they tend to be the glue 
+between the members of their 
+team, standing at its forefront is 
+just as natural to them. 
+                                          
+
+
+===== PAGE 33 (index 32) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+32
+Stalwart Anchors
+A Black Ranger’s Zord, whether it hails from 
+the depths as a Dinozord or even a humanoid 
+Shogunzord or Battle Borg, represent being a 
+defensible root or anchor for the team’s other Zords. 
+Animal shapes are often tough, armored, quadruped 
+beasts known for their ability to withstand tremen-
+dous adversity. Humanoid Zords are thick-limbed 
+and wield heavier weaponry. Vehicular Zords 
+revolve around being a hard punch, an anvil upon 
+which the other rangers in the team can rely.
+Spectrum Role Features
+As a Black Ranger, you gain the following:
+Power 
+Personal Power Regeneration: 2 per day
+Personal Power Capacity: +2 per every 5 levels
+Training
+Armor: Light and Medium armor
+Starting Skill Ranks: +1 Might, +2 Performance
+Grid Equipment
+You start with your own personal possessions from 
+your pre-Morphin’ life, but also gain the following 
+items from the Morphin Grid. Those marked with an 
+asterisk are only available when Morphed.
+•	Wrist Communicator
+•	Power Morpher
+•	Blade Blaster*
+•	Versatile Power Weapon*
+LEVEL
+ROLE PERKS
+PERSONAL 
+POWER 
+CAPACITY
+QUIPS & 
+SPEECHES
+STRENGTH 
+INCREASE
+SPEED 
+INCREASE
+SMARTS 
+INCREASE
+SOCIAL 
+INCREASE
+1st
+It’s Morphin Time!, Heart of the 
+Team (1)
+2
+2
++1
+—
+—
++2
+2nd
+Whatever We Need, You Got This! 
+(1)
+2
+2
++1
+—
+—
+—
+3rd
+Zord
+2
+3
+—
+—
++1
+—
+4th
+General Perk
+2
+3
+—
++1
+—
+—
+5th
+Extra Attack, Heart of the Team (2)
+4
+4
+—
+—
+—
++1
+6th
+Zord Feature, Grid Power
+4
+4
++1
+—
+—
+—
+7th
+You Got This! (2)
+4
+5
+—
+—
++1
+—
+8th
+General Perk
+4
+5
+—
++1
+—
+—
+9th
+—
+6
+6
+—
+—
+—
++1
+10th
+Zord Feature, Heart of the Team 
+(3)
+6
+6
++1
+—
+—
+—
+11th
+Grid Power, One For All
+6
+7
+—
+—
++1
+—
+12th
+General Perk, You Got This! (3)
+6
+7
+—
++1
+—
+—
+13th
+—
+8
+8
+—
+—
+—
++1
+14th
+Zord Feature
+8
+8
++1
+—
+—
+—
+15th
+Heart of the Team (4)
+8
+9
+—
+—
++1
+—
+16th
+General Perk, Grid Power 
+8
+9
+—
+—
+—
++1
+17th
+Zord Feature, You Got This! (4)
+10
+10
++1
+—
+—
+—
+18th
+All For One
+10
+10
+—
+—
+—
++1
+19th
+General Perk
+10
+11
++1
+—
+—
+—
+20th
+Black Ranger Prime
+10
+11
+—
+—
+—
++1
+TABLE 4-2: THE BLACK RANGER
+                                          
+
+
+===== PAGE 34 (index 33) =====
+33
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+It’s Morphin Time!
+Starting at 1st level, by summoning the energy 
+within you through your Power Morpher and saying 
+the words “It’s Morphin Time!” as a standard action, 
+you are enveloped with a stylized shell of Morphin 
+Grid energy that serves as your armor, grants you 
+access to your Power-based weapons, and many 
+other abilities that require Power to activate.
+While Morphed, the following traits and  
+features apply:
+•	Your Toughness Bonus is determined by your 
+Armor Training: Light (+1), Medium (+2), Heavy 
+(+4), Ultra-Heavy (+6).
+•	All of your Jump distance maximums are tripled.
+•	As a Free Action, you can summon any single 
+Power-based weapon to your hands.
+•	When reduced to 0 Health, you may choose to 
+avoid Defeat by automatically returning to your 
+natural form, unconscious, and at 1 Health.
+Heart of the Team
+Beginning at 1st level, your natural mirth and 
+positivity can be used to boost your teammates and 
+other allies with just a few words. Whether in the 
+heat of battle or at the peak of a difficult obstacle, 
+your clever words can make the difference between 
+failure and success. As a Free Action, you can apply 
+a 1 shift to the roll of any ally within 60 feet of 
+you that can understand what you are saying. This 
+costs one of your Quips & Speeches per long rest, 
+as noted on the table above. The value of this die 
+rolled increases to the listed amount at 5th, 10th, 
+and 15th levels.
+Whatever We Need
+At 2nd level, your charm extends to others when 
+you need to acquire something mundane from 
+a shop, a store, or another normal person in the 
+backdrop of the so-called normal world. You can, by 
+expending one of your Quips & Speeches per long 
+rest and asking the non-player character in ques-
+tion for a favor, you can gain Edge on all Alertness, 
+Deception, and Persuasion skill checks targeting 
+them for 5 minutes.
+You Got This!
+Starting at 2nd level, a few quick words at the 
+perfect time can keep a teammate in fighting spirit. 
+As a Free action, you can spend one of your Quips 
+& Speeches per day to give any ally within 30 feet 
+a number of temporary Health that last until the 
+end of the current combat scene. The amount of 
+Health increases at 7th level, then again at 12th 
+and 17th levels.
+Zord
+By the time a Ranger reaches 3rd level, their role 
+in protecting the Morphin Grid requires them to bat-
+tle larger and more devastating foes. When piloting 
+your personal Zord, you cannot suffer Snags when 
+using the Driving skill.
+You now have access to a powerful construct of a 
+particular kind based upon the Power Ranger team 
+you are a part of. These are the various Zords, Borgs, 
+and Power vehicles that the Rangers summon to aid 
+them when the monsters and other minions of evil 
+are empowered by warlords like Lord Zedd and Rita 
+Repulsa. Rules and statistics surrounding Zords can 
+be found in the section starting on page 131.
+Black Ranger Zords
+What sort of shape a Black Ranger’s Zord takes 
+depends on the kind of Power Ranger Team they are 
+a part of. Examples of previously chosen Zords are: 
+•	Mighty Morphin Power Rangers: Mastodon, Lion
+•	Ninja Power Rangers: Frog
+•	Alien Rangers: Black Battle Borg
+•	Space Rangers: Mega V2 Shuttle
+Zord Feature
+Upon reaching 6th level, then again at 10th, 14th, 
+and 17th levels, a Ranger’s connection and profi-
+ciency with their Zord has strengthened and evolved 
+to a place where their abilities while using it are 
+stronger and more powerful than ever. Each time 
+this Role Perk is acquired by a Black Ranger, they 
+may choose from the list of Zord Features (see page 
+136 for details) to apply to their personal Zord.
+                                          
+
+
+===== PAGE 35 (index 34) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+34
+General Perk
+When you reach 4th level, and again at 8th, 12th, 
+16th, and 19th level, you have the ability to person-
+alize your Ranger a little further and must choose 
+to gain a generic Perk of your choice for which you 
+meet the prerequisites.
+Extra Attack
+Beginning at 5th level, you can attack twice, 
+instead of once, whenever you take the Attack 
+action on your turn. This Role Perk only functions 
+while Morphed and fighting as an individual.
+Grid Power
+First upon reaching 6th level, then again at 11th 
+and 16th levels, your understanding and connection 
+to the power that flows from the Morphin Grid in 
+ways other Rangers may not. Each time you acquire 
+this Role Perk, you may choose a Grid Power (see 
+page 99) to add to your Ranger, so long as they meet 
+the requirements, if any. 
+One For All
+Upon acquiring 11th level, your connection 
+to and willingness to sacrifice for your team is 
+strong enough to bridge your power into them at a 
+moment’s notice. Once per day, as a standard action 
+while Morphed, you can spend 3 of your current 
+Personal Power to allow all of your teammates to 
+regain 1d2 Personal Power immediately. Unlike 
+other Black Ranger features, this does NOT cost one 
+of your Quips & Speeches.
+All For One
+At 18th level, your Ranger career of always being 
+there for your teammates can be turned into a two-
+way street when you are in dire need. If you are ever 
+brought to 0 Personal Power or 0 Health, you can 
+immediately call upon your fellow Ranger team-
+mates to help you. When this Role Perk is called 
+upon, each member of your team may choose to 
+give 1d2 Power and/or 1 Health to you immediately, 
+spending the same amount from themselves to do 
+so. This ability may only be used once daily. 
+Black Ranger Prime
+At 20th level, you have become the most 
+advanced version possible of your team’s Black 
+Ranger. Your Morphed form immediately gains the 
+following benefits:
+•	+2 to all Defenses.
+•	Additional point of Damage on Martial Arts 
+Attacks
+•	Edge on Social skill checks
+                                          

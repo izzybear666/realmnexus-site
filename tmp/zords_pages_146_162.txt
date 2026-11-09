@@ -1,0 +1,981 @@
+===== PAGE 146 (index 145) =====
+145
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+The Dragon Megazord 
+SIZE Towering (Combiner) | HEALTH (22/7/7/7/7)
+STRENGTH 9 | SPEED 5 | SMARTS * | SOCIAL * 
+TOUGHNESS 22 (3 Armor) | EVASION 16
+GROUND MOVEMENT 50 ft.
+Skills: Brawn D8, Might D6, Driving (Autopilot) D2, 
+Initiative D6
+Participant Melee Attack: D8 Skill, reach 20 ft., 
+Effect: 4 Sharp Damage. 
+Participant Ranged Attack: D8 Skill, reach 50/120 
+ft., Effect: 3 Energy Damage.
+Power Staff (1/scene): D8 Skill, reach 40 ft., Effect: 
+12 Sharp Damage.
+Energy Fin Beam (1/scene): D8 Skill (Ignores 
+Armor), reach 100/240 ft., Effect: 6 Energy Damage.
+White Tigerzord
+Prerequisite: White Ranger
+SIZE Extended II | HEALTH 8
+STRENGTH 9 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 22 (3 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft.
+Skills: Athletics D4, Brawn D6, Conditioning III, 
+Driving (Autopilot) D2, Initiative D6
+Zord Features: Auxiliary Zord, Call to Action, 
+Combiner (Core Defenses), Enhanced (Claws), 
+Hardened Chassis, Recall for Repairs, Relic Key, 
+Warrior Mode
+Claws: D8 Skill, reach 15 ft., Multi-Weapon (2). 
+Effect: 3 Sharp Damage. 
+White Tiger Thunderbolts: D6 Skill, reach 50/120 
+ft., Effect: 2 Electric Damage. 
+                                           
+
+===== PAGE 147 (index 146) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+146
+The Mega Tigerzord 
+SIZE Towering (Combiner) | HEALTH (8/7/7/7/7)
+STRENGTH 9 | SPEED 5 | SMARTS * | SOCIAL * 
+TOUGHNESS 22 (3 Armor) | EVASION 16
+GROUND MOVEMENT 50 ft.
+Skills: Brawn D8, Might D6, Driving (Autopilot) D2, 
+Initiative D6
+Participant Melee Attack: D8 Skill, reach 20 ft., 
+Effect: 3 Sharp Damage. 
+Participant Ranged Attack: D8 Skill, reach 50/120 
+ft., Effect: 3 Energy Damage.
+Golden Claw (1/scene): D8 Skill, reach 40 ft., 
+Multi-Weapon (2). Effect: 9 Sharp Damage.
+Phoenix Firebolt (1/scene): D8 Skill (Ignores 
+Armor), reach 100/240 ft., Effect: 6 Fire Damage.
+Aquitian Battle Borgs
+Red Battle Borg
+Prerequisite: Red Ranger
+SIZE Towering | HEALTH 8
+STRENGTH 9 | SPEED 2 | SMARTS * | SOCIAL * 
+TOUGHNESS 20 (1 Armor) | EVASION 12
+GROUND MOVEMENT 40 ft.
+Skills: Athletics D6, Brawn D6, Conditioning III, 
+Driving (Autopilot) D4, Initiative D6
+Zord Features: Call to Action, Extra Attack, Increase 
+(Strength), Martial Zord, Recall for Repairs, Titan 
+Body
+Martial Strikes: D8 Skill with 1, reach 20 ft., 
+Effect: 3 Blunt Damage. 
+Focus Blast: D4 Skill, reach 50/120 ft., Effect: 3 Energy 
+Damage.
+White Battle Borg
+Prerequisite: White Ranger
+SIZE Towering | HEALTH 10
+STRENGTH 9 | SPEED 2 | SMARTS * | SOCIAL * 
+TOUGHNESS 20 (1 Armor) | EVASION 12
+GROUND MOVEMENT 40 ft.
+Skills: Athletics D4, Brawn D8, Conditioning III, 
+Driving (Autopilot) D2, Initiative D6
+Zord Features: Auxiliary Zord, Call to Action, Extra 
+Attack, Martial Zord, Recall for Repairs, Titan Body
+Martial Strikes: D8 Skill with 1, reach 20 ft., 
+Effect: 4 Blunt Damage. 
+Focus Blast: D4 Skill, reach 50/120 ft., Effect: 3 
+Energy Damage.
+Black Battle Borg
+Prerequisite: Black Ranger
+SIZE Towering| HEALTH 9
+STRENGTH 7 | SPEED 2 | SMARTS * | SOCIAL * 
+TOUGHNESS 20 (1 Armor) | EVASION 12
+GROUND MOVEMENT 40 ft.
+Skills: Athletics D2, Brawn D6, Conditioning IV, 
+Driving (Autopilot) D4, Initiative D6
+Zord Features: Call to Action, Enhance (Focus 
+Blast), Extra Attack, Martial Zord, Recall for Repairs, 
+Titan Body
+Martial Strikes: D6 Skill with 1, reach 20 ft., 
+Effect: 3 Blunt Damage. 
+Focus Blast: D6 Skill, reach 50/120 ft., Effect: 4 
+Energy Damage.
+                                           
+
+===== PAGE 148 (index 147) =====
+147
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+Blue Battle Borg
+Prerequisite: Blue Ranger
+SIZE Towering | HEALTH 8
+STRENGTH 7 | SPEED 2 | SMARTS * | SOCIAL * 
+TOUGHNESS 20 (1 Armor) | EVASION 12
+GROUND MOVEMENT 40 ft.
+Skills: Athletics D2, Brawn D6, Conditioning III, 
+Driving (Autopilot) D6, Initiative D6
+Zord Features: Call to Action, Extra Attack, Enhance 
+(Focus Blast), Martial Zord, Recall for Repairs, Titan 
+Body
+Martial Strikes: D6 Skill with 1, reach 20 ft., 
+Effect: 3 Blunt Damage. 
+Focus Blast: D6 Skill (Ignores Armor), reach 50/120 
+ft., Effect: 3 Energy Damage.
+Yellow Battle Borg
+Prerequisite:Yellow Ranger
+SIZE Towering | HEALTH 8
+STRENGTH 7 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 18 (1 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft.
+Skills: Athletics D2, Brawn D6, Conditioning III, 
+Driving (Autopilot) D4, Initiative D8
+Zord Features: Call to Action, Extra Attack, Increase 
+(Speed), Martial Zord, Recall for Repairs, Titan Body
+Martial Strikes: D8 Skill with 1, reach 20 ft., 
+Effect: 3 Blunt Damage. 
+Focus Blast: D4 Skill, reach 50/120 ft., Effect: 3 
+Energy Damage.
+The Ninja MegaFalconzord 
+SIZE Titanic (Combiner) | HEALTH (20/10/9/8/8/8)
+STRENGTH 10 | SPEED 6 | SMARTS * | SOCIAL * 
+TOUGHNESS 22 (2 Armor) | EVASION 16
+GROUND MOVEMENT 50 ft. | AERIAL 
+MOVEMENT 60 ft.
+Skills: Athletics D8, Brawn D8, Might D8, 
+Acrobatics (Flying) D4, Driving (Autopilot) D2, 
+Initiative D6
+ 
+Participant Melee Attack: D10 Skill with 1, reach 
+25 ft., Effect: 4 Blunt Damage. 
+Participant Ranged Attack: D6 Skill, reach 50/120 
+ft., Effect: 3 Energy Damage.
+Ape-Wolf Punch (2/scene): D10 Skill with 1, 
+reach 50 ft., Effect: 12 Blunt Damage.
+Flaming Sword Strike (1/scene): D10 Skill with 1, 
+reach 50 ft., Effect: 12 Fire Damage.
+ 
+                                           
+
+===== PAGE 149 (index 148) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+148
+                                           
+
+===== PAGE 150 (index 149) =====
+149
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+The ZeoZords
+Zeo Artillery Tank
+Prerequisite: Pink Ranger
+SIZE Extended II | HEALTH 6
+STRENGTH 6 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 14
+GROUND MOVEMENT 70 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Blast Attack, Call to Action, 
+Combiner (Enhanced Melee Attack), Megaform Trait 
+(Move), Movement Booster, Recall for Repairs
+Ram Attack: D6 Skill, reach 15 ft., Effect: 2 Blunt Damage. 
+Artillery Blast: D6 Skill, reach 50/120 ft., Area of 
+Effect 20’ x 20’. Effect: 2 Energy Damage.
+Zeo Cannon Lander
+Prerequisite: Yellow Ranger
+SIZE Extended II | HEALTH 6
+STRENGTH 6 | SPEED 7 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 17
+GROUND MOVEMENT 40 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D6, Initiative D10
+Zord Features: Call to Action, Combiner (Enhanced 
+Ranged Attack), Increase (Speed), Light Chassis, 
+Megaform Trait (Core Ability Strength), Recall for 
+Repairs
+Ram Attack: D6 Skill, reach 15 ft., Effect: 2 Blunt 
+Damage. 
+Turret Cannons: D8 Skill, reach 50/120 ft., Effect: 2 
+Energy Damage.
+Zeo Sphinx
+Prerequisite: Blue Ranger
+SIZE Extended II | HEALTH 6
+STRENGTH 7 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 20 (3 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Call to Action, Combiner (Core 
+Body), Enhance (Claws), Hardened Chassis, 
+Megaform Trait (Enhanced Ranged Attack), Recall 
+for Repairs
+Claws: D6 Skill, reach 15 ft., Multi-Weapon (2), 
+Effect: 2 Sharp Damage. 
+Forehead Lasers: D6 Skill, reach 50/120 ft., Effect: 2 
+Energy Damage.
+Zeo Taurus
+Prerequisite: Green Ranger
+SIZE Extended II | HEALTH 7
+STRENGTH 7 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 18 (1 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft.
+Skills: Brawn D8, Conditioning III, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Additional Attack Type, Call to 
+Action, Combiner (Core Ability Strength), Heavy 
+Chassis, Megaform Trait (Enhanced Ranged Attack), 
+Recall for Repairs
+Horns: D8 Skill, reach 15 ft., Effect: 2 Sharp 
+Damage.
+Hooves: D6 Skill, reach 15 ft., Effect: 2 Blunt 
+Damage.
+Lightning Arc: D6 Skill, reach 50/120 ft., Effect: 2 Electric 
+Damage.
+                                           
+
+===== PAGE 151 (index 150) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+150
+Zeo Sky Phoenix
+Prerequisite: Red Ranger
+SIZE Extended | HEALTH 6
+STRENGTH 6 | SPEED 6 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 16
+GROUND MOVEMENT 40 ft. | AERIAL 
+MOVEMENT 45 ft.
+Skills: Brawn D6, Conditioning III, Acrobatics D4, 
+Driving (Autopilot) D4, Initiative D6
+Zord Features: Call to Action, Combiner (Enhanced 
+Ranged Attack), Increase Ability (Speed), Megaform 
+Trait (Core Ability Speed), Movement Booster, Recall 
+for Repairs
+Talons Attack: D6 Skill, reach 10 ft., Effect: 2 Sharp 
+Damage.
+Laser Blasts: D8 Skill, reach 50/120 ft., Effect: 2 
+Energy Damage.
+The Zeo Megazord 
+SIZE Towering (Combiner) | HEALTH (7/6/6/6/6)
+STRENGTH 9 | SPEED 7 | SMARTS * | SOCIAL * 
+TOUGHNESS 20 (3 Armor) | EVASION 17
+GROUND MOVEMENT 80 ft. | AERIAL 
+MOVEMENT 55 ft.
+Skills: Brawn D8, Might D6, Acrobatics (Flying) D4, 
+Driving (Autopilot) D4, Initiative D6
+Participant Melee Attack: D8 Skill, reach 20 ft., 
+Effect: 3 Blunt Damage. 
+Participant Ranged Attack: D8 Skill, reach 50/120 
+ft., Area of Effect 20’ x 20’. Effect: 3 Energy Damage.
+Zeo Megasword Saber (1/scene): D8 Skill, reach 40 
+ft., Effect: 9 Sharp Damage.
+Cannon Helmet Blast (1/scene): D8 Skill, reach 
+100/240 ft., Effect: 9 Energy Damage.
+Rocket Helmet (1/scene): D8 Skill, reach 100/240 
+ft., Effect: 9 Fire Damage.
+Pyramid Helmet Crush (1/scene): D8 Skill, reach 
+100/240 ft., Effect: 9 Blunt Damage.
+Gravity Helmet Arcs (1/scene): D8 Skill, reach 
+100/240 ft., Effect: 9 Electric Damage.
+The Turbozords
+Red Lightning Turbozord
+Prerequisite: Red Ranger
+SIZE Extended | HEALTH 6
+STRENGTH 6 | SPEED 6 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 16
+GROUND MOVEMENT 70 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D4, Initiative D8
+Zord Features: Call to Action, Combiner (Core 
+Body), Enhance (Ram), Increase Ability (Speed), 
+Movement Booster, Recall for Repairs
+Ram Attack: D6 Skill, reach 10 ft., Effect: 3 Blunt 
+Damage. 
+Blasters: D8 Skill, reach 50/120 ft., Effect: 2 Energy 
+Damage.
+Mountain Blaster Turbozord
+Prerequisite: Blue Ranger
+SIZE Extended | HEALTH 7
+STRENGTH 9 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 22 (3 Armor) | EVASION 14
+GROUND MOVEMENT 70 ft.
+Skills: Brawn D8, Conditioning IV, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Call to Action, Combiner (Enhanced 
+Ranged Attack), Hardened Chassis, Increase Ability 
+(Strength), Movement Booster, Recall for Repairs
+Ram Attack: D8 Skill, reach 10 ft., Effect: 2 Blunt 
+Damage. 
+Blasters: D6 Skill, reach 50/120 ft., Effect: 2 Energy 
+Damage.
+                                           
+
+===== PAGE 152 (index 151) =====
+151
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+Desert Thunder Turbozord
+Prerequisite: Green Ranger
+SIZE Extended | HEALTH 6
+STRENGTH 6 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 14
+GROUND MOVEMENT 70 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Additional Attack Type, Call to 
+Action, Combiner (Core Ability Strength), Enhance 
+(Ram), Movement Booster, Recall for Repairs
+Ram Attack: D6 Skill, reach 10 ft., Effect: 3 Blunt 
+Damage. 
+Grinder: D6 Skill, reach 10 ft., Effect: 2 Sharp 
+Damage.
+Blasters: D6 Skill, reach 50/120 ft., Effect: 2 Energy 
+Damage.
+Dune Star Turbozord
+Prerequisite: Yellow Ranger
+SIZE Extended | HEALTH 6
+STRENGTH 6 | SPEED 5 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 14
+GROUND MOVEMENT 70 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D2, Initiative D8
+Zord Features: Blast Attack, Call to Action, 
+Combiner (Core Ability Speed), Light Chassis, 
+Movement Booster, Recall for Repairs
+Ram Attack: D6 Skill, reach 10 ft., Effect: 2 Blunt 
+Damage.
+Sandblaster: D8 Skill, reach 50/120 ft., Area of 
+Effect 20’ x 20’. Effect: 2 Energy Damage.
+Wind Chaser Turbozord
+Prerequisite: Pink Ranger
+SIZE Extended | HEALTH 6
+STRENGTH 6 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 14
+GROUND MOVEMENT 70 ft. | AERIAL 
+MOVEMENT 75 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Call to Action, Combiner (Move), 
+Enhance (Blasters), Movement Booster x2, Recall for 
+Repairs
+Ram Attack: D6 Skill, reach 10 ft., Effect: 2 Blunt 
+Damage.
+Blasters: D6 Skill (Ignores Armor), reach 50/120 ft., 
+Effect: 2 Energy Damage.
+The Turbo Megazord 
+SIZE Towering (Combiner) | HEALTH (12/7/6/6/6)
+STRENGTH 10 | SPEED 7 | SMARTS * | SOCIAL * 
+TOUGHNESS 22 (2 Armor) | EVASION 18
+GROUND MOVEMENT 80 ft. | AERIAL 
+MOVEMENT 85 ft.
+Skills: Athletic D6, Brawn D8, Might D6, Acrobatics 
+(Flying) D6, Driving (Autopilot) D4, Initiative D8
+Participant Melee Attack: D10 Skill, reach 20 ft., 
+Effect: 3 Blunt Damage. 
+Participant Ranged Attack: D8 Skill (Ignores Armor), 
+reach 50/120 ft., Effect: 2 Energy Damage.
+Cannonade (1/scene): D8 Skill, reach 100/240 ft., 
+Area of Effect 20’ x 20’. Effect: 6 Energy Damage.
+                                           
+
+===== PAGE 153 (index 152) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+152
+Artillatron Turbozord
+Prerequisite: Black Ranger
+SIZE Towering | HEALTH 8
+STRENGTH 7 | SPEED 2 | SMARTS * | SOCIAL * 
+TOUGHNESS 18 (1 Armor) | EVASION 12
+GROUND MOVEMENT 70 ft.
+Skills: Brawn D8, Conditioning III, Driving 
+(Autopilot) D2, Initiative D4
+Zord Features: Call to Action, Combiner (Enhanced 
+Ranged Attack), Enhanced (Cannons), Megaform 
+Trait (Enhanced Ranged Attack), Movement Booster, 
+Recall for Repairs, Titan Body
+Ram Attack: D8 Skill, reach 20 ft., Effect: 3 Blunt 
+damage.
+Cannons: D4 Skill (Ignores Armor), reach 50/120 ft., 
+Effect: 2 Energy Damage.
+Robo Racer 
+SIZE Extended | HEALTH 10
+STRENGTH 8 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 14
+GROUND MOVEMENT 70 ft.
+Skills: Brawn D6, Conditioning V, Driving (Autopilot) 
+D2, Initiative D6
+Zord Features: Auxiliary Zord, Call to Action, 
+Combiner (Enhanced Ranged Attack), Movement 
+Boost, Recall for Repairs, Warrior Mode
+Riot Shield Bash: D10 Skill, reach 10 ft., Effect: 3 
+Blunt Damage. 
+Synergizer Blaster: D6 Skill, reach 50/120 ft., Effect: 
+2 Energy Damage.
+The Mega-Vehicle 
+Zords
+Mega-V1
+Prerequisite: Red Ranger
+SIZE Gigantic | HEALTH 8
+STRENGTH 8 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 19 (1 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft. 
+AERIAL MOVEMENT 60/30 ft.
+Skills: Brawn D6, Conditioning V, Driving (Autopilot) 
+D2, Initiative D6
+Zord Features: Blast Attack, Call to Action, 
+Combiner (Core Body), Increase (Strength), Recall 
+for Repairs, Zero-G
+Gravity Punch: D8 Skill, reach 15 ft., Effect: 2 Blunt 
+Damage. 
+Shoulder Missile Racks: D6 Skill with 1, reach 
+50/120 ft., Area of Effect 20’ x 20’. Effect: 2 Energy 
+Damage.
+Mega-V2
+Prerequisite: Black Ranger
+SIZE Extended III | HEALTH 7
+STRENGTH 9 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 22 (3 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft. 
+AERIAL MOVEMENT 60/30 ft.
+Skills: Brawn D8, Conditioning IV, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Call to Action, Combiner (Core 
+Defenses), Hardened Chassis, Increase (Strength), 
+Recall for Repairs, Zero-G
+Gravity Slam: D8 Skill, reach 15 ft., Effect: 2 Blunt 
+Damage. 
+Energy Blasters: D6 Skill with 1, reach 50/120 ft., 
+Effect: 2 Energy Damage.
+                                           
+
+===== PAGE 154 (index 153) =====
+153
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+Mega-V3
+Prerequisite: Blue Ranger
+SIZE Titanic | HEALTH 6
+STRENGTH 6 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft. 
+AERIAL MOVEMENT 90/45 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Call to Action, Combiner (Move), 
+Enhance (Gravity Slam), Movement Booster, Recall 
+for Repairs, Zero-G
+Gravity Slam: D6 Skill, reach 25 ft., Effect: 3 Blunt 
+Damage. 
+Energy Blasters: D6 Skill with 1, reach 50/120 ft., 
+Effect: 2 Energy Damage.
+Mega-V4
+Prerequisite: Yellow Ranger
+SIZE Extended III | HEALTH 6
+STRENGTH 6 | SPEED 5 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 15
+GROUND MOVEMENT 40 ft. 
+AERIAL MOVEMENT 60/30 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D2, Initiative D8
+Zord Features: Call to Action, Combiner (Enhanced 
+Melee Attack), Enhance (Rim Lasers), Light Chassis, 
+Recall for Repairs, Zero-G
+Gravity Slam: D6 Skill, reach 15 ft., Effect: 2 Blunt 
+Damage.
+Rim Lasers: D6 Skill with 1, reach 50/120 ft., 
+Effect: 3 Energy Damage.
+Mega-V5
+Prerequisite: Pink Ranger
+SIZE Extended III | HEALTH 6
+STRENGTH 6 | SPEED 4 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 14
+GROUND MOVEMENT 70 ft. 
+AERIAL MOVEMENT 60/30 ft.
+Skills: Brawn D6, Conditioning III, Driving 
+(Autopilot) D2, Initiative D6
+Zord Features: Call to Action, Combiner (Enhanced 
+Melee Attack), Crew Compartment, Movement 
+Booster, Recall for Repairs, Zero-G
+Ram Attack: D6 Skill, reach 15 ft., Effect: 2 Blunt 
+Damage. 
+Energy Blasters: D6 Skill with 1, reach 50/120 ft., 
+Effect: 2 Energy Damage.
+Mega Winger
+SIZE Towering | HEALTH 9
+STRENGTH 8 | SPEED 2 | SMARTS * | SOCIAL * 
+TOUGHNESS 17 (1 Armor) | EVASION 14
+GROUND MOVEMENT 40 ft. 
+AERIAL MOVEMENT 60/30 ft.
+Skills: Brawn D8, Conditioning IV, Acrobatics 
+(Flying) D4, Driving (Autopilot) D2, Initiative D6
+Zord Features: Call to Action, Combiner (Core 
+Body), Enhance (Wing Blaster), Recall for Repairs, 
+Titan Body, Warrior Mode, Zero-G
+Gravity Slam: D8 Skill, reach 20 ft., Effect: 3 Blunt 
+Damage. 
+Wing Blaster: D4 Skill with 1 (Ignores Armor), 
+reach 50/120 ft., Effect: 3 Energy Damage.
+                                           
+
+===== PAGE 155 (index 154) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 09: THE ZORDS
+154
+The Winged MegaVoyager 
+SIZE Titanic (Combiner) | HEALTH (18/8/7/6/6/6)
+STRENGTH 10 | SPEED 7 | SMARTS * | SOCIAL * 
+TOUGHNESS 23 (3 Armor) | EVASION 18
+GROUND MOVEMENT 80 ft. 
+AERIAL MOVEMENT 100/50 ft.
+Skills: Athletic D6, Brawn D8, Might D6, Acrobatics 
+(Flying) D8, Driving (Autopilot) D4, Initiative D8
+Participant Melee Attack: D10 Skill, reach 25 ft., 
+Effect: 3 Blunt Damage. 
+Participant Ranged Attack: D8 Skill, reach 50/120 
+ft., Effect: 3 Energy Damage.
+Flying Rocket Attack (2/scene): 
+D10 Skill, reach 100/240 ft., 
+Effect: 9 Energy Damage.
+Other Zords…
+There are many other Zords scattered across 
+the universe, each lurking in their own meta-
+physical pocket on the 
+Morphin Grid, just wait-
+ing for their own Power 
+Ranger to earn the right 
+and the ability to call 
+upon their power and 
+summon them forth.
+                                           
+
+===== PAGE 156 (index 155) =====
+155
+F
+rom the first time Rita Repulsa 
+dropped a pack of Putties on some 
+Angel Grove teenagers with attitude, 
+Power Rangers reveals itself to be a set-
+ting full of action packed martial arts 
+combat that evolves and grows – often-
+times literally – into epic battles seen 
+for miles around. In essence, combat is a 
+driving factor to the Power Rangers.
+ This chapter explains the rules you will need 
+for y
+our character teams to engage in combat 
+with the many enemies of the Morphin Grid, 
+whether it is a few minions of darkness against 
+a team of skilled civilians or a large scale bat-
+tle between giant monsters and titanic robots 
+that crosses several city blocks. The Game 
+Master controls all the creatures and non-
+player characters involved in battle, and each 
+player controls a Power Ranger.
+10
+COMBATCOMBAT
+Isn’t The Smallest Chance Of Victory Enough Of A Reason 
+For Us To Keep Fighting?  
+ - Jason Lee Scott, Red Ranger
+                                           
+
+===== PAGE 157 (index 156) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 10: COMBAT
+156
+The Flow of Combat
+A typical combat encounter is a battle between 
+two sides of the conflict, a flurry of punches and 
+kicks, energy blasts, gigantic sword slashes, and 
+sparking two-story tall explosions. The game orga-
+nizes the crazy, back and forth madness of combat 
+into a cycle of rounds and turns. Each round col-
+lectively represents about 6 seconds’ worth of 
+simultaneous actions in the game world. During a 
+round, each participant in the conflict takes their 
+turn. The order of turns is determined at the begin-
+ning of a combat scene, when all participants roll 
+an Initiative skill check. Once everyone has taken 
+their turn, the fight continues on to the next round, 
+unless one side can be considered left in Defeat.
+A Combat Scene in Steps
+1. Set the Scene. The GM decides w here all the 
+characters and creatures are physically located 
+at the beginning of the scene. Depending on the 
+narrative situation leading up to this moment, 
+the places where all participants are, how far 
+they are from each other, and in their ultimate 
+current status decided by the GM.
+2. Determine Any Surprised Combatants. T
+he GM 
+determines whether any combatants in the com-
+bat scene should be considered surprised.
+3. Initiative Skill T
+ests. Everyone involved in the 
+combat encounter rolls an Initiative Skill Test, 
+setting the initial order of the combatants’ turns.
+4. Combatants Take Turns. Eac
+h combatant in the 
+scene, in current Initiative order from highest to 
+lowest, takes a turn.
+5. Next Round. Once all of the combatants 
+involv
+ed in the scene has had a chance to take 
+a turn, whether they chose to use it or not, the 
+round ends. Repeat step 4 and then 5 until the 
+GM determines the combat is considered over.
+Surprise
+A Power Rangers team is jogging through the park 
+when suddenly a pack of sinister Putties teleports in 
+around them to begin their attack. Fully Morphed, 
+the Rangers are slinking through the outskirts of 
+the Dark Dimension unseen, ready to spring upon 
+Goldar, who is tending Lord Zedd’s latest machi-
+nation. These situations are solid examples on how 
+one side would likely gain Surprise over the other in 
+a given scene.
+The GM has the ultimate say who might be 
+surprised. If no side of the conflict is being stealthy 
+or attempting to get the jump on the other, every-
+one is automatically considered to be aware of 
+one another. Any character or creature that doesn’t 
+or cannot notice a possible threat is considered 
+Surprised at the start of the combat scene.
+When Surprised, you cannot move, take an 
+action, or roll any Skill Tests on your first turn of the 
+combat scene. If the GM thinks the situation calls 
+for it, some members of a group can be Surprised 
+even if other members are not. 
+                                           
+
+===== PAGE 158 (index 157) =====
+157
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 10: COMBAT
+Setting the Initiative 
+Order
+Rolling the combatants’ Initiative skill checks 
+determines the initial order of combatant turns 
+during the scene. When the combat starts, every 
+combatant makes an Initiative check, to determine 
+their place in the Initiative order. If a combatant 
+does not have any levels in the Initiative skill, they 
+instead roll a baseline d20 roll with a Snag – show-
+ing their complete lack of preparedness for combat.
+The GM should make single Initiative checks for 
+smaller, easier to handle groups of identical crea-
+tures, having a few of their kind take their turn at 
+the same time instead of bogging down a scene 
+with dozens of individual identical actions. This also 
+helps avoid a tidal wave of actions taking place on 
+one side with no way for the characters to adapt or 
+properly defend against them.
+The GM ranks all of the combatants’ Initiative 
+skill check results in order from highest to lowest to 
+create the Initiative Order. This is the order in which 
+the combatants will take their turns. Unless some-
+how altered by a game effect or action, the Initiative 
+Order remains the same.
+If there is a tied score between combatants on the 
+players’ side, the players get to choose in what order 
+the combatants take their turns. If the tied scores are 
+on the opposing side of the scene, the GM chooses 
+what order the combatants will take their turns. 
+If the tied scores are on different sides, using the 
+tied participants’ Speed scores to break the tie. If 
+a further tie between Speed scores occurs, roll offs 
+with similar-sized dice should occur until the tie is 
+broken.
+Reset Your Initiative
+During a combat scene, after the first round of 
+combat has taken place, combatants can choose 
+to try and reset their Initiative in lieu of their Move 
+action. Instead of taking their Move, they roll a new 
+Initiative skill check. If the result is higher than their 
+current place in the Initiative order, it becomes the 
+combatant’s new place in the Initiative order on the 
+following turn. 
+Taking Your Turn - 
+Actions
+On your turn, you take a number of actions that com-
+prise your part of the 5 second round. These actions are 
+collectively all taking place at the same time, narratively 
+speaking, but take place individually as per the game 
+rules. Doing them in any other fashion would be far too 
+chaotic for the GM and the players to keep up with.
+On their turn in Initiative order, they are allowed 
+to take a number of actions equal to their Speed 
+score – with the following limitations.    
+Types of Actions
+(Speed 1) Move – The character moves a number 
+of feet equal to their movement type.  The “Combat 
+Movement” section later in this chapter explains the 
+rules and options for your move.
+Alternatively, a character may trade in this Move 
+action for a Standard action.
+(Speed 2) Move + Standard – The character takes 
+a Move action and take one Standard action. You 
+decide how much of your move to use before and/
+or after taking your Standard action. Your speed is 
+noted on your character sheet, or within the statis-
+tics of the vehicle you are piloting or co-piloting.
+The most common standard actions you can take 
+are described in the “Combat Actions” section 
+later in this chapter. Many Role Perks, Grid Powers, 
+and situational game effects may add other action 
+options for the characters.
+Alternatively, a character may trade in a Standard 
+action for two Free actions. (Which DOES include a 
+Standard action gained from trading in a Move action).
+(Speed 3+) Move + Standard + Free – The char-
+acter takes one Move action, one Standard action, 
+and a number of Free actions equal to their Speed 
+minus 2. You decide how much of your move to use 
+before and/or after taking your Standard action. Free 
+actions can take place at any time during your turn, 
+and represent a number of split-second or momen-
+tary involvements with your surroundings.
+Various sources such as Role Perks, Grid Powers, 
+equipment, and other effects allow you to perform spe-
+cific effects as Free actions, such as the summoning of 
+a Power weapon to one’s hands while Morphed. If you 
+do not have any sort of trait or game effect that offers 
+the use of a Free action, it will be noted as such.
+                                           
+
+===== PAGE 159 (index 158) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 10: COMBAT
+158
+                                           
+
+===== PAGE 160 (index 159) =====
+159
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 10: COMBAT
+Free Actions/Activities on Your 
+Turn
+Six seconds can seem like a very long time in the 
+heat of combat, and there will be turns in which 
+you wish to perform minor activities and interac-
+tions with the world around you, requiring neither a 
+Standard action or your Move. Instead, these inter-
+actions take up Free actions.
+You can always interact with an object or narrative 
+feature as a Free action, during either your Standard 
+action or a Move. For example, you could open a 
+high school locker as part of your Move action to 
+take cover behind as you perform your attack, or 
+you could trigger a spaceship sliding door to close 
+as you run beneath it to get to safety.
+Some good examples of random Free actions are:
+• Opening/closing an object, container, door
+• Reloading a standard weapon
+• Safely putting a weapon/item away
+• Inputting a passcode
+• Cutting/untying a prisoner’s bonds
+• Eating/drinking a single item
+• Finding a specific item in a backpack/container
+• Playing a short tune on a musical instrument
+• Joining two combinable technological components
+• Pick up a 5’ square’s worth of objects
+T
+he GM has final say as to whether a specific 
+activity counts as requiring more than one Free 
+action interaction to utilize, often because it takes 
+additional care or focus to perform. For example, 
+the GM could rule that Billy needs to use two Free 
+actions or even a Standard action to interact with an 
+Aquitian hydration pump, as that it is a legitimately 
+alien device and not just a simple tool to use.
+Throughout this chapter (and others) there will be 
+references to game affects and modifying elements 
+that cost Free actions. The use of these Free actions 
+do not interrupt other actions or anything of the sort, 
+they are simply additional costs to do something 
+special or additional during your turn. 
+Combat Movement
+In a combat scene, characters and creatures are 
+often in constant motion, using leaping, gymnastic, 
+and tactical movements to take useful positions and 
+get the better over their opponents.
+On your turn, you can move a distance up to your 
+current movement. You can use any amount of your 
+movement on your turn, so long as you follow the 
+rules detailed here.
+Your movement can include any form of locomo-
+tion you are capable of; jumping, climbing, flying, 
+swimming, etc. These can be combined with your 
+normal ground movement, or they can be your 
+entire turn’s move. When you move however, you 
+subtract the amount of your move from your current 
+movement until you can move no longer or until 
+you decide to be done moving.
+The “Special Movement Types” section later in this 
+book gives the particular rules for alternate locomo-
+tion like jumping, climbing, swimming, and flying.
+During your move, you can choose to perform 
+a Standard action and/or Free actions at any time 
+while moving. This means you can use any amount 
+of your movement before and after your actions. 
+For example, if you have a ground movement of 30 
+feet, you could leap 20 feet, take a Standard action, 
+move 5 more feet, take a Free action, then continue 
+moving another 5 feet.
+If you take a Standard action as an attack action 
+that includes more than one attack, you can choose 
+to break up your movement between the individual 
+attacks. For example, a Red Ranger with a 30 feet 
+ground movement who can make two attacks with 
+one Standard action due to their Extra Attack Role 
+Perk. They could move 10 feet, begin their action by 
+attacking once, then move 5 more feet before using 
+the extra attack, then moving their last 15 feet to 
+end their turn.
+During a Move action, whenever you change move-
+ment types however, you must subtract the distance 
+you have already moved from the new movement 
+type. If the result is 0 or less, you can no longer use 
+that type of movement during the current move.
+For example, Slippery Shark has a ground move-
+ment of 40, an aquatic movement of 60, and an 
+aerial movement of 15. The Rangers are fighting 
+Putties 20 feet into the beach. Currently 50 feet from 
+shore, he zooms across that distance underwater 
+using his aquatic type of movement, then leaps out 
+onto land to surprise the Putty-fighting Rangers. 
+However, as that 40 minus 50 is less than 0, 
+Slippery Shark cannot move any further and cannot 
+engage the pesky do-gooders! 
+                                           
+
+===== PAGE 161 (index 160) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 10: COMBAT
+160
+Buying Additional Movement
+During a creature or object’s Move action, they 
+can choose to spend Free actions in conjunction 
+with their Move action to ‘buy’ additional move-
+ment. While not as expedient as a Sprint action (see 
+page 163), each Free action spent along with a crea-
+ture or object’s Move action adds 5 feet to whatever 
+type of movement they are using during the action. 
+This additional movement is treated exactly as the 
+rest of a normal Move action.
+Due to the existence of the Sprint action, some-
+one cannot spend Free actions on buying additional 
+movement that would double their one of their 
+movement types.
+Getting Knocked Prone 
+Combatants in a combat can get knocked to the 
+ground, or sometimes might choose to lie down on 
+their own accord to hide better or become a smaller 
+target. Whatever the reason, a creature that is lying 
+horizontally upon the ground (or on a table, the 
+back of a truck, etc.) is considered to be Prone, a 
+condition described on page 187.
+You can choose to drop Prone without subtracting 
+any of your movement – gravity is really doing all 
+the work! Standing up from being Prone however, 
+isn’t as effortless; doing so spends 15 feet worth of 
+your movement types for the turn. If your movement 
+types are 30 ground and 40 aerial normally, the 
+turn in which you stand up from being Prone your 
+movement types are modified to 15 ground and 25 
+aerial. If, for any reason, your movement types are 
+reduced to 0 while Prone , you are unable to stand 
+up that turn.
+You may also choose to move while Prone, requir-
+ing you to make a crawl. While crawling, every foot 
+you move costs an additional foot of movement, 
+cumulative with other movement penalties.
+Moving Nearby Other Creatures 
+Unless you are two Size Classes larger than a 
+creature (see Size Classes, below), moving through a 
+space adjacent to a non-allied creature (note – NOT 
+just hostiles!) is considered to be moving through 
+Rough terrain. 
+No matter if the creature is opposing you or 
+not, you may never end your move in the same 
+occupied space as another creature, unless per -
+mission is given in the creatures’ own rules – like 
+hanging onto the side of a Megazord or boarding 
+a moving vehicle.
+Creature Size and Scale 
+In the Power Rangers Roleplaying Game, 
+creatures come in a variety of sizes that take up 
+different amounts of space. The Size Classes table 
+shows how much space a creature of a particular 
+size controls in a combat scene. Non-creature 
+objects, when measured for some purpose, should 
+use the same categories.
+ Map Footprint
+While a creature or object’s Size Class is deter-
+mined by its physical size, its Map Footprint is the 
+defined area in 5 foot squares that it effectively 
+inhabits during a combat scene. This is not nec-
+essarily the creature’s actual physical dimensions, 
+but merely a graphic representation of it within the 
+confines of combatting others. A typical human 
+SIZE CLASS PHYSICAL SIZE MAP FOOTPRINT REACH EXAMPLES
+Small Less than 4’ tall 1 Square1 2 feet Dogs, Gremlins, Children
+Common 4’ – 8’ tall 1 Square 5 feet Humans, Putties
+Large 8’ – 15’ tall 2x2 Square 5 feet Monsters
+Long 8’ – 10’ in length, up to 10’ in height 1x2 Rectangle 5 feet Automobiles, Horses, Sharkcycle
+Huge 15’ – 30’ tall 3x3 Square 10 feet Giants, Smaller Upright Zords
+Extended 10’ – 20’ in length, up to 15’ in height 2x4 Rectangle 10 feet Semi-Trailers, Tanks, Elephants, Smaller Horizontal Zords
+TABLE 10-1: SIZE CLASSES
+1 There are no penalties applied for two creatures of this Size Class sharing one Square
+                                           
+
+===== PAGE 162 (index 161) =====
+161
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 10: COMBAT
+(Common size class) is not actually 5 feet in width, 
+but instead moves around within and pays atten-
+tion to a 5 foot by 5 foot area – 1 Square – plus can 
+Reach an additional amount of space with their 
+attacks, talents, and equipment.
+All 5 foot squares on the map that are touching 
+the Map Footprint of an object/creature are consid-
+ered to be adjacent to it.
+Adjustable Map Sizes?
+In the Power Rangers Roleplaying Game, there 
+might be times where an entire battle takes place 
+between larger-scaled combatants like Zords or 
+Megazords. Their enlarged footprints and reaches 
+can make most combat scene maps seem almost 
+too small for any kind of tactical combat movements 
+or maneuvers. When this occurs, it might be helpful 
+for players to condense or adjust their map square 
+equivalents to better accommodate these larger Size 
+classes on a normal grid. 
+For this to occur, one merely needs to change 
+the map scale on an individual square basis. If the 
+combatants are all roughly of a Gigantic Size class, 
+a GM could treat each map square as 20’ x 20’ 
+instead of 5’ x 5’, scaling up the map size by an 
+amount that makes movement and maneuvering 
+more applicable.
+When adjusting a combat scene’s map square 
+equivalence, ALL other ranges and distances must 
+have their numerical values adjusted as well. This is 
+not necessarily a perfect way to scale things and can 
+often leave partial map square remainders, but it 
+tends to be more exciting and strategic than having 
+huge chunks of a normal combat scene map taken 
+up by two combatants’ footprints.
+Reach
+Just as an object/creature takes up a general area 
+on the combat scene map, they also have an area 
+around them in which they are capable of inter-
+acting with. This is noted as the object/creature’s 
+Reach. This value is the distance that extends from 
+the object/creature’s Map Footprint for the purposes 
+of being able to physically perform actions – most 
+notably basic melee attacks. If another creature 
+or object is within something’s Reach, it can be 
+directly touched, grappled, punched, bitten, etc. 
+Many melee attacks – notably those with weap-
+ons – can extend a creature’s Reach, but only for the 
+purposes of that attack. As an example, the Towering 
+size MegaZord has a normal Reach of 20 feet (4 
+normal map squares) for its punches and kicks, but 
+when it wields the might Power Sword – an attack 
+that is noted as having a x2 Reach – the MegaZord 
+can strike at enemies up to 40 feet (8 normal map 
+squares) away! 
+Momentarily Acting Smaller
+As that a creature’s Size Class and the space they 
+take up is not ironclad in the narrative sense, crea-
+tures can push themselves through an area or space 
+that is up to two Size Classes smaller than they are. 
+Thus, a Huge-size creature that is trying to push 
+itself through a garage entrance that is only 10 feet 
+across can do so, but treats the entire movement as 
+Rough Terrain.
+                                           

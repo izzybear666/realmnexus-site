@@ -1,0 +1,705 @@
+===== PAGE 34 (index 33) =====
+33
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+It’s Morphin Time!
+Starting at 1st level, by summoning the energy 
+within you through your Power Morpher and saying 
+the words “It’s Morphin Time!” as a standard action, 
+you are enveloped with a stylized shell of Morphin 
+Grid energy that serves as your armor, grants you 
+access to your Power-based weapons, and many 
+other abilities that require Power to activate.
+While Morphed, the following traits and  
+features apply:
+• Your Toughness Bonus is determined b
+y your 
+Armor Training: Light (+1), Medium (+2), Heavy 
+(+4), Ultra-Heavy (+6).
+• All of your Jump distance maximums are tripled.
+• As a Free Action, you can summon an
+y single 
+Power-based weapon to your hands.
+• When reduced to 0 Health, you may choose to 
+a
+void Defeat by automatically returning to your 
+natural form, unconscious, and at 1 Health.
+Heart of the Team
+Beginning at 1st level, your natural mirth and 
+positivity can be used to boost your teammates and 
+other allies with just a few words. Whether in the 
+heat of battle or at the peak of a difficult obstacle, 
+your clever words can make the difference between 
+failure and success. As a Free Action, you can apply 
+a 1 shift to the roll of any ally within 60 feet of 
+you that can understand what you are saying. This 
+costs one of your Quips & Speeches per long rest, 
+as noted on the table above. The value of this die 
+rolled increases to the listed amount at 5th, 10th, 
+and 15th levels.
+Whatever We Need
+At 2nd level, your charm extends to others when 
+you need to acquire something mundane from 
+a shop, a store, or another normal person in the 
+backdrop of the so-called normal world. You can, by 
+expending one of your Quips & Speeches per long 
+rest and asking the non-player character in ques-
+tion for a favor, you can gain Edge on all Alertness, 
+Deception, and Persuasion skill checks targeting 
+them for 5 minutes.
+You Got This!
+Starting at 2nd level, a few quick words at the 
+perfect time can keep a teammate in fighting spirit. 
+As a Free action, you can spend one of your Quips 
+& Speeches per day to give any ally within 30 feet 
+a number of temporary Health that last until the 
+end of the current combat scene. The amount of 
+Health increases at 7th level, then again at 12th 
+and 17th levels.
+Zord
+By the time a Ranger reaches 3rd level, their role 
+in protecting the Morphin Grid requires them to bat-
+tle larger and more devastating foes. When piloting 
+your personal Zord, you cannot suffer Snags when 
+using the Driving skill.
+You now have access to a powerful construct of a 
+particular kind based upon the Power Ranger team 
+you are a part of. These are the various Zords, Borgs, 
+and Power vehicles that the Rangers summon to aid 
+them when the monsters and other minions of evil 
+are empowered by warlords like Lord Zedd and Rita 
+Repulsa. Rules and statistics surrounding Zords can 
+be found in the section starting on page 131.
+Black Ranger Zords
+What sort of shape a Black Ranger’s Zord takes 
+depends on the kind of Power Ranger Team they are 
+a part of. Examples of previously chosen Zords are: 
+• Mighty Morphin Power Rangers: Mastodon, Lion
+• Ninja Power Rangers: F
+rog
+• Alien Rangers: Black Battle Borg
+• Space Rangers: Mega V2 Shuttle
+Zord Feature
+Upon reaching 6th level, then again at 10th, 14th, 
+and 17th levels, a Ranger’s connection and profi-
+ciency with their Zord has strengthened and evolved 
+to a place where their abilities while using it are 
+stronger and more powerful than ever. Each time 
+this Role Perk is acquired by a Black Ranger, they 
+may choose from the list of Zord Features (see page 
+136 for details) to apply to their personal Zord.
+                                           
+
+===== PAGE 35 (index 34) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+34
+General Perk
+When you reach 4th level, and again at 8th, 12th, 
+16th, and 19th level, you have the ability to person-
+alize your Ranger a little further and must choose 
+to gain a generic Perk of your choice for which you 
+meet the prerequisites.
+Extra Attack
+Beginning at 5th level, you can attack twice, 
+instead of once, whenever you take the Attack 
+action on your turn. This Role Perk only functions 
+while Morphed and fighting as an individual.
+Grid Power
+First upon reaching 6th level, then again at 11th 
+and 16th levels, your understanding and connection 
+to the power that flows from the Morphin Grid in 
+ways other Rangers may not. Each time you acquire 
+this Role Perk, you may choose a Grid Power (see 
+page 99) to add to your Ranger, so long as they meet 
+the requirements, if any. 
+One For All
+Upon acquiring 11th level, your connection 
+to and willingness to sacrifice for your team is 
+strong enough to bridge your power into them at a 
+moment’s notice. Once per day, as a standard action 
+while Morphed, you can spend 3 of your current 
+Personal Power to allow all of your teammates to 
+regain 1d2 Personal Power immediately. Unlike 
+other Black Ranger features, this does NOT cost one 
+of your Quips & Speeches.
+All For One
+At 18th level, your Ranger career of always being 
+there for your teammates can be turned into a two-
+way street when you are in dire need. If you are ever 
+brought to 0 Personal Power or 0 Health, you can 
+immediately call upon your fellow Ranger team-
+mates to help you. When this Role Perk is called 
+upon, each member of your team may choose to 
+give 1d2 Power and/or 1 Health to you immediately, 
+spending the same amount from themselves to do 
+so. This ability may only be used once daily. 
+Black Ranger Prime
+At 20th level, you have become the most 
+advanced version possible of your team’s Black 
+Ranger. Your Morphed form immediately gains the 
+following benefits:
+• +2 to all Defenses.
+• Additional point of Damage on Martial Arts 
+Attacks
+• Edge on Social skill checks
+                                           
+
+===== PAGE 59 (index 58) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+58
+THE ADVANCED RANGER 
+SPECTRUM
+Found shining in between the various color wave-
+lengths of the Ranger Spectrum, there are a rare 
+few “colors” of the Ranger Spectrum that manifest 
+only in specific situations – when a candidate is 
+determined to be a perfect fit for that energy. These 
+advanced wavelengths function in the same way as 
+the rest of the Ranger Spectrum, but the Morphin 
+Grid chooses them for its Rangers far less often.
+In game terms, in order to take on an Advanced 
+Spectrum color, a Ranger must choose the Spectrum 
+Shift Perk. As described in the Perk section of this 
+rulebook (page 98), this will allow the character to 
+effectively “trade in” their levels of another Ranger 
+Spectrum color for an equal number of levels in one 
+of the Advanced Ranger Spectrum.
+While this core rulebook details the rules 
+for the Advanced Spectrum Role of the White 
+Ranger, future publications will allow for the 
+other, even rarer, Spectrum Roles for Silver 
+Rangers, Gold Rangers, Phantom Rangers, Purple 
+Rangers, and more! 
+Applying the 
+Spectrum Shift Perk
+When a player chooses the Spectrum Shift Perk 
+for their character, they immediately exchange all of 
+their character’s Ranger levels for those of another 
+color in the Spectrum. 
+If this is performed at 1st level (chosen as some 
+character’s bonus Perk, for instance), the new color’s 
+level progression table is used completely from 
+Level 1 in all ways.
+If this Perk is chosen at a later level, while the 
+Ranger’s new Spectrum Color applies for all pre-
+vious levels, there are some specific aspects of the 
+Ranger’s former color that will not actually change 
+from the past. 
+The Ranger that chooses this Perk at a later level 
+does not change the following aspects gained from 
+previous levels:
+• Current maximum Health
+• Role training and current Skill ranks do not 
+change
+• Previous Skill level advancements, Essence score 
+impro
+vements, Generic Perks, and Grid Powers 
+gained from past levels do not change
+The following aspects of past levels are newly 
+applied, in level order, with the new values replac-
+ing those of the former Ranger Color (including the 
+level acquired that granted the Spectrum Shift Perk):
+• Power Regeneration Rate
+• Personal Power Capacity
+• Zord (and attached Zord Features)
+• All other Role Perks
+Unless the Perk is ever taken again, the Ranger 
+c
+haracter follows the new Spectrum Color for all 
+new levels.
+ENERGY 
+COLOR DESCRIPTION ESSENCE ADJUSTMENTS POWER CAPACITY GROWTH
+White
+A leader 
+possessing a 
+unique Grid 
+weapon with 
+an advanced 
+connection to 
+their Zord.
++2 Strength & 
++1 Smarts Moderate
+TABLE 4-8:  
+THE ADVANCED RANGER SPECTRUM
+                                           
+
+===== PAGE 60 (index 59) =====
+59
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+WHITE RANGER
+Like the wavelength of light itself that it 
+represents, the White energy of the Morphin 
+Grid is like the raw energy pouring into the 
+prism to be split into the necessary parts 
+for the team to be at its best. There doesn’t 
+always have to be a White Ranger on a 
+Power Ranger team, but it goes with-
+out saying that the teams that can 
+draw on the pure and just power 
+of their energy are some of the 
+strongest the Morphin Grid has 
+ever known. They are like a two 
+sided-coin. On one side you have 
+a strong and valiant leader, but on 
+the other you have a noble war -
+rior capable of standing against 
+evil on its own.
+Elevated Champion
+Not just any candidate can 
+become one with the White 
+energy. They need to hold the 
+concept of the Morphin Grid’s 
+power close to their hearts and 
+stand as its very champion. White 
+Rangers are not always the leaders 
+of their teams, but they cannot 
+ignore their will and desire to stand 
+at the forefront and protect their 
+teammates. A White Ranger will fight 
+to the bitter end for their friends. 
+Valiant Leader
+White Rangers frequently 
+fall into the role of leading their 
+Ranger teams, and their skills and 
+abilities only augment this. They fight 
+bravely, they defend fearlessly, and 
+they orchestrate their fellow Rangers to 
+work together as a better team. The White 
+energy in the Spectrum comes with a strong 
+need to stand against the enemies of good, 
+and those who wield it are often the leg-
+ends remembered throughout history.
+                                           
+
+===== PAGE 95 (index 94) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+94
+Dig Deep
+You have a deep reserve of fighting willpower, 
+gaining the following benefits:
+• Once per scene, you can ignore the 1 Damage 
+by taking an automatic Snag on 
+all Skill T
+ests until the end of 
+your next turn.
+• Once per scene, you can heal 
+1d2 Health by forfeiting your 
+entire turn.
+Dodgy
+Prerequisite: Speed 3 or higher
+You have learned a lot from being in school, gaining 
+the following benefits
+• You gain a +2 bonus to your Evasion.
+• On any turn where you do not mo
+ve more than 5 
+feet you may Defend as a Free action.
+Educated
+Prerequisite: Smarts 3 or higher
+You have learned a lot from being in school, gain-
+ing the following benefits:
+• Gain fluency in 1 Language of your choice.
+• Add an additional Story Point to your team’s pool 
+eac
+h game session.
+• May act as though Specialized in any Smarts skill 
+once per da
+y.
+EMT Crash Course
+You’re no doctor but you’ve been 
+in enough scrapes to know the 
+basics of trauma care and 
+the value of having a stocked 
+medkit on hand. You gain the 
+following benefits:
+• Once per scene, as long as 
+you hav
+e a medical kit on you, 
+you can spend an action to 
+heal one Damage on yourself 
+or an ally.
+• As long as you have a med
+-
+ical kit, you may restore an 
+Essence point to an ally
+• You gain Edge on Science: 
+Medicine checks to learn 
+clues from deceased persons
+                                           
+
+===== PAGE 101 (index 100) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+100
+Faster Regeneration
+Your Morphed form can repair damage at an 
+increased rate. You may spend 1 Power to heal 
+1d2 Damage, usable once per scene.
+Illuminate
+You can shine with the light of righteousness. While 
+Morphed, you may spend 1 Power to emanate bright 
+light in a 30 foot radius for 1 minute. While in effect, 
+your Martial Arts attacks inflict energy damage.
+Harden Armor
+You shield your armored shell with energy from 
+the Morphin Grid. Your armor bonus to Toughness, 
+while Morphed, is 1 point higher. This Grid Power 
+may be chosen up to three times.
+Machine Merge
+You and your Zord can become one body, one 
+mind. When you summon your Zord, you can be 
+considered to be driving it anywhere within 100 
+feet and line of sight. Aside from you being a safe 
+distance from your Zord, there are no other changes 
+as to how you are driving the vehicle in question 
+(rolling Initiative, using vehicle attacks, etc.).
+Mnemonic Recall
+You have access to the flow of historic details as 
+etched in the energies of the Morphin Grid. You may 
+spend 1 Power to instantly remember one particular 
+detail from your own past from the last 30 days.
+Penetrating Strikes
+You can funnel raw Morphin Grid energy into 
+your hand to hand impacts. By spending 1 Power, 
+you allow your Martial Arts attacks to ignore armor 
+bonuses to Toughness for 1 minute.
+Power Blast
+While Morphed, you can force Morphin Grid 
+energy to coalesce into an unstable bubble, hurling 
+it toward your enemies to explode. After spending 
+between 1 to 5 Power you can make a Throwing-
+based ranged attack action with a reach of 40/100. 
+If it hits, the target suffers 1 Damage per Power 
+spent in energy damage. If it misses, the attack fiz-
+zles and the Power is wasted.
+Power Heal
+By focusing the energy of the Morphin Grid into 
+a living being, you can knit wounded flesh. While 
+Morphed, you can spend Power while touching an 
+injured living creature. Each Power spent heals 1 
+Damage or removes one negative condition (poison, 
+transformed into a plant, etc.).
+Power Quake
+You can send a ripple across the Morphin Grid 
+itself, possibly knocking enemies – and allies – off 
+balance in the process. While Morphed, you can 
+take an action to punch the ground and spend 1 to 
+3 Power to send a tremor out in a 15’ radius, radi-
+ating from you. Every creature or vehicle caught in 
+the area must pass a Athletics or Acrobatics Skill Test 
+or be knocked Prone. The DIF for this test is equal to 
+12 plus 3 for each Power spent.
+Power Shield
+You can draw the protective nature of the Morphin 
+Grid around one of your hands, creating a shield. By 
+spending 1 Power to summon the shield, granting the 
+wielder a +2 armor bonus to Toughness. The shield 
+is a physical object that can be transferred to others, 
+and lasts until you return to your normal form.
+Power Strike
+While wielding your summoned Power weapon, 
+you can push raw energy into one of its attacks. 
+You may spend between 1 to 3 Power when mak-
+ing an attack action. If it hits, the target suffers an 
+additional 1 energy Damage per Power spent. If it 
+misses, the attack fizzles and the Power is wasted.
+                                           
+
+===== PAGE 102 (index 101) =====
+101
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+Power Transfer
+You can lean upon the linked nature of beings 
+within the Morphin Grid, pushing energy from 
+yourself into other things that might need it. While 
+Morphed and in contact with a creature or object 
+that has a measurable need for energy (Power, 
+charges in an arcane item, battery life, etc.), you 
+may freely donate Power to replenish the creature or 
+object an equitable amount (GM’s discretion).
+Relentless Blows
+Your mastery of fighting unarmed allows you to 
+attack with speed and precision. If you make an 
+unarmed attack on your turn, you may spend 1 
+Power to make two additional unarmed strikes as a 
+Free Action.
+Repair Zord
+You spend your own internal Morphin Grid 
+energy to repair damage done to your Zord – or the 
+combined Megaform your Zord is a part of! While 
+piloting your Zord, you may spend any number of 
+Power to repair damage it may have suffered. For 
+each 2 Power spent, you repair 1d2 Damage. If 
+healing a combined Megaform, the cost of this Grid 
+Power increases by 1, but the amount healed is 
+divided evenly amongst all combined parts (mini-
+mum of 1).
+Sharkcycle Rider
+Calling upon one of Zordon’s rarer gifts to 
+his Rangers, you gain the ability to summon a 
+Sharkcycle by spending 1 Power, teleporting it to 
+anywhere within 30 feet of you. This vehicle 
+matches your Spectrum color, and you 
+gain Edge on Driving skill checks while 
+using it!
+Speed Boost
+You use the Morphin Grid’s 
+energy flow to push your Morphed 
+form to the limit, increasing your 
+ground movement and potentially 
+giving you the jump on your ene-
+mies, too. While Morphed, your 
+ground movement rate is increased 
+by 10 feet. Additionally, you can 
+spend 1 Power to gain Edge on an 
+Initiative roll.
+Super Leap
+The force of gravity is even less of a concern 
+on you now that the Morphin Grid pushes and 
+pulls you through the air. Instead of the normal 
+triple maximums on your jumping distances, your 
+Morphed form may now jump to anywhere within 
+90 feet as a Move action.
+Translation Grid
+Your Morphed form now taps into the data streams 
+that flow in and out of the Morphin Grid, allowing 
+you to translate any spoken you hear and any writ-
+ten language you see as well as broadcast your own 
+voice in a universally understood language.
+Unseen Hand
+With a little focus, you can use the same invisible 
+forces within the Morphin Grid to move objects as if 
+with an invisible hand. You may summon an invisi-
+ble, floating hand that appears at a point you choose 
+within range. The hand lasts for the duration or until 
+you dismiss it as an action. The hand vanishes if it 
+is ever more than 30 feet away from you, or if you 
+choose to drop concentration over it.
+You can use a Free action to control the hand. 
+You can use the hand to manipulate an object, open 
+an unlocked door or container, stow or retrieve an 
+item from an open container, or knock over small 
+objects. You can move the hand up to 30 feet each 
+time you use it. The hand can’t attack or carry more 
+than 10 pounds. By spending 1 Power, this weight 
+maximum is increased to 50 pounds for one minute.
+                                           
+
+===== PAGE 120 (index 119) =====
+119
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+Power Armor
+All Power Rangers in morphed form gain basic 
+armor inherently built into their suits, as well as 
+the innate ability to be proficient in wearing it. 
+In addition to their Power Armor, there are var-
+ious pieces of armored equipment that will add 
+protection for a Ranger, as well as certain Limited 
+or Restricted suit upgrades available to the Power 
+Armor that change the protection level of the armor 
+without affecting how the suit looks.
+Every Power Ranger automatically receives 
+Power Armor in a color based on their Role. This 
+armor may be chosen from different types, each 
+with a specific benefit. When you choose your 
+armor, you designate your character’s overall pro-
+tection. All Rangers are proficient in their standard 
+armor, while Limited or Restricted armor may 
+require additional Training.
+Power Armor Traits
+Power Armor has the following traits that define 
+what they can do and how.
+Deflective: Dense protective sheets provide 
+some or all of this armor’s protective benefits. 
+Armor Piercing weapons ignore this armor’s 
+bonus to Toughness.
+AVAILABILITY TYPE CLASSIFICATION DESCRIPTION EFFECT TRAITS
+Automatic
+Clothes Non Armor
+A simple layer of clothing. Not armor, 
+but clothes qualify for certain armor 
+upgrades.
++0 Silent
+Standard
+Mighty Morphin 
+Armor Light Armor Layered soft armor known for its ver-satility through modularity. Toughness +1 Deflective
+Zeo Armor Medium Armor Soft goods reinforced with bullet resistant plating. Toughness +2 Deflective
+Turbo Armor Medium Armor Soft goods reinforced with bullet resistant plating. Toughness +2 Deflective
+In Space Armor Medium Armor Soft goods reinforced with bullet resistant plating. Toughness +2 Deflective
+Limited
+Metallic Body 
+Armor Heavy Armor
+Stiff, thick armor designed for specific 
+tasks that require more protection 
+than mobility, but can be retrofit for 
+more general purposes.
+Toughness +3 Deflective
+TABLE 8-5: POWER ARMOR
+                                           
+
+===== PAGE 126 (index 125) =====
+125
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+Galaxy Glider
+THREAT LEVEL: 0
+SIZE: COMMON | HEALTH: 6
+GROUND MOVEMENT: 40 feet (hover), flying 100 
+feet
+TOUGHNESS: 15 | EVASION: 17
+WILLPOWER: * | CLEVERNESS: *
+Crew: 1 driver
+Firepoints: 1 - The driver can use any weapon
+Defenses: Light Plating (+1 plating to Toughness)
+The Galaxy Glider is a personal spacecraft, ridden 
+much like a surfboard. The pilot of the Galaxy 
+Glider must be adept at driving and acrobatics, as 
+the glider is accelerated by leaning forward and 
+decelerated by leaning backwards, all while main-
+taining perfect balance. Extremely rare, these can 
+be requisitioned from the Command Center only for 
+special missions.
+SKILLS:
+Acrobatics +d6
+Might +d4
+Initiative +d8
+TRAITS: 
+Air: The Galaxy Glider is an air vehicle.
+Vehicle: As a vehicle, the Lightning Cruiser 
+requires a driver to operate. Without a driver, it is 
+considered a Threat level 0 object, and all attacks 
+target its Toughness. Effects that affect a target’s 
+Willpower or Cleverness only affect this vehicle if 
+it has a driver, in which case they target the driv-
+er’s Willpower or Cleverness. It is immune to mind 
+affecting effects and effects that exclusively affect 
+the living, like poison, but is susceptible to effects 
+that affect machines, such as Anti-Tank weapons. 
+Vehicle damage can be fixed with a Standard engi-
+neering kit and a Technology check. 
+ATTACKS:
+Flyby (Acrobatics): +d6, Reach (1 Blunt Damage 
+or Trip)
+The vehicle must move in a straight line for at 
+least 10 ft in order to do a Flyby. Up to 2 creatures 
+within the area may be affected.
+Lightning Cruiser
+THREAT LEVEL: 8
+SIZE: LONG | HEALTH: 10
+GROUND MOVEMENT: 50 feet, flying 100 feet
+TOUGHNESS: 17 | EVASION: 15
+WILLPOWER: 18 | CLEVERNESS: 14
+Crew: 1 driver, 4 passengers
+Firepoints: 5 - All crew can use any weapon, how-
+ever, if the driver is using a two-handed weapon, 
+Lightning Cruiser must be on autopilot.
+Defenses: Light Plating (+1 plating to Toughness)
+Lightning Cruiser is a sentient living being that is 
+able to drive on its own, as well as think and act 
+rationally in any given situation. It can drive on 
+land at great speeds without losing its stability and 
+maneuverability, and boasts a forward-facing fixed 
+cannon mounted on the roof of the car, which fires 
+Energy Blasts. 
+Additionally, the Lightning Cruiser can transform 
+into Jet Cruiser Mode, with the ability to to fly. 
+While in Jet Cruiser Mode, it is able to fire from the 
+four assault guns located on the wings, which are 
+hidden while in its default car mode.
+SKILLS:
+Alertness +d6
+Brawn +d4
+Might +d4
+Initiative +d8
+Targeting: +d6
+TRAITS: 
+A.I.: The Lightning Cruiser is sentient and is 
+susceptible to any Social or Smarts attacks, as it 
+has both Essence Scores. It is able to act and make 
+strategic decisions on its own.
+Air: The Lightning Cruiser converts into an air 
+vehicle.
+Autopilot, Advanced: The Lightning Cruiser does 
+not need a driver to operate at full capacity, includ-
+ing firing its weapon.
+Land: The Lightning Cruiser is a land vehicle. 
+Targeting System: The driver can attack with this 
+weapon as a Free action, using their own Driving 
+skill or the Lightning Cruiser’s Targeting skill. 
+                                           
+
+===== PAGE 127 (index 126) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+126
+Vehicle: As a vehicle, the Lightning Cruiser 
+requires a driver to operate. Without a driver, it is 
+considered a Threat level 0 object, and all attacks 
+target its Toughness. Effects that affect a target’s 
+Willpower or Cleverness affect this vehicle, as it 
+has those traits as a sentient being. It is immune to 
+effects that exclusively affect the living, like poison, 
+but is susceptible to effects that affect machines, 
+such as Anti-Tank weapons. Vehicle damage can 
+be fixed with a Standard engineering kit and a 
+Technology check. 
+ATTACKS:
+Multiple Attacks: The Lightning Cruiser makes 
+four attacks with its wing-mounted assault guns.
+Ram (Might): +d4, Reach (2 Blunt Damage to 1 
+Target or 1 Blunt Damage to 2 Targets)
+The vehicle must move in a straight line for at 
+least 5 ft in order to Ram. Up to 2 creatures within 
+the area may be affected.
+Energy Cannon (Targeting): +d6, Range 30/80 ft. 
+(2 Energy Damage)
+The Lightning Cruiser’s mounted cannon is only 
+available when in Land mode and makes one attack 
+per Turn unless damaged. The cannon is destroyed 
+after the Lightning Cruiser takes 6 Damage.
+Assault Guns (Targeting): +d6, Range 100/300 ft. 
+(1 Energy Damage)
+The Lightning Cruiser’s assault guns are only avail-
+able when in Air mode. Each of the four guns may 
+make an attack per round, suffering 1 cumulatively 
+for each attack after the first. 
+Megatank
+THREAT LEVEL: 8
+SIZE: LARGE | HEALTH: 10
+GROUND MOVEMENT: 60 feet
+TOUGHNESS: 18 | EVASION: 15 
+WILLPOWER: * | CLEVERNESS: *
+Crew: 1 driver, 8 passengers
+Firepoints: 0 
+Defenses: Heavy Plating (+3 plating to Toughness)
+The Megatank is a 6-wheeled mobile unit capable 
+of terrestrial movement while maintaining atmo-
+spheric conditions suitable for human beings. While 
+it can be used on Earth, it was designed for space 
+missions and is stored with the Megaship in a secret 
+remote location in space.
+The Megatank has two mounted Energy Cannons 
+and a large claw, used for relocating obstructions 
+and the occasional battle. It was designed for Rough 
+Terrain and is not suitable for driving on city streets.
+SKILLS:
+Brawn +d6
+Initiative +d4
+Might +d10
+Targeting +d6
+TRAITS: 
+Armored Cabin: Armor extends to cover the driv-
+ing cabin. Attacks can’t target the vehicle’s Crew. 
+Land: The Megatank is a land vehicle. It ignores 
+all penalties for Rough Terrain.
+Targeting System: The driver can attack with this 
+weapon as a Free action, using their own Driving 
+skill or the vehicle’s Targeting skill, if it has one, for 
+the Skill Test.
+Vehicle: As a vehicle, the Megatank requires a driver 
+to operate. Without a driver, it is considered a Threat 
+level 0 object, and all attacks target its Toughness. 
+Effects that affect a target’s Willpower or Cleverness 
+only affect this vehicle if it has a driver, in which 
+case they target the driver’s Willpower or Cleverness. 
+It is immune to mind affecting effects and effects 
+that exclusively affect the living, like poison, but is 
+susceptible to effects that affect machines, such as 
+Anti-Tank weapons. Vehicle damage can be fixed with 
+a Standard engineering kit and a Technology check. 
+                                           

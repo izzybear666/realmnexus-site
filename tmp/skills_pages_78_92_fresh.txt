@@ -1,0 +1,1201 @@
+===== PAGE 78 (index 77) =====
+77
+06
+ESSENCE SCORESESSENCE SCORES
+AND SKILLSAND SKILLS
+E
+very creature, adversary, and character in 
+the Power Rangers Roleplaying Game is 
+made up of a number of important statistics 
+and numerical values. These statistics are 
+what allow the characters to interact with 
+the game rules, and vice versa.
+This chapter looks at two of the most 
+important statistics in the Essence20 
+Roleplaying System – the primary ESSENCE 
+SCORES and SKILLS.
+                                           
+
+===== PAGE 79 (index 78) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+78
+Essence Scores – 
+The Four ‘S’s
+At the heart of the Essence20 Roleplaying Game 
+System are the four ‘S’s – Strength, Speed, Smarts, 
+and Social. These are called the primary Essence 
+Scores, and they dictate the core elements of the 
+character (or creature, vehicle, etc.).
+A character’s Essence Scores will be a number 
+ranging from 1 to 10 as a natural, mundane human 
+being (or similar species), where heroic examples 
+– like individuals with ultra-specialized training, 
+special augmentations, or perhaps fused with the 
+universal power of the Morphin Grid – can range 
+all the way to 15! Other creatures, like many alien 
+lifeforms or robotic entities, may even have higher 
+maximum values in their Essence Scores.
+This numerical range is NOT  a direct correla-
+tion or scale of the associated Essence, but rather 
+it shows a creature’s core potential in that aspect 
+of their being. It shows their ability to grow and 
+focus upon that part of themselves, but not a 
+direct comparison.
+For example, a human with a Strength Essence 
+score of 4 is not necessarily more physically pow-
+erful than a human with a Strength Essence score 
+of 2 – but they do possess twice the Strength-based 
+potential than the other. Measuring specific things 
+like exactly how fast does a high Speed score make 
+you, or if a low Social score means you can’t pos-
+sess proper etiquettes is based upon the various Skill 
+Levels having higher Essence Ability scores grant you.
+Essence Ability Scores of 0
+Certain game effects might somehow reduce a 
+creature’s Essence Ability lower than 1. When this 
+happens, the creature in question is severely penal-
+ized in some fashion based on which Essence has 
+been zeroed out.
+• A creature with a Strength of 0 is comatose. It 
+cannot take actions of any kind and is una
+ware of 
+its surroundings.
+• A creature with a Speed of 0 is paralyzed. It can-
+not mo
+ve in any way and suffers a 2 dice shift on 
+all actions it takes.
+• A creature with a Smarts of 0 is caught in a stupor. 
+It can only take Mo
+ve actions and suffers a Snag 
+on all Skill Tests.
+• A creature with a Social of 0 is fully immersed in 
+ennui and malaise. An
+y Move or Standard actions 
+it takes cost an additional Free action and suffer a 
+1 dice shift.
+Strength
+A character’s Strength is their collective physical 
+potential. It sets the limits of their athletic prowess, raw 
+physicality, stamina, ability to withstand damage, and 
+the breadth of skills that make all of the above possible.
+Strength Essence is also how a character’s 
+Toughness Defense is calculated, which is covered 
+in the Combat chapter on page 169, as well as 
+many aspects of melee combat.
+Speed
+A character’s Speed is their natural leaning toward 
+agility, hand-eye coordination, manual dexterity, and 
+physical acuity. How quickly a character can react to 
+outside stimuli, their ability to learn how to move their 
+body and its various parts is all tied to their Speed.
+Speed Essence is how a character’s Evasion 
+Defense is calculated, which is covered in the 
+Combat chapter on page 169, as well as how profi-
+cient a character is with most ranged weaponry. 
+Smarts
+A character’s Smarts is their capacity of learning, 
+understanding, logic, and problem solving. The 
+higher a creature’s Smarts, the better their ability to 
+gather and hold learned information like technologi-
+cal workings, scientific applications, cultural specific 
+facts, and their sharpness and attention to detail.
+                                           
+
+===== PAGE 80 (index 79) =====
+79
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+Smarts Essence is how a character’s Willpower 
+Defense is calculated, which is covered in the Combat 
+chapter on page 169 and may affect the number of 
+Languages a character knows at character creation.
+Social
+A character’s Social is their instincts toward nat-
+ural charm and charisma, the potential power of 
+their personality, and their overall wit. It is through 
+this part of their core being that they learn how to 
+manipulate others, hide information with half-truths, 
+and turn on the likeability and animal magnetism.
+Social Essence is how a character’s Cleverness 
+Defense is calculated, which is covered in the 
+Combat chapter on page 169, as well as how a char-
+acter can wield their own reputation as a tool or even 
+a weapon. Social Essence may also affect the number 
+of Languages a character knows at character creation.
+Skills and 
+Specializations
+While a character’s Essence Abilities set their 
+potentials, it truly is their Skills and subsequent 
+Specializations that show the character’s ability to 
+use that potential. In the Essence20 Roleplaying 
+Game System, skills represent everything a charac-
+ter can do proficiently, as well as a few additional 
+aspects of a character’s life. 
+Skill Specializations
+Further defining what a character is especially good 
+at, most skills have Specializations. These show a par-
+ticular area of expertise, and allow the character to 
+roll more dice when their specialization comes into 
+play. Specializations are available for most skills and 
+are open ended, though this chapter suggests a few 
+for each skill that may come into play more often.
+See the ‘Using Skills’ section later in this 
+chapter to see how Specializations modify a 
+character’s skills.
+Using Each Essence & Skill
+The following sections describe the Skills char-
+acters can gain and learn as their Essence Ability 
+scores improve, broken down into their four differ-
+ent Essence-based categories. Each skill details its 
+most common uses, and lists common specializa-
+tions that often attach to them, if any. 
+Strength-Based 
+Skills 
+The following are the skills and suggested spe-
+cializations for each that are associated with a 
+character’s Strength Essence. 
+Athletics
+This skill dictates a general physical aptitude that 
+makes you at ease with making your body perform 
+actions you need it to. Hurling an object like a 
+football or a rock with a general degree of accuracy 
+would fall under this skill, but so would catching it 
+on the move, or possibly climbing a sheer cliff face, 
+etc.
+Sample Specializations
+• Climbing: The ability to find foot and handholds 
+on surfaces, use lengths of rope, or similar circum-
+stances to scale v
+ertical heights.
+• Jogging/Running: T
+he ability to maintain the 
+Sprint action over extended periods of time or 
+long distances.
+• Sports Activity: Choose a sport or activity not co
+v-
+ered by another skill (such as a biathlon or archery 
+would be covered by Targeting); the character 
+benefits when making Strength skill rolls with that 
+sport.
+• Swimming: The ability to tr
+averse aquatic situations.
+• Throwing: 
+The ability to hurl an object with 
+great force.
+Brawn
+This skill is the measure of your prolonged phys-
+icality. Unlike a burst of strength, Brawn dictates a 
+general and constant level of physical prowess. This 
+is the ‘marathon effort’ of strength-based applica-
+tions, and dictates how much weight a character 
+can carry on them normally (see boxed text).
+Brawn is special in that certain equipment 
+or weapons that are very heavy have a Brawn 
+requirement to use. If a piece of equipment has 
+a Brawn requirement, every level lower than that 
+requirement you possess imposes a 1 shift in the 
+equipment’s use!
+                                           
+
+===== PAGE 81 (index 80) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+80
+Sample Specializations
+• Drag: The ability to pull significant levels of 
+weight behind you while mo
+ving, most often 
+using rope, ties, a yoke, etc. It is a Difficulty 10 
+Skill Test to drag double your Carrying Weight at 
+half Movement rate for one minute; Difficulty 20 
+to triple, 30 to quadruple, etc.
+• Lift: The ability to pick up significant lev
+els of 
+weight to at least shoulder height while stationary. 
+It is a Difficulty 14 Skill Test to lift double your 
+Carrying Weight for 1D4 turns (5-20 seconds); 
+Difficulty 28 to triple, etc.
+• Stamina: The ability to push y
+ourself beyond the 
+normal limits of physicality, extending the amount 
+of time an exhausting action (like Dragging or 
+Lifting) can last.
+Carrying Weight 
+When dealing with the Brawn of a creature, it is 
+relative to their own size and weight. A Brawn skill 
+level of D6 on a human is not as physically potent 
+as a Brawn skill level D6 on a Power Ranger’s Zord, 
+which is not as potent as a Brawn D6 on a titanic 
+monster, etc.
+Unless noted in a creature’s special rules, the 
+following skill levels in Brawn allow the creature to 
+have the listed Carrying Weight based upon their 
+own body’s physical weight:
+SKILL CAPACITY
+Unskilled 10% of Body Weight
+D2 25% of Body Weight
+D4 50% of Body Weight
+D6 75% of Body Weight
+D8 Equal to Body Weight
+D10 Half-Again (150%) of Body Weight
+D12 Double Body Weight
+TABLE 6-1: CARRYING WEIGHT
+Conditioning
+This skill represents how much additional physi-
+cal harm or damage the creature can suffer before 
+becoming Defeated. For each skill level taken in this 
+skill, you gain one additional Health.
+You may take up to six skill levels in Conditioning. 
+This skill does not have specializations.
+Intimidation
+This skill is used to wield the physical potential 
+of a character as a psychological weapon, implying 
+what the character could possibly do to another 
+creature with that physique. It plays upon the nat-
+ural instincts of a larger or more imposing figure 
+triggering the fight or flight response in smaller, 
+weaker animals.
+                                           
+
+===== PAGE 82 (index 81) =====
+81
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+Sample Specializations
+• Distract: The ability to pull another creature or 
+creatures’ focus awa
+y from their task through your 
+physical threats.
+• Frighten: T
+he ability to impose the potential threat 
+of your physique on another so that they might 
+flee, stand utterly still in fear of you, or simply 
+become frazzled with panic.
+• Taunt: The ability to use y
+our physical threats to 
+egg on and provoke a target to further interact 
+negatively with you, possibly even to the point of 
+attacking if the situation is tense enough.
+Might
+This skill covers bursts of powerful application of 
+your strength. This is not a ‘careful’ skill, but rather a 
+fast use of raw power. Brawlers, boxers, and wrestlers 
+use this skill with great success in close combat, but 
+it is also used to proficiently wield unsubtle weapons 
+like hammers, clubs, and even boulders! 
+Sample Specializations
+• Blunt Weapons: The ability to direct significant 
+force to smash through enemy defenses with r
+aw 
+power.
+• Grappling: T
+he ability to grab, twist, hold, and 
+otherwise physically control another being or 
+object.
+• Martial Arts: Depending on the Martial Art chosen 
+b
+y the player, this covers any number of mar-
+tial arts that revolve around direct application 
+of strength over speed, such as Boxing, Greco 
+Wrestling, Judo, Muay Thai, Sambo, or Systema.
+• Power Weapons:
+ This is the ability to wield a 
+heavier, possibly two-handed, Power Weapon man-
+ifested for Power Rangers by the Morphin Grid.
+• Pushing: The ability to use a single application of 
+for
+ce to move another, possibly unwilling, object. 
+See the boxed text for details.
+ Pushing and Shoving 
+When a character wishes to Push another creature 
+or object, they must spend a Standard action to do 
+so when they are adjacent. They must then perform 
+a Might (Pushing) Skill Test, applying the following 
+dice shift modifiers:
+• 1 for each Size Class larger you are than the target
+• 1 for each Size Class smaller you are than the target
+• 1 for each 20 feet of straight-line movement taken 
+toward the target immediately before the action
+• 1 for each skill level in Might the target possesses 
+IF it has the chance to brace, hold on, dig in, etc.
+The Skill Test suffers a Snag if the target is rooted, 
+anchored, or otherwise attached to its location.
+The Difficulty of this Skill Test is 12, with each 
+successful effect moving the target directly away 
+from you a distance equal to your natural Reach 
+(based on Size Class, see page 160), or knocking 
+the target Prone. A critical failure on a Push attempt 
+knocks you Prone at the point of impact.
+Speed-Based Skills
+The following are the skills and their accompa-
+nying specializations that are associated with a 
+character’s Speed Essence.
+Acrobatics
+This skill is the general flexibility, agility, and 
+mobility of a creature’s body as well as different 
+applications of those aspects. It is especially useful 
+for using quick reflexes to maintain one’s equilib-
+rium and balance while in motion.
+Sample Specializations
+• Balance: The ability to stay upright and in control 
+of y
+our own movements despite outside stimuli, 
+loose footing, or impractical footwear.
+• Flying: The ability to turn, di
+ve, and flip in a 
+three-dimensional airspace using personal flight.
+• Gymnastics: The ability to climb, jump, cart
+-
+wheel, and move your body quickly across a 
+variety of surfaces.
+• Maneuverability: 
+The ability to duck, dodge, and 
+twist around obstacles while moving across terrain.
+Driving
+This skill is the ability to operate any number of motor 
+vehicles. Without any specialization, it represents a 
+general concept of how to adapt one’s physical footprint 
+to that of a moving vehicle. This is the skill that is used 
+to operate many of the on board systems and functions 
+of a vehicle while you are a driver or a passenger.
+                                           
+
+===== PAGE 83 (index 82) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+82
+Sample Specializations
+• Autopilot: Some vehicles are capable of operating 
+on their own when commanded to do so. 
+This is 
+the default skill those vehicles will use when oper-
+ating without a driver.
+• Boat: The ability to oper
+ate and maneuver in any 
+manner of surface-stable aquatic vehicles.
+• Hovercr
+aft: The ability to operate and maneuver 
+in any manner of vehicle that moves across terrain 
+on a cushion of downward-blowing air pressure.
+• Motorcycle: 
+The ability to operate and maneuver 
+in any manner of two or three-wheeled ground 
+vehicle with an open-air cockpit.
+• Rotor: The ability to oper
+ate and maneuver in 
+any manner of aircraft that uses rotors to control 
+altitude and velocity, such as helicopters. 
+• Submersible: T
+he ability to operate and maneuver 
+in any manner of aquatic vehicles designed to 
+operate under the surface of the water.
+• Tracked
+: The ability to operate and maneuver in 
+any manner of ground vehicles whose locomotion 
+comes from the turning of a plated or segmented 
+belt or track.
+• Wheeled: The ability to oper
+ate and maneuver in 
+any manner of ground vehicles with four or more 
+singular wheels touching the ground.
+• Winged: T
+he ability to operate and maneuver in 
+any manner of stiff-winged aircraft, like planes or 
+hang-gliders.
+• Zord: The ability to not only oper
+ate and manage 
+a Zord manifested from the Morphin Grid, but also 
+the skill a Power Ranger uses to communicate with 
+their own personal Zord. This is an important ability 
+for all Power Rangers. Although characters do not 
+suffer a Snag while driving a Zord, Specialization 
+in this skill will aid in situations, such as combat, 
+when controlling a Zord is most imperative.
+Finesse
+This skill covers a wide range of fast applications 
+of bodily dexterity, agility, and hand-eye coordina-
+tion. This includes fine movements of a watchmaker 
+or disarming a bomb as well as surges of activity 
+like martial arts strikes and fencing.
+Sample Specializations
+• Escape Artist: The ability to twist, jerk, and bend 
+in ways to undo bonds, slip free of restr
+aints, etc.
+• Martial Arts: This covers an y number of martial 
+arts that revolve around direct application of 
+speed and flexibility over raw strength, such as 
+Arnis-Eskrima, Jeet Kune Do, Kung-fu, Savate, 
+Taekwondo, or Wing Chun.
+• Power Weapon:
+ This is the ability to wield a 
+Finesse-styled, one handed, Power Weapon man-
+ifested for Power Rangers by the Morphin Grid. 
+This specialization also covers the melee ability of 
+the Blade Blaster, which is a non-unique kind of 
+Power Weapon.
+• Sharp Weaponry: T
+he ability to use aim and speed 
+to apply the requisite force with a sharp-edged 
+or piercing weapon, slicing or penetrating enemy 
+defenses with skill and precision.
+• Steady Action: T
+he ability to perform careful or dan-
+gerous actions that require precise, tiny movements 
+and as little ambient body shaking as possible.
+• Throwing: 
+The ability to use steady aim and quick 
+motion to toss something with precision rather 
+than raw force. 
+Infiltration
+This skill covers the ability to use one’s bodily dex-
+terity and physical awareness to avoid detection for a 
+variety of purposes. It covers hiding, agile misdirection, 
+and bypassing obstacles while remaining undetected.
+Sample Specializations
+• Burglary: The ability to pic k locks, move around 
+an enclosed space without making undue noise, 
+and leave little to no trace behind. 
+• Sleight of Hand: The ability to mov
+e small objects 
+in and out of places without being noticed. 
+Picking a pocket or palming a flash drive would 
+fall into this category.
+• Shadowing: The ability to follo
+w a target unseen. 
+• Stealth: The ability to mov
+e and act quietly while 
+also avoiding detection.
+Initiative
+This skill is unique in that it is solely the char-
+acter’s ability to quickly react at the first signs of 
+conflict. It is used to determine when in the apt-
+ly-named Initiative Order a character performs its 
+actions during a Combat Scene.
+You may take up to six skill levels in Initiative. This 
+skill does not have specializations. 
+                                           
+
+===== PAGE 84 (index 83) =====
+83
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+Targeting
+This skill is a character’s proficiency with judging 
+distance, arcs, wind-drag, and other factors when try-
+ing to hit a target at range. This is the overall primary 
+skill when used with Ranged Attacks, but can also be 
+used to judge distances, compare lines of fire, etc.
+Sample Specializations
+• Archery: The ability to nock, aim, and fire bows 
+and crossbows proficiently.
+• Ballistic: The ability to load, aim, and fire a 
+bullet, ball, or other physically propelled fire
+-
+arms proficiently.
+• Energy: The ability to c
+harge, aim, and fire 
+energy weapons.
+• Power Weapon: T
+his is the ability to efficiently 
+aim and fire a ranged Power Weapon mani-
+fested for Power Rangers by the Morphin Grid. 
+• Specific Weapon: 
+You may choose a specific 
+weapon type aside from your Power Weapon to 
+specialize in and make attacks with that weapon 
+proficiently.
+• Throwing: T
+he ability to 
+hurl physical, aerody-
+namic weapons by 
+hand with precision. 
+Throwing knives, 
+shuriken, and sim-
+ilar items can be 
+covered by this 
+specialization.
+• Trajectory: 
+The ability to look at the aftermath of a 
+ranged attack and calculate where it came from.
+• Vehicle: T
+he ability to use weaponry mounted to a 
+hardpoint on a vehicle.
+                                           
+
+===== PAGE 85 (index 84) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+84
+Smarts-Based 
+Skills
+The following are the skills and their accompa-
+nying specializations that are associated with a 
+character’s Smarts Essence.
+Alertness
+This skill is the collective awareness and percep-
+tiveness of the character. It is their ability to not only 
+see, hear, or otherwise notice things around them, 
+but also to decipher clues, look into mannerisms, 
+and see traps or ambushes.
+Sample Specializations
+• Insight: The ability to judge another’s intentions, 
+see patterns in speech or beha
+vior, and otherwise 
+determine what a creature believes to be true or 
+false in a given moment.
+• Investigation: The ability to search an area for 
+clues, specific details, hidden images or items, or 
+other secrets in the scene.
+• Perception: T
+he ability to take in the overall 
+details of a scene in a quick pass of the senses. 
+This is not a deep search for specifics, but rather 
+the collective make up of information about the 
+present scene.
+Culture
+This skill is a general collection of information 
+about aspects of sentient beings. It can be used to 
+learn a small amount of information on a variety of 
+topics concerning a species, community, or other 
+group of sentient beings. Through its specializations 
+however, a character can focus attention on greater 
+detail of a chosen aspect of culture.
+Sample Specializations
+• Grid Lore: This is a specialization that focuses not 
+on a culture exactly, but instead on the resear
+ch-
+ing and understanding of the collective Morphin 
+Grid. This is an extremely useful skill special-
+ization for understanding the many facets of the 
+Mighty Morphin Power Rangers world setting.
+• History: The ability to recall specific notes or 
+moments in the known history of one’
+s own his-
+tory, or the history of a different Specific Culture 
+you have skill levels in.
+• Language: Each instance of this specialization 
+purc
+hased for this skill is a new Language (or the 
+equivalent) in which the character becomes fluent. 
+While not tied directly to any specific Culture, 
+learning how to communicate in various ways 
+is a major part of cultural communication. It is 
+important to note that these specializations cover 
+non-verbal or code-based languages like sign lan-
+guage, binary, Morse Code, and even Semaphore.
+• Psychology: T
+he ability to understand the men-
+tality or behaviors of one’s own culture, or the 
+mentality/behavior of a different Specific Culture 
+you have skill levels in. 
+• Specific Culture: Depending on what Culture is 
+chosen to specialize in, this sho
+ws a wide knowl-
+edge base on that Culture. Unless a specialization 
+in a Specific Culture is chosen, the other applica-
+tions of this skill are assumed to be rooted in one’s 
+own Culture or people.
+                                           
+
+===== PAGE 86 (index 85) =====
+85
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+Science
+This skill is the general understanding of the sci-
+entific method, how hypotheses work, and how to 
+calculate the logical path toward getting a defini-
+tive answer to the questions reality sometimes sets 
+before you.
+Skill levels in this skill reflect one’s overall knowl-
+edge of the scientific, but requires more detailed 
+and specific learning to utilize aspects of the differ-
+ent topics or subjects. It is the difference between 
+knowing something is a chemical reaction and what 
+combines to make that reaction and why.
+Sample Specializations
+• Medicine: Knowledge of anatomy , diagnosis, care, 
+and treatment. Science (Medicine) is used by doc-
+tors, paramedics, and any others who value life.
+• Specific Subject: Depending on the specific 
+branc
+h of Science chosen, such as Biology, 
+Chemistry, Xeno-zoology, etc., this is the spe-
+cialized knowledge and actual applications of 
+that science. 
+Survival
+This skill is the ability to apply what you have 
+learned about the natural world and its many envi-
+ronments. This is the knowledge, understanding, 
+and application of different ways to make use of the 
+environment around you. 
+Sample Specializations
+• Cartography: The ability to draw and decipher 
+maps and terrain.
+• Foraging: T
+he ability to scavenge food and drink 
+from the environment.
+• Hunting: The ability to trac
+k, stalk, trap, or other-
+wise efficiently deal with animal life.
+• Specific Environment: Depending on the chosen
+ 
+Environment, such as Deserts, Forests, or perhaps 
+even an Urban location, this is a deeper understand-
+ing of how to make use of such an Environment.
+• Weather Prediction: The ability to notice and 
+decipher natur
+al clues and signs of impending 
+weather patterns.
+Technology
+This skill is the understanding and application of 
+invention and technology. It allows for the research, 
+experimentation, design, and use of the various techno-
+logical advances you might come across. Using this skill 
+can also allow a character to recognize what manner 
+of science or culture a piece of technology hails from, 
+possibly allowing further research using other skills.
+Sample Specializations
+• Computer: The ability to use modern computers 
+for general purposes like internet sear
+ches, run-
+ning programs, games, etc.
+• Grid Tech: The ability to recognize, utilize, and 
+potentially rev
+erse engineer advanced items that 
+have sprung out of the immeasurable power of 
+the Morphin Grid. This is an important specializa-
+tion, especially for Power Rangers that might find 
+themselves travelling to other parts of the cosmos 
+or time due to the needs of the Morphin Grid.
+• Engineering: The ability to use the technological 
+tools and implements at hand to fashion tools and 
+equipment needed to solv
+e specific problems. 
+• Specific Technology: 
+Depending on the chosen 
+type of Technology, such as Artificial Intelligence, 
+Mechanics, Robotics, etc., this shows a deeper 
+understanding of that field. 
+LANGUAGE AND  
+NATIVE DIALECT
+You may notice that in the 
+Power Rangers Roleplaying Game, 
+English is defined as the native 
+dialect or commonly known lan-
+guage for characters and most 
+Threats. While this book is written 
+in English and Power Rangers is 
+set primarily in the United States, 
+as a player, you may be playing in 
+another language or choosing to 
+set your adventures elsewhere. 
+In that case, switch out all given 
+English language Skills for the 
+alternate language you choose 
+for all player and non-player 
+characters.
+                                           
+
+===== PAGE 87 (index 86) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+86
+Social-Based Skills
+The following are the skills and their accompa-
+nying specializations that are associated with a 
+character’s Social Essence.
+Animal Handling
+This skill is the collective intuitive and learned 
+ability to care for, train, ride, and otherwise manip-
+ulate animal life using words, gentle mannerisms, 
+and possible harsh sounds. 
+Sample Specializations
+• Calming: The ability to coax an animal into a calm 
+or at least less hostile mood with simple gestures, 
+words, and sounds.
+• Riding: The ability to mount, dismount, and 
+control rideable animals with body language, 
+w
+ords, and applied pressure. When dealing with 
+uncommon mounts (bears, giant insects, etc.), the 
+Difficulty to control these animals should be suit-
+ably increased, but this Specialization still applies.
+• Animal Type: Shows focus on one family of ani-
+mals, such as horses, canines, cattle, and the like. 
+• Training: T
+he ability to teach at least partially 
+domesticated animals certain tricks, behaviors, or 
+talents through repeated reinforcement.
+Deception
+This skill is the character’s capacity for believ-
+able dishonesty. From speaking downright lies and 
+giving verbal misdirection, to broadcasting body 
+language, this is the skill for those wanting to be 
+less-than-honest.
+Sample Specializations
+• Bluffing: The ability to tell outright lies without 
+giving a
+way tells or accidentally revealing the real 
+truth in the matter.
+• Disguise: The ability to ph
+ysically alter one’s 
+appearance to that of a false one.
+• Distraction: Skill at keeping others’ attention on 
+your r
+ather than the world around them through 
+misdirection.
+Performance
+This skill is the character’s ability to apply any 
+form of artistry, talent, or other creative outlet. 
+Whether your character’s art is dance, singing, com-
+edy, painting, poetry, and perhaps even underwater 
+basket weaving, their specialty can be applied in all 
+sorts of situations to help the team. 
+Sample Specializations
+• Visual Arts: architecture, ceramics, drawing, film-
+making, painting, photography
+, and sculpting
+• Literary Arts: fiction, drama, poetry
+, and prose
+• Performing Arts: dance, music, and acting
+• Culinary Arts: cooking, baking, chocolate making 
+and winemaking
+                                           
+
+===== PAGE 88 (index 87) =====
+87
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+Persuasion
+This skill is the character’s raw ability to convince 
+others to do or see things from your point of view 
+through conversation and body language. This is a 
+useful skill for anyone who wants to talk others into 
+what you want them to do or believe.
+Sample Specializations
+• Diplomacy: T he ability to interact socially with 
+others in the fashion acceptable for the situation 
+you are currently involved with.
+• Embellishments: The ability to pad the truth with 
+additional information and slight alterations to the 
+facts in order to make them ev
+en more attractive 
+of an option.
+• Flattery: The ability to use sweet w
+ords, friendly 
+descriptions, and potentially sycophantic details 
+to make someone want to acquiesce to you.
+• Romance: The ability to use the concept of inti-
+macy or other romantic ad
+vances to get someone 
+to agree with your point of view.
+• Truth: The ability to use plain and simple facts to 
+make y
+our point of view the obvious choice to 
+follow.
+Streetwise
+This skill is the character’s ability to see and 
+understand the social interactions, cliques, and 
+eventful happenings in an urban environment. This 
+also represents how proficient a character is at 
+surviving ‘on the streets’ through knowing where to 
+go, who to talk, or possibly more importantly – who 
+not to.
+Sample Specializations
+• Black Market: The ability to acquire goods and/or 
+services outside of regular means; likely less-than-
+legal ones.
+• Crime: The ability to kno
+w where, what kind, 
+and who is causing crime in a specific urban area 
+without having to dig into police records or any-
+thing ‘official.’
+• Gossip: The ability to seed the street-level pop-
+ulace with a topic and listen for w
+hat kind of 
+rumors, lies, and possible clues come back about 
+it over a short amount of time.
+• Transportation: 
+The ability to know how to get from 
+one place to another while overcoming obstacles 
+like traffic, road closures, and authorities.
+Gaining Skills and 
+Specializations
+From the beginning of their existence in Character 
+Creation to every time they level up in their chosen 
+Role, characters in the Power Rangers Roleplaying 
+Game gain skill levels to define what they can 
+potentially do. 
+Universally, a character gains Skill Levels in two ways:
+1. Anytime the character recei
+ves an Essence Score 
+Increase, including those at the very beginning 
+of Character Creation, they gain a Skill Level 
+to be used in the category of skills from the 
+Essence Ability gained.
+2. Special Role or Perk-related additions will 
+happen that will be noted as specific increases 
+or set levels of a skill gained from some kind of 
+Role or added Perk. 
+Unless stated otherwise, ev
+ery Skill Level gained 
+can do one of three things:
+1. Gain a Level in a New Skill - The pla
+yer chooses 
+a skill in which they do not possess any levels 
+yet and gains it at the D2 level. The exception 
+to this is the Conditioning skill, as noted in its 
+description earlier in this chapter.
+2. Increase A Known Skill’s Lev
+el – The player 
+chooses a skill in which they possess at least at 
+the D2 level and increases the skill die by one 
+step, to a normal maximum of D12. The ascen-
+sion ‘staircase’ of dice progression is as follows:  
+ 
+D2  D4  D6  D8  D10  D12 
+ 
+ A skill possessed at the D12 level is considered 
+to be as proficient as it can get without help 
+from Role or Perk benefits.
+3. Learn a New Specialization – The play
+er 
+chooses a skill in which they possess at least at 
+the D2 level and assigns a Specialization to that 
+skill. Skills can have multiple Specializations 
+if desired, and many skills function even 
+more efficiently with multiple overlapping 
+Specializations. Specializations can be anything 
+fitting for the character, but there are several 
+examples listed in the skill descriptions earlier 
+in this chapter.
+                                           
+
+===== PAGE 89 (index 88) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+88
+Using Skills
+Any time you wish for your character to take an 
+action that has an interesting chance for failure, you 
+perform a Skill Test.
+Step One: Choose Skill 
+Based on the narrative situation, determine the 
+best skill to accomplish your goal either by pro-
+posing a skill or the GM telling you which skill 
+and specialization are most applicable. In some 
+cases, searching a room over for a hidden wall 
+safe could be accomplished by Alertness to search, 
+Technology’s knowledge of security systems, or 
+Infiltration’s burglary aspect.
+When deciding on the skill being used in the 
+test, it is important for the GM to allow the player 
+freedom of choice if possible. The Essence20 
+Roleplaying System is based around the concept of 
+playing and telling a good story as much as rolling 
+high numbers on dice; if a player can narrate how 
+another skill would function better or more enter-
+tainingly in a scene, then GMs are encouraged to let 
+them use it.
+Step Two: Shift Skill Modifiers
+The GM determines if there are any outlying spe-
+cial dice shifts against or for the user. Grid Abilities, 
+special abilities, and other effects can apply dice 
+shifts up or down to your Skill Test. Once all appli-
+cable dice shifts are calculated, the final skill roll 
+shift(s) are noted.
+Dice shifts can raise or lower a skill die beyond 
+normal limitations, having specific effects. These are 
+detailed on the Sliding Dice Shift Table 6-2.
+The number of effects 
+on this table that are 
+not just a simple skill 
+dice type are detailed as 
+follows:
+Single d20 = Single d20: 
+Losing any skill dice, the 
+test is attempted with a 
+single d20.
+Auto Fail = The test 
+being rolled for is a fail-
+ure, no dice are rolled.
+Fumble = The test being 
+rolled for is a failure, 
+and the GM determines 
+some kind of detrimental 
+effect takes place (most 
+often the loss of a Story 
+Point from the player 
+character’s team).
+(2d8) = The normal dice for the test are rolled, but 
+an additional 2d8 are rolled as if they were a single 
+dice to be rolled in the normal skill die progression.
+(3d6) = The normal dice for the test are rolled, but 
+an additional 3d6 are rolled as if they were a single 
+dice to be rolled in the normal skill die progression.
+Auto Success = The player MAY choose not to roll 
+the dice and take the most basic form of success on 
+the test being rolled for. If they roll the dice, they do 
+so with 3D6 as their bonus dice – but must accept 
+the result of the roll.
+Critical Success = This is treated as an Auto Success 
+result, but if the player decides to roll the dice, 
+they will attain a Critical Effect if their result would 
+be a success – no matter the results on the dice 
+themselves.
+ = These are steps on the Dice Shift scale that 
+are not attainable as ‘normal’ positions by Player 
+Characters. They are only used on account of 
+Dice Shifts from traits, equipment, or special 
+circumstances.
+BASE DIE TYPE
+Critical Success
+Auto Success
+(3d6)
+(2d8)
+D12
+D10
+D8
+D6
+D4
+D2
+Base Die
+Auto Fail
+Fumble
+TABLE 6-2: SLIDING DICE SHIFT
+                                           
+
+===== PAGE 90 (index 89) =====
+89
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+Step Three: Edge, Snag, or Both?
+After determining your final skill level, determine 
+if you have any effects that modify your d20 roll: do 
+you benefit from Edge, suffer a Snag, or both?
+When you have Edge, you roll a second d20 and 
+choose the higher of the two d20s for your result.
+Suffering a snag works similarly: you roll a second 
+d20 but choose the lower of the two d20s for your 
+result.
+Multiple applications of either aren’t counted 
+unless a Perk specifically allows you to have an 
+“extra Edge.” Otherwise, if you have two sources of 
+Edge or Snags from different sources, you still only 
+roll one additional d20. Any time when you would 
+have Edge and a Snag on a roll, you have neither 
+and you roll one d20 like a normal skill roll. 
+When you have an ability that lets you reroll 
+a D20 die, such as spending a Story Point or the 
+Lucky Perk, you can reroll or replace one D20 
+during the skill roll.
+Step Four: Determine Difficulty
+For every skill check, the GM determines the 
+difficulty of the task, represented by DIF. The more 
+difficult a task, the higher its DIF. The Typical 
+Difficulty table shows the most common DIFs.
+Sometimes the diffi-
+culty is set by something 
+else - when affecting 
+another character, the 
+DIF can be set by their 
+defenses (Toughness, 
+Evasion, Willpower, or 
+Cleverness) or through a 
+contested roll.
+Lend Assistance
+Power Rangers as a team earn suc-
+cess or face failure as a team; this 
+means that they’ll frequently work 
+together on a task. One character leads 
+the effort, and another helps. This aid 
+can grant the leader either Edge or ↑1 
+shift on their roll.
+A character can only help if the 
+challenge is one they could attempt 
+alone with points in the skill and 
+appropriate equipment when needed. 
+For example, a character untrained in 
+Science can’t help a doctor stabilize a 
+critical patient.
+Finally, a character can only benefit 
+from help when two or more char -
+acters working together would be 
+productive - no amount of backseat 
+driving helps when there’s only room 
+or capability for a single character to 
+attempt the action.
+Group Checks
+When the whole team works together 
+as a group - such as trying to sneak 
+by a watchful Knasty Knight - those 
+more skilled help teammates who 
+aren’t. When in such a situation, every -
+one in the group attempts the skill 
+check (either rolling the same skill 
+or another appropriate one for the 
+situation - in the previous finding a 
+safe example, three characters could 
+roll different skills for the various 
+approaches) against the same DIF. If 
+half or more the party succeeds, the 
+group succeeds.
+TASK TYPE DIF
+Extremely Simple 5
+Routine 10
+Challenging 15
+Difficult 20
+Formidable 25
+Nearly Impossible 30
+TABLE 6-3:  
+TYPICAL SKILL DIFFICULTIES
+                                           
+
+===== PAGE 91 (index 90) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+90
+Contests
+When two characters’ efforts are directly opposed 
+- such as when characters reach for the same Grid 
+Artifact or a Red Ranger tries to stop a Super Putty 
+from breaking down a door. 
+In a contest, both characters roll Skill Tests appro-
+priate to their efforts, applying all bonuses and 
+penalties as normal, but instead of a static DIF, they 
+compare totals. The character with the higher total 
+wins the contest.
+If the contest results in a tie, there is no change to 
+the situation. In some cases, this may mean neither 
+character gets the Artifact, but in others, it may mean 
+the door stays shut despite the Super Putty’s efforts.
+Step Five: Roll Skill Test 
+Rolling the actual dice for the Skill Test is an easy 
+equation: D20 + Skill Die = Skill Test Result
+For example, Bulk is trying to shoulder open the 
+cafeteria door. His player rolls one d20 plus a D6 
+for his Might skill. He gets a 13 and 4, for a Skill Test 
+result of 17. 
+There are a few ways to modify how this equation 
+functions however, both positively and negatively. 
+They are as follows:
+Rolling With a Specialization
+D20 + Highest Result of all Skill Dice from 
+your modified level down the dice staircase = 
+Skill Test Result
+If the Skill Test applies to a character’s 
+Specialization, they are allowed to roll not only 
+their own modified (after dice shifts) skill die, 
+but all of the dice types descending the ‘dice 
+staircase’ (described under Gaining Skills and 
+Specializations, earlier in this chapter) as well 
+– choosing the highest numerical result on any of 
+these dice.
+For example, Billy is checking out a piece of Sirian 
+technology to see if it can help the team home in on 
+Anubis Cruger. Billy has a Technology (Grid Tech) of 
+D8. He rolls a D20 and receives a 15. He also rolls 
+a D8, D6, D4, and a D2 (the descending staircase 
+from his level), receiving a 3, 5, 3, and 2 – adding 
+the 5 to his roll of 15, for a total of 20.
+Rolling Without Skill Levels
+Lowest Value of 2D20 = Skill Result
+If a character is unskilled but still attempts to 
+accomplish a task, they roll the Skill Test normally 
+– but with a Snag. This means two d20s are rolled, 
+and the lower result is the skill result.
+For example, Skull is trying to restart Alpha-5 and 
+help out the Power Rangers. He has no levels in 
+Technology, so he rolls 2d20 and gets a 19 and a 4. 
+Sadly, the 4 must be chosen and Alpha remains dark 
+and still no matter how many times Skul kicks him!
+Step Six: Determine Results
+Once the Skill Test results have been determined, 
+it is compared to the Difficulty of the test to see if 
+the character is successful.
+• Success/Failure - If the Skill T
+est result meets or 
+exceeds the Difficulty, the test is successful. If it 
+does not, it fails. 
+• Fumble – If the result of the d20 part of the roll 
+is a natural ‘1’ 
+AND the Skill Test fails, this is 
+considered a Fumble, and should have some 
+kind of narrative description of a major mistake. 
+In addition to the narrative drawback, the team 
+should learn from these mistakes and also gain a 
+Story Point.
+                                           
+
+===== PAGE 92 (index 91) =====
+91
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 06: ESSENCE SCORES AND SKILLS
+• Critical Success – If the result of the Skill Dice 
+portion (not including the d20 result) of the roll is 
+showing the highest number value on one or more 
+Skill Dice 
+AND the skill roll is successful, this is 
+considered a Critical Success. A Critical Success 
+on a Skill Test should mean the effects of a regular 
+success take place, plus some additional narrative 
+form of excellence.
+Story Points – The 
+Great Equalizer
+In the Essence20 Roleplaying System, the GM and 
+the players are trying to not only play a game, but 
+they are also collectively telling the narrative story of 
+their characters, the setting they are playing in, and 
+the overall arc the Game Master wishes to create.
+During game play there will be moments of high 
+tension, comedy, massive success, and tragic fail-
+ure. In this game system, moments like these can 
+be called upon to create or use what is known as 
+Story Points.
+The team of player characters keeps track of a 
+pool of these Story Points for themselves, starting 
+each session with 1 Story Point per Character.
+The Game Master also has a pool of Story Points 
+to use for their NPCs, villains, and their additional 
+cast of thousands. It starts each session at a number 
+equal to the number of Player Characters.
+Gaining Story Points
+The players’ team Story Point pool will grow 
+based upon a number of factors:
+• Skill Test Fumbles add Story P
+oints to the pool
+• Particularly action-packed or exciting scenes 
+should add
+ a Story Point to the pool when the GM 
+calls for everyone to roll for Initiative
+• Ingenious ideas that result in moving the plot for-
+ward should 
+add a Story Point to the pool
+• Particularly good roleplaying scenes or playing up 
+a PC’
+s flaws should add a Story Point to the pool
+The GM’s Story Point pool grows in fewer ways, 
+but at a more steady pace:
+• If NPC personalities make Critical Successes on 
+Skill Tests, they add a Story P
+oint to the pool
+• At the beginning of each major Scene, add 1d2+1 
+Story P
+oints to the pool
+Spending Story Points
+Both the players and the GM may always choose 
+to spend their Story Points during a game session to 
+have special effects on game play:
+• Spend 1 Story Point to re-roll any dice result of a ‘1’
+• Spend 1 Story Point to roll a Skill Test as if 
+Specialized
+• Spend 1 Story Point to add +5 to any Defense 
+(must be spent before die results are announced)
+• Spend 1 Story Point to gain temporary access 
+to a minor piece of equipment or tool useful in
+ 
+the scene
+• Some Perks, Game Effects or special rules may 
+require the expenditure of a Story Point
+• The Power Rangers team can spend 1 Story
+ 
+Point per team member to cause a Grid Power 
+bloom, generating 1d2 Personal Power for each 
+team member.
+Story Points are a way to make sure the rules help 
+move the overall narrative along, keeping things like 
+abnormally poor luck or mediocre dice rolls from 
+turning an otherwise exciting game into an example 
+of tedium or monotony.
+Players should always remember however, the 
+Game Master is allowed to use Story Points, too! 
+ 
+                                           

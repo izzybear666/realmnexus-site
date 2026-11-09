@@ -1,0 +1,478 @@
+===== PAGE 56 (index 55) =====
+55
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+Right Place, Right Time
+Speed. Speed is part of what makes a Yellow 
+Ranger able to be in many places at once, and capa-
+ble of lending their help when it is needed most. 
+Yet this is not the kind of speed that is measured in 
+races and sprints. It is not merely how far they can 
+run, it is the ability to act on the go, and put their 
+skills to good use here, there, and anywhere they 
+are needed as they maneuver through a conflict.
+Hands On Fighter
+Yellow Rangers have the fastest hands and feet on 
+a Power Ranger team. While other Rangers might hit 
+harder or at a distance, Yellow Rangers are empowered 
+to strike fast and furiously up close and personal. What 
+another warrior might inflict with a single blow that 
+could be turned aside or dodged, these Rangers strike 
+from every different angle, making it impossible to avoid 
+every single strike. Their foes are worn down in seconds 
+nonetheless, and they might never have realized where 
+the tidal wave of blows ever even came from.
+Spectrum Role Features
+As a Yellow Ranger, you gain the following:
+ Power 
+Personal Power Regeneration: 3 per day
+Personal Power Capacity: +1 per every 3 levels
+ Training
+Armor: Light armor
+Starting Skill Ranks: +1 Acrobatics or Initiative,  
++1 Finesse, +1 Alertness
+Grid Equipment
+You start with your own personal possessions from 
+your pre-Morphin’ life, but also gain the following 
+items from the Morphin Grid. Those marked with an 
+asterisk are only available when Morphed.
+•	Wrist Communicator
+•	Power Morpher
+•	Blade Blaster*
+•	Two Light Power Weapons*
+LEVEL
+ROLE PERKS
+PERSONAL 
+POWER 
+CAPACITY
+FOLLOW-
+UP DIE
+STRENGTH 
+INCREASE
+SPEED 
+INCREASE
+SMARTS 
+INCREASE
+SOCIAL 
+INCREASE
+1st
+It’s Morphin Time!, Triple Strike 
+Attacks
+2
+1d2
+—
++2
++1
+—
+2nd
+Nimble Fighter, Strike Bonus (1)
+2
+1d2
+—
+—
++1
+—
+3rd
+Zord
+3
+1d2
++1
+—
+—
+—
+4th
+General Perk
+3
+1d2
+—
+—
+—
++1
+5th
+Extra Attack, Strike Bonus (2)
+4
+1d4
+—
++1
+—
+—
+6th
+Zord Feature, Grid Power
+4
+1d4
+—
+—
++1
+—
+7th
+Exploit Weakness I
+5
+1d4
++1
+—
+—
+—
+8th
+General Perk, Strike Bonus (3)
+5
+1d4
+—
+—
+—
++1
+9th
+Whirlwind Strike
+6
+1d6
+—
++1
+—
+—
+10th
+Zord Feature
+6
+1d6
+—
+—
++1
+—
+11th
+Grid Power, Strike Bonus (4)
+7
+1d6
++1
+—
+—
+—
+12th
+General Perk
+7
+1d6
+—
+—
+—
++1
+13th
+Lightning Fast
+8
+1d8
+—
++1
+—
+—
+14th
+Zord Feature
+8
+1d8
+—
+—
++1
+—
+15th
+Extra Attack (2), Exploit Weakness II
+9
+1d8
++1
+—
+—
+—
+16th
+General Perk, Grid Power
+9
+1d8
+—
++1
+—
+—
+17th
+Zord Feature
+10
+1d10
+—
+—
++1
+—
+18th
+Devastating Strike (x3)
+10
+1d10
+—
++1
+—
+—
+19th
+General Perk
+11
+1d10
+—
+—
++1
+—
+20th
+Yellow Ranger Prime
+11
+1d10
+—
++1
+—
+—
+TABLE 4-7: THE YELLOW RANGER
+                                          
+
+
+===== PAGE 57 (index 56) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+56
+It’s Morphin Time!
+Starting at 1st level, by summoning the energy 
+within you through your Power Morpher and saying 
+the words “It’s Morphin Time!” as a standard action, 
+you are enveloped with a stylized shell of Morphin 
+Grid energy that serves as your armor, grants you 
+access to your Power-based weapons, and many 
+other abilities that require Power to activate.
+While Morphed, the following traits and features 
+apply:
+•	Your Toughness Bonus is determined by your 
+Armor Training: Light (+1), Medium (+2), Heavy 
+(+4), Ultra-Heavy (+6).
+•	All of your Jump distance maximums are tripled.
+•	As a Free Action, you can summon any single 
+Power-based weapon to your hands.
+•	When reduced to 0 Health, you may choose to 
+avoid Defeat by automatically returning to your 
+natural form, unconscious, and at 1 Health.
+Triple Strike Attacks
+Yellow Rangers at 1st level have already begun to 
+show their talent at unleashing flurries of blows. You 
+can, whenever you make an Finesse attack action, 
+spend a Personal Power to make an attack with 
+EACH of your hands at no penalty, and then make a 
+third, Follow-Up martial arts attack at a target of one 
+of the previous strikes. This follow-up attack – often 
+a kick, elbow, or headbutt – has a variable skill die 
+based on your Yellow Ranger level, shown on the 
+table above.
+Nimble Fighter
+Starting at 2nd level, you use the agility of the 
+Yellow Ranger to weave through a combat deliv-
+ering blows wherever they are needed. After each 
+successful melee attack, you may immediately move 
+5 feet in any viable direction. This movement is free 
+and additional to any other movement you might 
+make during your turn.
+Strike Bonus
+Upon reaching 2nd level, you are able to infuse 
+your Morphin Grid power into your melee attacks 
+while Morphed. At the beginning of any round you 
+may spend 1 Personal Power to apply a 1 shift to 
+the first melee attack you make during your action. 
+This shift increases by 1 at 5th, 8th, and 11th levels.
+Zords
+By the time a Ranger reaches 3rd level, their role 
+in protecting the Morphin Grid requires them to bat-
+tle larger and more devastating foes. When piloting 
+your personal Zord, you cannot suffer Snags when 
+using the Driving skill.
+You now have access to a powerful construct of a 
+particular kind based upon the Power Ranger team 
+you are a part of. These are the various Zords, Borgs, 
+and Power vehicles that the Rangers summon to aid 
+them when the monsters and other minions of evil 
+are empowered by warlords like Lord Zedd and Rita 
+Repulsa. Rules and statistics surrounding Zords can 
+be found in the section starting on page 131.
+Yellow Ranger Zords
+What sort of shape a Yellow Ranger’s Zord takes 
+depends on the kind of Power Ranger Team they are 
+a part of. Examples of previously chosen Zords are: 
+•	Mighty Morphin Power Rangers: Sabretooth Tiger, 
+Griffin
+•	Ninja Power Rangers: Bear
+•	Alien Rangers: Yellow Battle Borg
+•	Power Rangers Zeo: Artillery Tower
+•	Power Rangers Turbo: Dune Star Racer
+•	Space Rangers: Mega V4 Rover
+Zord Feature
+Upon reaching 6th level, then again at 10th, 14th, 
+and 17th levels, a Ranger’s connection and profi-
+ciency with their Zord has strengthened and evolved 
+to a place where their abilities while using it are 
+stronger and more powerful than ever. Each time 
+this Role Perk is acquired by a Yellow Ranger, they 
+may choose from the list of Zord Features (see page 
+136 for details) to apply to their personal Zord.
+General Perk
+When you reach 4th level, and again at 8th, 12th, 
+16th, and 19th level, you have the ability to person-
+alize your Ranger a little further and must choose 
+to gain a generic Perk of your choice for which you 
+meet the prerequisites.
+Extra Attack
+Beginning at 5th level, you can attack twice, 
+instead of once, whenever you take the Attack action 
+on your turn. The number of attacks increases to three 
+                                          
+
+
+===== PAGE 58 (index 57) =====
+57
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+when you reach 15th level. This Role Perk only func-
+tions while Morphed and fighting as an individual.
+Additionally, the extra attacks are NOT split into 
+multiple attacks by the Triple Strike Attacks Role 
+Perk – they are singular attacks added to the stan-
+dard attack action. 
+Grid Power
+First upon reaching 6th level, then again at 11th 
+and 16th levels, your understanding and connection 
+to the power that flows from the Morphin Grid in 
+ways other Rangers may not. Each time you acquire 
+this Role Perk, you may choose a Grid Power (see 
+page 99) to add to your Ranger, so long as they meet 
+the requirements, if any. 
+Exploit Weakness
+Upon reaching 7th level, the Yellow 
+Ranger can see ways around a crea-
+ture’s strengths, turning them into 
+weaknesses. You can, after making 
+a melee attack against a target with 
+augmented defenses of some kind, 
+make a DIF 14 Alertness skill check. If 
+successful, you and your teammates may 
+ignore ONE of the target’s defense bonuses 
+(Resistance, Armor bonus, etc.) with your 
+attacks until the end of the scene. At 15th level, 
+your ability to see weaknesses allows you and 
+your team to ignore all defense augmentative 
+bonuses the target might possess.
+Whirlwind Strike
+Starting at 9th level, Yellow Rangers can unleash 
+a deadly spinning attack at groups of ene-
+mies surrounding them. You can, by 
+expending 1 Personal Power 
+while Morphed, allow your 
+attack action’s melee attacks 
+to target every enemy adja-
+cent to you until the end of the 
+round. You still only make single 
+attack rolls, but they are applied 
+equally among all enemies adja-
+cent to you similar to an Area of 
+Effect ranged attack.
+Lighting Fast
+A 13th level Yellow Ranger is capable of flashing 
+like a burst lightning to a specific location in the 
+blink of an eye. By spending 1 Personal Power while 
+Morphed, instead of moving normally, you can 
+instantly appear anywhere within 60 feet and line of 
+sight of your current location. While this is treated 
+like a miniature teleportation, you do actually sprint 
+and/or jump to reach this new location – it is just so 
+fast, no one can see you doing so.
+Devastating Strike
+Upon achieving 18th level, the Yellow Ranger’s 
+melee attacks can find the precise point on a target 
+to inflict maximum damage. You now inflict triple 
+damage when you make a critical hit on a target 
+instead of the normal double damage.
+Yellow Ranger Prime
+At 20th level, you have become 
+the most advanced version possible 
+of your team’s Yellow Ranger. Your 
+Morphed form immediately gains 
+the following benefits:
+•	Resistance to normal 
+blunt and sharp 
+damage.
+•	Additional point of 
+Damage on Finesse 
+Attacks
+•	 Gain Edge on Speed 
+skill checks
+                                          
+
+
+===== PAGE 59 (index 58) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+58
+THE ADVANCED RANGER 
+SPECTRUM
+Found shining in between the various color wave-
+lengths of the Ranger Spectrum, there are a rare 
+few “colors” of the Ranger Spectrum that manifest 
+only in specific situations – when a candidate is 
+determined to be a perfect fit for that energy. These 
+advanced wavelengths function in the same way as 
+the rest of the Ranger Spectrum, but the Morphin 
+Grid chooses them for its Rangers far less often.
+In game terms, in order to take on an Advanced 
+Spectrum color, a Ranger must choose the Spectrum 
+Shift Perk. As described in the Perk section of this 
+rulebook (page 98), this will allow the character to 
+effectively “trade in” their levels of another Ranger 
+Spectrum color for an equal number of levels in one 
+of the Advanced Ranger Spectrum.
+While this core rulebook details the rules 
+for the Advanced Spectrum Role of the White 
+Ranger, future publications will allow for the 
+other, even rarer, Spectrum Roles for Silver 
+Rangers, Gold Rangers, Phantom Rangers, Purple 
+Rangers, and more! 
+Applying the 
+Spectrum Shift Perk
+When a player chooses the Spectrum Shift Perk 
+for their character, they immediately exchange all of 
+their character’s Ranger levels for those of another 
+color in the Spectrum. 
+If this is performed at 1st level (chosen as some 
+character’s bonus Perk, for instance), the new color’s 
+level progression table is used completely from 
+Level 1 in all ways.
+If this Perk is chosen at a later level, while the 
+Ranger’s new Spectrum Color applies for all pre-
+vious levels, there are some specific aspects of the 
+Ranger’s former color that will not actually change 
+from the past. 
+The Ranger that chooses this Perk at a later level 
+does not change the following aspects gained from 
+previous levels:
+•	Current maximum Health
+•	Role training and current Skill ranks do not 
+change
+•	Previous Skill level advancements, Essence score 
+improvements, Generic Perks, and Grid Powers 
+gained from past levels do not change
+The following aspects of past levels are newly 
+applied, in level order, with the new values replac-
+ing those of the former Ranger Color (including the 
+level acquired that granted the Spectrum Shift Perk):
+•	Power Regeneration Rate
+•	Personal Power Capacity
+•	Zord (and attached Zord Features)
+•	All other Role Perks
+Unless the Perk is ever taken again, the Ranger 
+character follows the new Spectrum Color for all 
+new levels.
+ENERGY 
+COLOR
+DESCRIPTION
+ESSENCE 
+ADJUSTMENTS
+POWER 
+CAPACITY 
+GROWTH
+White
+A leader 
+possessing a 
+unique Grid 
+weapon with 
+an advanced 
+connection to 
+their Zord.
++2 Strength & 
++1 Smarts
+Moderate
+TABLE 4-8:  
+THE ADVANCED RANGER SPECTRUM
+                                          

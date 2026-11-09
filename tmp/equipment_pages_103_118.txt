@@ -1,0 +1,1022 @@
+===== PAGE 103 (index 102) =====
+102
+08
+ EQUIPMENTEQUIPMENT
+T
+he Power Rangers arsenal is a funda-
+mental part of their ability to combat 
+evil. From Power Morphers and Power 
+Suits to their assorted weapons, a Ranger, 
+while heroic in their own right, has lit-
+tle power without these important pieces 
+of equipment. Given to each Ranger by 
+Zordon upon their calling, this equip-
+ment is all stored at the Command Center, 
+ready for assignment to the heroes of the 
+Morphin Grid.
+What’s that you usually yell about now? 
+Something about “Morphin’ Time,” isn’t it?  
+ - Goldar
+                                           
+
+===== PAGE 104 (index 103) =====
+103
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+About Equipment
+A Power Ranger’s most important asset beyond 
+their quick thinking and fast reflexes is their Power 
+Morpher. Your Power Morpher controls everything 
+in your arsenal, including your Zord.
+The equipment catalogued in this chapter includes:
+• Power Morphers
+• Weapons
+• Power Suits
+• Gear
+• Kits
+• Vehicles
+Each section details the acquisition and use of 
+such equipment, including rules for customizing 
+and personalizing equipment. 
+Equipment Assignment and 
+Requisition 
+Unlike in some roleplaying games, Power Rangers 
+characters do not purchase their equipment with a 
+resource like money, credits, or gold pieces. Characters 
+have equipment standard to the type of Ranger they 
+are, and depending on the mission, they are given the 
+opportunity to request access to other items, many of 
+which are either housed in the Command Center or 
+can be crafted over time by Alpha 5 or science and 
+technology-minded characters. 
+While morphed, your character automatically 
+receives a combination of “standard issue” Power 
+Rangers armor and sidearm, specialized weap-
+onry, qualified equipment, and mission critical 
+items. At all times, Power Rangers wear their Wrist 
+Communicator and Power Morpher.
+Standard Issue: You and every Power Ranger 
+receives the same basic equipment: a Power 
+Morpher, a Wrist Communicator, a Power Suit, and 
+a Blade Blaster. 
+Qualified Equipment: Different equipment 
+requires different training, just as different training 
+requires different equipment. You are assigned gear 
+with which you have qualified training from your 
+Role and other perks. Generally, this Qualified 
+Equipment will be your special Power Weapon. 
+Sometimes, however, you will have the opportu-
+nity to choose other Qualified Equipment for your 
+arsenal, and you are allowed to do so as long as you 
+have all of the prerequisite training required.
+Vehicles are an exception to this rule. Regardless 
+of qualifications, vehicles are never assigned as 
+qualified equipment, only as mission critical items, 
+and occasionally requisitioned. 
+Personal Gear: You can bring approved personal 
+items along on missions, although it is important to 
+remember that Personal Gear that is not Grid-powered 
+cannot be stored “in the Morphin Grid” as described 
+in the Carry Limits section, below. These items have 
+the potential of being lost or discovered by prying eyes 
+if you are not able to secure them in some other way 
+during combat. As you level up, you gain opportunities 
+to customize and create equipment between missions. 
+Any customized weapons, armor, and gadgetry that you 
+have engineered (yourself or with the help of others) 
+between missions that are Grid-powered can be used 
+like any other Standard Issue or Qualified Equipment.
+Mission Critical Items: Your team may sometimes 
+receive a limited supply of specialized equipment 
+without which the mission would be impossible. This 
+can include anything from specific vehicles such as 
+the Rad Bug to one-use Power Crystals and other rare 
+equipment. Mission Critical items listed in a mission 
+loadout are assigned to your team, not each Power 
+Ranger, so the responsibility of these items is shared. 
+Carry Limits
+While morphed into Power Ranger form, you have 
+the ability to carry all of the equipment granted to you 
+by your Power Morpher. Your Power Weapon can be 
+drawn from what appears to be thin air, but which is 
+in reality, an energy pocket within the Morphin Grid. 
+Beyond this, however, you will have some carrying 
+limits, as you only have two hands, which are needed 
+to fight off your foes! Instead of tracking mass and vol-
+ume, the Power Rangers Roleplaying Game handles 
+carrying capacity broadly. Assume your character has 
+a pouch attached to your utility belt, which can hold 
+small items. Anything else that you may need aside 
+from your weapon must be carried in hand.
+Because your Power Weapons can be stored either 
+in the Morphin Grid or in your utility belt holster, 
+you have a capacity of six total “hands” of weapons 
+for your own personal arsenal. Each weapon in the 
+equipment list states the number of hands required 
+to use it effectively. You can have any combination 
+of equipment on you as long as the total number of 
+hands required to yield them all does not exceed six.
+You can only wear one Power Suit, which you 
+must be qualified for. 
+                                           
+
+===== PAGE 105 (index 104) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+104
+Equipment Properties
+The following terms define and describe how dif-
+ferent categories of equipment operate, and how to 
+access them. When a term is not listed, it does not 
+apply to that category of equipment. 
+Category: What the equipment is in the broadest 
+terms. The categories of equipment are: 
+• Weapons
+• Armor
+• Gear
+• Kits
+• Vehicles
+Availability:
+ The difficulty in obtaining such equip-
+ment. Generally the higher the availability difficulty, 
+the more powerful or versatile the weapon. Most 
+equipment that you will use in your game will be of 
+Standard or Limited availability.
+AVAILABILITY DIFFICULTY
+Automatic 0
+Standard 0
+Limited 10
+Restricted 15
+Prototype 20
+Unique 25
+Theoretical 30
+TABLE 8-1: EQUIPMENT AVAILABILITY
+Automatic: Automatic equipment generally covers 
+items that characters would inherently have, such 
+as accessibility and assistive items, like a pair of 
+prescription glasses or a hearing aid. 
+Standard: Equipment assigned to every Power 
+Ranger when they are called upon. This gener-
+ally includes a Power Morpher, Power Armor, 
+Blade Blaster, your first Power Weapon, and 
+Communication Device.
+Limited: Complex or expensive items that require 
+additional training or trust, like upgraded Metallic 
+Armor or special or customized Power Weapons.
+Restricted: Dangerous gear in the wrong hands, 
+or items with limited tactical application without 
+highly specialized training. 
+Prototype: Not-yet-approved items looking for a 
+field test, like Alpha 5’s Defender Wheel or Billy’s 
+Rad Bug. 
+Unique: One-of-a-kind item, like the Gold 
+Ranger’s Golden Power Staff or the Lightning 
+Cruiser. Before a Unique item can be requisitioned, 
+it must be established, such as on a mission, or 
+created as a theoretical item that is successfully 
+requisitioned, and returned after a mission. 
+Theoretical: Equipment that does not exist yet but 
+the right combination of existing equipment and 
+upgrades could make it exist. 
+Equipment may only be added to your arsenal if you 
+are qualified to use it. Upgrading equipment impacts 
+the availability of equipment. All weapons upgrades 
+have a limit of three modifications. When requesting 
+upgraded equipment, first apply all desired upgrades 
+to the base equipment one at a time, starting with the 
+lowest Difficulty and working up.
+For example: You decide to upgrade your Power 
+Bow and use all three available modifications. You 
+ask for a Power Bow (standard), adding upgrade 1: 
+a scope (standard), upgrade 2: bladed limbs (lim-
+ited), and upgrade 3: fire arrows (prototypical).
+Upgrade 1: Standard + Standard = Standard.
+Upgrade 2: Standard + Limited = Limited.
+Upgrade 3: Limited + Prototypical = Theoretical.
+You’ve managed to design a weapon that doesn’t 
+exist: A bow that shoots fire arrows that at up to 2 
+targets up to 60 feet away, which can also be used 
+in close combat range. If you can beat a DIF 30 
+Targeting Skill Test, perhaps Alpha 5 can build it for 
+you by your next mission.
+Type: The broad terms commonly used to describe 
+the equipment. 
+Classification: More specific terms to describe the 
+equipment. 
+Requirements: Additional qualifications that must 
+be met in order to use the equipment as intended, 
+such as a minimum ability score or skill rank, or 
+character level. More complex equipment has more 
+or higher requirements. 
+Range: The minimum and maximum range at 
+which the equipment is effective. For weapons, the 
+attacker’s reach determines the effective range of a 
+melee weapon, although the weapon may increase 
+the attacker’s reach. 
+Hands: How many hands it takes to use the equip-
+ment as intended. A weapon that can use either 
+one or two hands depending on how you use it is 
+labeled “versatile.”
+                                           
+
+===== PAGE 106 (index 105) =====
+105
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+Effects: The intended consequence of using the 
+equipment. Typically a weapon’s effect is a number 
+of Damage, but can also include being stunned, 
+incapacitated, or other debilitating effects. 
+Alternate Effects: Some weapons are intended to 
+be used in more than one way, or can easily be used 
+in unintended ways. Typically, alternate effects have 
+a consequence of using them in this way, such as a 
+downshift in the check. Some weapons have more 
+than one alternate effect. Each option is separated 
+with a comma. 
+When attacking with a weapon with alternate 
+effects, declare which effect you are using before 
+making your attack. For example, the Power Axe 
+can be used as both a melee bladed weapon or as 
+an individual cannon for ranged attacks. 
+Traits: Pertinent information about the opera-
+tion of the equipment. For example, Silent denotes 
+equipment that makes no noise when used, ideal for 
+stealth missions. 
+Weapons
+The Morphin Grid has infused the weapons used 
+by the Power Rangers with specific Grid Power that 
+resonates with each specific Ranger. While there are 
+certain weapons, such as Blade Blasters, which are 
+standard issue for every Ranger, some are specifi-
+cally attuned to the Spectrum colors attached to a 
+Power Ranger’s Role. 
+In the Essence20 Roleplaying System, rather than 
+providing individual entries with subtle differences 
+for all weapons, weapons are set apart by the Power 
+Ranger’s specific training. Functionally, all Power 
+Swords work the same way and therefore use the 
+same rules (in this case, they are classified as close 
+combat heavy bladed weapons). It is the Power 
+Ranger’s training and how they modify their weap-
+ons that set them apart. 
+                                           
+
+===== PAGE 107 (index 106) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+106
+About Weapons
+Weapons have Classifications based on a combi-
+nation of the skill required to use them, the size of 
+the weapon, and the style of weapon.
+Skill
+A weapon’s Skill describes the Skill used to attack 
+with it.
+Athletics: Attacking with this weapon takes a 
+strong, steady hand, akin to how an athlete throws a 
+ball. Example: A javelin or empty pistol. 
+Might: The effectiveness of this weapon depends 
+on the physical power behind the attack. Example: 
+An axe or club. 
+Finesse: This weapon requires a swift hand and 
+agile attacks. Example: A katana or a lasso. 
+Targeting: Your steadiness and accuracy close the 
+gap against far targets. Example: A rifle or harpoon. 
+Technology: You are not wielding a weapon, you 
+are using the weapon’s computer system. Example: 
+A drone or laser cannon. 
+Size
+A weapon’s Size describes how easy it is to 
+carry, draw, and wield. Weapons sizes, from 
+smallest to largest, are Integrated, Side, Medium, 
+Long, and Heavy.
+Integrated: A weapon built into the attacker’s 
+body -like a human’s fist or a skunk’s spray- or worn 
+with minimal encumbrance -like brass knuckles, or 
+a wrist rockets. A vehicle’s ramming damage is also 
+considered an integrated weapon.
+Integrated weapons can not be disarmed, and do 
+not need to be drawn to be wielded. 
+Sidearm: A weapon small enough to be stowed 
+for convenient access, or easily concealed, such 
+as a blaster or dagger. Sidearms can be drawn as a 
+free action.
+Medium: A manageable size and weight for the 
+average soldier. Most primary weapons are medium. 
+Medium weapons have no special rules; they 
+are the standard against which to judge other sized 
+weapons. Drawing a medium weapon is a move 
+action. However, drawing a medium Power Weapon 
+from the Morphin Grid is a free action.
+Long: A particularly large but relatively light 
+weapon. A traditional long weapon cannot be 
+stowed and requires two hands to carry.
+Drawing a long weapon is a standard action. 
+A long Power Weapon may be drawn from the 
+Morphin Grid as a move action. 
+Heavy: A weapon so cumbersome, training to use 
+the weapon includes how to carry it. A traditional 
+heavy weapon cannot be stowed and requires two 
+hands to carry.
+Drawing a heavy weapon is at least a standard 
+action. Heavy weapons that require additional setup 
+have the Mounted trait. Drawing a heavy Power 
+Weapon is a standard action.
+Style
+A weapon’s Style describes its broad use in combat. 
+Melee: A hand held weapon used in close com-
+bat, such as blades and shafts. 
+Energy: Fires short bursts of focused energy, 
+such as fire, a laser, or an electromagnetic pulse. 
+Extremely effective, though hard to come by. Bladed 
+energy weapons have limited ability to deal energy 
+damage upon activation.
+Explosive: Self-destructive weapons that deal 
+incredible damage to targets caught in the area, 
+both friend and foe. 
+Projectile: Shoots ammunition at dangerous velocity. 
+Loud, but effective as long as the ammunition lasts. 
+Weapon Effects and Traits
+Weapons have the following effects and traits that 
+define what they can do and how. Additionally, 
+weapon upgrades can add, remove, and modify a 
+weapon’s traits. 
+Anti-Tank
+Attacks with this weapon ignore plating bonuses 
+to Toughness.
+Armor Piercing
+Attacks with this weapon ignore deflective 
+bonuses to Toughness from armor.
+Amphibious
+This weapon can be used on land and underwater 
+without penalty. 
+Aquatic
+Can be used underwater without penalty, and on 
+land with 3.
+Area
+Affects all targets in the listed area, in the way listed. 
+                                           
+
+===== PAGE 108 (index 107) =====
+107
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+Ballistic
+A small projectile fired at irresistible speeds. 
+When attacking a target outside their close Reach, 
+Ballistic weapons automatically affect Toughness 
+unless the target is behind cover. 
+Blunt
+A dense, flat object that pulverizes on impact.
+Consumable
+Using this weapon destroys it, even if it misses its target. 
+Cover
+A nonlethal blast that fills an area with a smoke 
+or other effect that blocks the senses, granting the 
+attacker and allies behind the blast cover for a num-
+ber of rounds. 
+Element
+Element weapons, like most Power Weapons, 
+as well as other weapons like flamethrowers and 
+tasers, deal specialized types of damage: 
+Acid: Acid weapons deal an extra point of damage 
+when they hit a target that defends with Toughness. 
+Cold: Cold weapons add Stun 1 as an alternate 
+effect of the weapon. If the weapon already has a 
+Stun effect, increase the Stun effect by 1. 
+Electric: High voltage energy that homes in on 
+targets. Electric weapons gain 1 on attacks. 
+Energy: Power drawn from the Morphin Grid 
+delivers energy damage that affects Threats infused 
+with magic more easily. Energy weapons gain 1 on 
+attacks against all Threats in their grown form. 
+Fire: Fire weapons deal an extra point of damage 
+when they hit a target that defends with Evasion. 
+Laser: Laser weapons gain Stun 1 as an alter -
+nate effect, and can be used to Spot targets as an 
+alternate effect. 
+Sonic: A reverberating element that can be subtle 
+or blatant. Sonic weapons gain an alternative effect 
+identical to the weapon’s primary effect, but it tar-
+gets the Willpower defense with a 2.
+Grapple
+This weapon allows you to grapple a target from 
+within its listed range. 
+Indirect
+Indirect weapons do not need line of sight to 
+acquire a target and ignore cover as long as the target 
+does have heavy or total cover directly above them. 
+Intimidating
+Attacking with this weapon can be used in place 
+of an Intimidation check to Intimidate a target. 
+Maneuver 
+Physically manipulate a target. This weapon can be 
+used equally well to grapple, shove, or trip a target. 
+Mounted
+This weapon requires a mount, such as a tripod or 
+shooting rest, that takes a standard action to setup, 
+and a free action to pick up. 
+Multiple Targets 
+As a single standard action, you can acquire up 
+to the listed number of targets. You can only acquire 
+targets within the listed range (or the weapon’s 
+range if no Multiple Target range is listed). 
+Poison
+A long term effect that debilitates as it deals damage. 
+Psychic 
+Mental manipulation, either through force of per-
+sonality, physical manipulation of the brain, or even 
+psychic powers. 
+Seeking
+Attacks with this weapon ignore armor bonuses 
+to Evasion.
+Sharp
+A honed edge for slashing and stabbing. 
+Silent 
+This item can be used without making noise. 
+Spot 
+You can use this weapon to lend assistance to allies. 
+Stun
+Successfully hitting with a Stun weapon means 
+the target is denied their Move action for the listed 
+number of turns. If the listed number of rounds 
+equals or exceeds the number of Health the target 
+has left, they fall unconscious, Defeated. 
+Trip
+Knock a target prone with this weapon. 
+Wrecker
+On a miss, the area this weapon targeted becomes 
+Rough Terrain.
+                                           
+
+===== PAGE 109 (index 108) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+108
+AVAILABILITY TYPE CLASSIFICATION NON-POWER EXAMPLES DESCRIPTION
+Automatic
+Brawling Might integrated melee Punches, kicks, headbutts, knees, elbows, bites Natural weapons or simple wearable weapons that hit with blunt, basic impact. 
+Strike Finesse integr ated melee Knifehand chops, kicks, pressure points A more sophisticated and educated manner in which to pummel enemies.
+Standard
+Blade Blaster 
+Might sidearm 
+melee / Targeting 
+sidearm energy
+A side dagger that converts into a small blaster.
+Zeo Laser 
+Pistols
+Targeting sidearm  
+energy
+Sidearms that fire a concentrated beam of red 
+energy able to do lethal damage. Additionally, it 
+can fire a beam dependent upon the color of the 
+Ranger using it.
+Auto Blaster Targeting  energy A blaster w hich uses an internal turbine to fire supercharged blasts.
+Turbo Blade Melee energy A sw ord with a handle that can be pulled back for an extra power boost.
+Limited
+Power Axe
+Might medium 
+melee / Targeting 
+medium energy
+A single-blade axe to be used for blunt damage 
+that also converts to a mini-energy canon.
+Power Sword Might medium melee A sharped edge that turns a simple punch into a dangerous attac k. 
+Power Lance Might medium melee A double-bladed lance that can split into a pair of trident-like sai blades, the size of escrima sticks.
+P
+ower Bow Targeting medium projectile T hrown or fired weapons that require precise handling to hit the mark. 
+Power Blaster Targeting medium energy Long-r ange energy weapon that combines the power of multiple Power Weapons.
+TABLE 8-3.1: WEAPONS
+                                           
+
+===== PAGE 110 (index 109) =====
+109
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+REQUIREMENTS RANGE HANDS EFFECTS ALTERNATE EFFECTS TRAITS
+— Reach 0 Stun 1 Blunt 1 ( 2), maneuver Blunt, Silent
+— Reach 0 Stun 1 Blunt 1 (1), maneuver (1) Blunt, Martial Arts, Silent
+— Reach 40ft/75ft 1 Energy 1 (blaster) Sharp 1 (blade) Sharp, Silent, Energy
+— 40ft/75ft 1 Energy 1
+Black: Psyc
+hic 1 
+Blue: Cold 1 
+Green: Poison 1 
+Pink: Energy 2 
+Red: Fire 1 
+Yellow: Stun 3
+Energy
+—  
+(see Combined 
+Weapon rules)
+40ft/75ft 1 Energy 1 Energy 1 to Multiple T argets (2, 1) Energy
+— Reach 1 Sharp 1 Energy 1 Sharp, Silent, Energy
+— Reach 50ft/100ft 1 Blunt 1  Energy Attac k: 1x/Encounter, Energy 3 (1) Blunt, Energy
+— Reach 1 or 2 Sharp 1
+Sharp 2 (two hands) 
+Energy Attack: 
+1x/Encounter, Energy 
+3 (1)
+Sharp, Silent
+—
+Reach x2 (Lance)
+ 
+Reach (Sai 
+Blades)
+1 or 2 Energy 1
+Energy 2 (two hands) 
+ 
+Energy 1 Multiple 
+Targets (2, Reach, 1) 
+Finesse d4 50ft/100ft 2 Energy 1
+Energy Attac
+k: Energy 1 
+Multiple Targets (2, 30ft 
+radius, 1)
+Sharp, Martial Arts, 
+Silent, Sniper, Energy
+—  
+(see Combined 
+Weapon rules)
+150ft/500ft
+5 Energy Attack: Energy x Power Weapons Energy
+                                           
+
+===== PAGE 111 (index 110) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+110
+AVAILABILITY TYPE CLASSIFICATION NON-POWER EXAMPLES DESCRIPTION
+Limited (continued)
+Zeo Power Pod 
+Sword
+Might medium 
+melee
+Collapsible sword-like batons that extend from 
+the hilt, and remain inside until the Ranger 
+decides to use it to deal a hefty blow.
+Power Daggers Finesse side melee Main gauc he, Ninjato Small traditional martial arts blades.
+Zeo Power 
+Clubs Finesse side melee Nunc haku, escrima sticks The Clubs act as blunt weapons, but can also be used in a way similar to nunchakus.
+Zeo Power 
+Tonfas
+F inesse 
+melee
+A pair of bladed tonfas used for close combat but 
+can also be thrown as projectiles.
+Zeo Power Axes Might melee A pair of axes that extend and are used simultaneously.
+Zeo P
+ower 
+Sword Might melee A short s word that does melee damage and can also fire an energy beam from the star on its hilt.
+Golden Power 
+Staff
+Finesse medium 
+melee
+A staff used in close-combat attac ks that can also 
+fire a laser from its end.
+Turbo Lightning 
+Sword Might melee A long s word with a red hand shield. When it is fully charged it can unleash a devastating attack.
+Turbo Hand 
+Blasters Targeting energy Large, one-handed blue blasters that eac h fire a powerful blast of energy.
+Turbo Thunder 
+Canon Targeting energy A large, tw o-handed cannon that fires powerful blasts of energy at an enemy.
+Turbo Star 
+Chargers Finesse melee
+Devices held in eac h hand with a metallic pole on the outside that deliver powerful amounts of 
+electricity.
+Turbo Wind Fire Targeting energy A bo w that fires multiple energy bolts.
+Spiral Saber Might medium melee A drill-shaped weapon used as a sw ord for melee combat. When activated, it can also deal a blue energy slash, dealing Cold damage.
+Astro Blaster Targeting energy
+T
+he Astro Blaster can be combined with the Spiral 
+Saber, Lunar Lance, Astro Axe, Star Slinger, or 
+Satellite Stunner to create the weapon's Booster 
+Mode, which fires more potent blasts.
+Lunar Lance Finesse melee A long lance with a crescent moon shaped blade.
+Astro 
+Axe Might medium melee A single-blade axe that deals precise sharp damage.
+Star Slinger Targeting medium projectile A slingshot that fires energy pellets at a r apid rate of 4 pellets per attack.
+Satellite Stunner Targeting medium energy Shaped like a miniature satellite, it fires pink rings of energy as projectile weapons at foes.
+T
+hunder Slinger Targeting medium projectile P owerful blasters that deliver lethal thunder dam-age to Threats made from putty material.
+TABLE 8-3.2: WEAPONS (CONTINUED)
+                                           
+
+===== PAGE 112 (index 111) =====
+111
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+REQUIREMENTS RANGE HANDS EFFECTS ALTERNATE EFFECTS TRAITS
+— Reach 1 Stun 2 Blunt 1 Blunt, Silent
+— Reach 1 Sharp 1
+Sharp 1 Multiple 
+Targets 
+(2, Reach, 1) 
+Energy Attack: 1x/
+Encounter, Energy 3 (1)
+Martial Arts, Sharp, 
+Silent
+Finesse d4 Reach 1 Stun 1 Blunt (1), Maneouver Blunt, Martial Arts, Silent
+Finesse d2 Reach, Range 10/30 2 Sharp 1 Sharp (1), Maneouver Sharp, Martial Arts, Silent
+— Reach 2 Sharp 1 Energy 1 Sharp, Enegy, Silent
+— Reach, Range 30/60 1 Sharp 1 Energy 2 (Range 1) Sharp, Energy
+Finesse d6 Reach x2  Ranged 30ft/100ft 2 Stun 2 Blunt 1 Energy 1 (Range 1) Stun, Blunt, Energy
+— Reach 1 Sharp 1
+Energy 
+Attack: 1x/
+Encounter, Energy 3 
+(1)
+Sharp, Energy
+— Range 30/80 1 Energy 1 Energy , Silent
+Targeting d6 Range 30/120 2 Energy 2 Energy Attac k: 1x/Encounter, Energy 4 (2) Energy
+Finesse d6 Reach 1 Electricity 2 Electricity , Finesse
+Targeting d4 Range 30/80 2 Energy 1 2 Attacks: Energy 1 (1) Energy, Silent
+— Reach 1 Sharp 1
+Cold 1 
+Booster Mode: 1x/
+Encounter
+, Cold 2
+Cold, Sharp
+— 40ft/75ft 1 Energy 1 Energy 1 to Multiple Targets (2, 1) Energy
+— Reach x2 2 Sharp 1
+Sharp 2, (1) 
+Double Slash Attack: 
+1x/Encounter, Energy 3 
+Booster Mode: Energy 2
+Sharp, Energy
+— Reach 1 Sharp 1 Sharp 2 (2) Booster Mode: Energy 2 Sharp
+— 50ft/100ft 2 Energy 1 per 2 hits Energy 2 per 2 hits, 1 Booster Mode: Energy 2 Energy
+— 50ft/100ft 1 Stun 1 Energy 1 Booster Mode: Energy 2 Energy , Stun
+— 50ft/100ft 1 Stun 1 T hunder Attack: Energy 1 Energy Attack: Energy 1 Multiple Targets (2, 30ft radius, 1) Silent, Sniper, Stun, Thunder
+                                           
+
+===== PAGE 113 (index 112) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+112
+AVAILABILITY TYPE CLASSIFICATION NON-POWER EXAMPLES DESCRIPTION
+Restricted
+Anti-Sonic Foam 
+Gun Targeting Fires immobilizing foam at Threats.
+Power Cannon Targeting large energy A large bazooka that shoots po werful balls of energy.
+Zeo Cannon Targeting hea vy explosive Wields the power of five Rangers and fires a pow-erful paralyzing blast at Threats. The weapon is so enormous that it requires five Rangers to aim.
+Other Weapons
+Grenade Athletics side explosive Fragmentation gre-nade, stick grenade, Fire bottle A hand held thrown explosive about the size and aerodynamics of a baseball. 
+Concussion 
+Grenade
+Athletics side 
+explosiv
+e
+Flashbang, stun 
+grenade, Sound 
+bomb
+A grenade designed to confuse or disable targets. 
+Close combat 
+heavy blade
+Might medium 
+melee
+T raditional Sword, 
+Machete
+A sharped edge that turns a simple punch into a 
+dangerous attack. 
+Grappler Finesse long melee Mancatc her
+Martial Arts long 
+bludgeon
+Finesse medium 
+melee Chain w hip Reach weapons with versatile applications. 
+Martial Arts 
+short projectile
+Targeting side 
+projectile
+Boomer ang, 
+Shuriken
+Tiny projectiles, usually sharp, that require an 
+expert hand to handle and throw.
+Ranged short 
+projectile
+Targeting medium 
+projectile
+Crossbo w, Bow, 
+Dart launcher
+Thrown or fired weapons that require precise 
+handling to hit the mark
+Small thrown 
+weapon
+Athletics side 
+projectile
+Rock, thro wing 
+knife
+A simple object that can be lethal when violently 
+thrown. 
+Large thrown 
+weapon
+Athletics medium 
+projectile Spear, tomaha wk A large or heavy object that lands with an impact. 
+Martial Arts long 
+blade Finesse long melee Cla ymore, Scythe A delicately, specifically designed blade that reflects the skill of its user.
+Martial Arts 
+medium blade
+Finesse medium 
+melee
+Rapier , Katana, 
+khopesh
+Sword or axe large enough to serve as a primary 
+weapon, but light enough to be used flexibly by a 
+skilled hand. 
+Close combat 
+bludgeon
+Might medium 
+melee
+Sledge hammer, 
+Baton
+History's oldest weapon: A bludgeon that hits 
+harder than a punch. 
+TABLE 8-3.3: WEAPONS (CONTINUED)
+                                           
+
+===== PAGE 114 (index 113) =====
+113
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+REQUIREMENTS RANGE HANDS EFFECTS ALTERNATE EFFECTS TRAITS
+Targeting d4 50ft/150ft 2 Stun 2 Disrupts Sonic Energy Paralyzing
+Brawn/Targeting 
+d4 (3 Rangers) 100ft/400ft 6 Energy 4, Energy Energy 6, 2
+Brawn/Targeting 
+d4 (5 Rangers)
+200ft/600ft (min 
+30ft) 10 Stun 6, Blast (20ft radius) Energy 4, Blast (20ft r adius) Anti-Tank, Wrecker
+— 20ft/50ft 1 Sharp 1 Blast (10ft radius) Consumable, Wrec ker
+— 20ft/50ft 1 Stun 1 Blast (10ft r adius) Stun, Consumable
+— Reach 1 or 2 Sharp 1 Sharp 2 (two hands) Sharp, Silent
+Athletics d2 Reach x3 2 Maneuv er Intimidating Martial Arts, Silent
+Finesse d6 Reach x2 2 Stun 1 Blunt 1 Blunt 1 (1), Maneuver Blunt, Martial Arts, Silent
+Finesse d4 20ft/30ft 1 Sharp 1 (1)
+Maneouver (2), Sharp 
+1 Multiple Targets (3, 
+30ft radius, 2)
+Blunt/Sharp, Martial 
+Arts, Silent
+Finesse d4 Reach, 50ft/100ft 1 Sharp 1 Sharp, Martial Arts, Silent, Sniper , Energy
+Brawn d4/Huge 10ft/20ft 1 Blunt/Sharp 1 Blunt/Sharp, Silent
+— 20ft/40ft 1 Blunt/Sharp 1 Blunt/Sharp, Silent
+Finesse d6 Reach x2 2 Sharp 1
+Sharp 1 Multiple 
+Targets 
+(2, Reach, 1), Sharp 
+1 Multiple Targets (3, 
+Reach, 2)
+Martial Arts, Sharp, 
+Silent
+Finesse d4 Reach 1 Sharp 1
+Sharp 1 Multiple 
+Targets 
+(2, Reach, 1), Sharp 
+1 Multiple Targets (3, 
+Reach, 3)
+Martial Arts, Sharp, 
+Silent
+— Reach 1 or 2 Stun 1 Blunt 1 (two hands) Blunt, Silent
+                                           
+
+===== PAGE 115 (index 114) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+114
+Weapon Upgrades
+Weapons can be upgraded any time your character 
+visits the Command Center. These upgrades can be 
+minor modifications, like a flashlight attachment or 
+scary paint job, or completely change the weapon’s 
+function, like by adding an electromagnetic pulse 
+generator, or building the weapon out of rare material 
+that allows it to be used with twice the efficiency. 
+When upgrading weapons, you must succeed on 
+a DIF roll for the availability of the new weapon,  
+as listed below:
+• Automatic 0
+• Standard 0
+• Limited 10
+• Restricted 15
+• Prototype 20
+• Unique 25
+• Theoretical 30 
+This roll can be made only once per visit to the 
+Command Center
+, and if unsuccessful, may be 
+attempted again on a different day. Additionally, 
+you must leave the weapon being upgraded at the 
+Command Center for 1d20 days for the time it takes 
+to create the weapon. If you choose to keep your 
+weapon and simply request a new one, the DIF level 
+of the requested weapon goes up by 10.
+Defining Your Weapons
+While certain Power Weapons are traditionally 
+associated with specific Ranger types and colors, 
+once you determine the weapons your character 
+carries, it will take on the color of your Role. All 
+weapons that deal element damage may be cus-
+tomized to deal specific color ray damage with one 
+upgrade, as follows: Black: Psychic, Blue: Cold, 
+Green: Poison, Pink: x2 Energy, Red: Fire, and 
+Yellow: Stun.
+Ammunition
+Generally, ranged weapons require ammunition. 
+However, Power Rangers weapons fire energy-based 
+beams and pellets that never need reloading. 
+Occasionally, a weapon will have an energy output 
+that requires recharging, which will be noted in its 
+effects, commonly with a use of a certain number 
+of times per encounter. For other Power Weapons 
+that fire actual projectiles, these reloads are stored 
+in the Morphin Grid, and you can assume you have 
+enough ammunition for your entire mission. 
+                                           
+
+===== PAGE 116 (index 115) =====
+115
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+Combined Weapons
+Sometimes Power Rangers need some heavy artil-
+lery to take down a Threat. As a team, all Rangers 
+may spend their full action to move to the same area 
+(within 5 feet of at least 2 other Rangers) and com-
+bine their Power Weapons into one supercharged 
+weapon. There are restrictions for these Combined 
+Weapons, however.
+Power Blaster
+The Power Blaster is an assemblage of at least 
+five Power Weapons, and each weapon must be 
+a different type. The classic Power Blaster is com-
+prised of the Red Power Sword, Black Power Axe, 
+Blue Power Lance, Yellow Power Daggers, and 
+Pink Power Bow.
+The Power Blaster does Damage equal to the 
+amount of Power Weapons it is made of but only 
+hits if over half of the team succeeds on their 
+Skill Tests.
+Astro Blaster Booster Mode
+The Astro Blaster is a unique sidearm type that 
+allows a Ranger with another In Space-based 
+weapon to combine the two for an additional effect. 
+Combining or separating weapons in this way uses 
+both a move and standard action. The Astro Blaster 
+Booster Mode can only be used twice per encoun-
+ter and then must be disassembled in order to use 
+either individual weapon separately.
+Improvised 
+Weapons
+Sometimes characters don’t have their weap-
+ons and have to attack with whatever is at hand. 
+An improvised weapon includes any object you 
+can wield in one or two hands, such as a tree 
+branch, a table leg, a frying pan, a can of soda, 
+or even a shoe.
+Often, an improvised weapon is similar to an 
+actual weapon and can be treated as such. For 
+example, a table leg can be very similar to a club. 
+At the GM’s discretion, a character who is proficient 
+with a weapon can use a similar object as if it were 
+that weapon with the same damage effects, less any 
+Power effects.
+An object that bears no resemblance to a weapon 
+deals 1 damage, but is subject to 1 plus a Snag 
+on the roll. If a character uses a ranged weapon to 
+make a melee attack (like hitting an enemy with the 
+hilt of a blaster) or throws a melee weapon that does 
+not have the thrown property, it also deals 1 dam-
+age, but is subject to 1 plus a Snag on the roll. An 
+improvised thrown weapon has a normal range of 
+25 feet and a long range of 50 feet.
+EQUIPMENT UPGRADE
+Standard Limited Restricted Prototypical Unique
+Standard Standard Limited Restricted Prototypical Theoretical
+Limited Limited Restricted Prototypical Theoretical
+Restricted Restricted Prototypical Theoretical
+Prototypical Prototypical Theoretical
+Unique Theoretical
+TABLE 8-2: UPGRADING EQUIPMENT
+                                           
+
+===== PAGE 117 (index 116) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+116
+TYPE DESCRIPTION AVAILABILITY PREREQUISITE BENEFIT
+Aerodynamic Thrown weapon shaped for improved distance. Standard Grenade or thrown weapon Double the range of the weapon
+Extended A particularly long version of a melee weapon. Standard Weapon with a range measured in Reach Add 1 to the weapon's Reach modifier (Reach becomes Reach x2, Reach x2 becomes Reach x3)
+Flashlight A modular flashlight attachment. Standard Medium or larger weapon Weapon includes a built-in flashlight.
+Power 
+Weapon 
+Element 
+Damage 
+Assignment 
+A specific assignment of the 
+type of element damage done 
+by any standard Energy weapon
+Standard Power Weapon
+Choose a Power Weapon that does 
+Energy damage and assign this upgrade 
+to do a specific type of Element dam-
+age instead, as follows: Black: Psychic, 
+Blue: Cold, Green: Poison, Pink: x2 
+Energy, Red: Fire, and Yellow: Stun.
+Scary Deco or modification designed to trigger flight instincts. Standard Weapon without the Intimidating trait. The weapon gains the Intimidating trait.
+Scope A telescope attachment. Standard
+Projectile weapon 
+with range mea-
+sured in feet
+Double the ranges of the weapon
+Time Bomb
+This explosive is planted instead 
+of thrown, detonating when 
+time runs out. 
+Standard Grenade.
+The grenade's range becomes Reach. 
+Setting a bomb is a Standard action. 
+When a time bomb is set, designate a 
+number of turns and an Initiative count. 
+On that Initiative count in that many 
+turns, the time bomb detonates. When 
+a bomb detonates, whoever planted 
+it makes a Technology (Explosives) 
+skill test against anyone in the bomb’s 
+blast radius. This does mean that if the 
+person who set the bomb gets caught 
+in the bomb’s blast radius, they attack 
+themself. 
+Waterproof Modification to make a weapon useable underwater. Standard Weapon without the Aquatic trait. The weapon gains the Aquatic trait.
+Weatherproof Modification to make a weapon useable in hostile conditions. Standard The weapon ignores the penalties for use in a chosen environment.
+Amphibious
+Modification to make a weapon 
+useable equally on land and 
+underwater.
+Limited
+Weapon without 
+the Amphibious 
+trait.
+The weapon gains the Amphibious trait.
+Balanced 
+Grip
+Grip modified to line up with 
+specific physical training. Limited Might or Finesse weapon Use Athletics instead of the weapon's normal skill.
+Blazing Engulfs the weapon in fire. Limited
+Melee weapon 
+without an Energy 
+trait.
+The weapon gains the Fire trait.
+Corrosive Tip Coats the weapon with acid. Limited
+Melee weapon 
+without an Energy 
+trait.
+The weapon gains the Acid trait.
+TABLE 8-4.1: WEAPON UPGRADES
+                                           
+
+===== PAGE 118 (index 117) =====
+117
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+TYPE DESCRIPTION AVAILABILITY PREREQUISITE BENEFIT
+Eruptive An especially large explosion. Limited Explosive. The blast radius of the explosive's effect doubles. 
+Frigid Chemically freezes the weapon's edge. Limited Melee weapon without an Energy trait. The weapon gains the Cold trait.
+Manipulative Modified to reposition the target rather than harm them outright. Limited Weapon without a Maneuver alter-nate effect. The weapon gains Maneuver as an alternate effect.
+Proximity 
+Bomb
+This explosive is planted instead of 
+thrown, detonating when someone 
+comes close. 
+Limited Grenade.
+The grenade's range becomes 
+Reach. Setting a bomb is a Standard 
+action. Starting after the end of 
+the turn the proximity bomb is set, 
+if any time a character enters the 
+bomb’s area of effect, the proximity 
+bomb detonates. When a bomb 
+detonates, whoever planted it makes 
+a Technology (Explosives) skill 
+test against anyone in the bomb’s 
+blast radius. This does mean that if 
+the person who set the bomb gets 
+caught in the bomb’s blast radius, 
+they attack themself. 
+Radiant The latest in close combat laser technology. Limited Melee weapon without an Energy trait. The weapon gains the Laser trait.
+Refined Grip Grip modified for more delicate handling. Limited Might or Athletics weapon Use Finesse instead of the weapon's normal skill.
+Reinforced 
+Grip
+Grip modified to hold up to more 
+brutal swings. Limited
+Athletics or 
+Finesse melee 
+weapon
+Use Might instead of the weapon's 
+normal skill.
+Tasing Sparking with shocking energy. Limited
+Melee weapon 
+without an Energy 
+trait.
+The weapon gains the Electric trait.
+Rumbling Reverberates on impact. Limited
+Melee weapon 
+without an Energy 
+trait.
+The weapon gains the Sonic trait.
+Smasher Even when this weapon misses, it hits something. Limited Weapon with blast or area effect. The weapon gains the Wrecker trait.
+Automated An operating system computerizes this weapon. Restricted Weapon that uses a skill other than technology Use Technology instead of the weap-ons normal skill. Weapon gains the Computerized condition.
+Automount Folding legs allow for quick deployment of a bipod or tripod. Restricted Weapon with the Mounted trait The weapon loses the Mounted trait.
+Bewildering A shaft designed to derail a target's thoughts. Restricted Weapon with the blunt trait
+On a critical hit, the weapon 
+deals 1 damage to the target's 
+Cleverness. If this weapon has both 
+the Bewildering and the Traumatic 
+upgrade, the attacker chooses which 
+takes effect on a critical hit. 
+TABLE 8-4.2: WEAPON UPGRADES
+                                           

@@ -1,0 +1,425 @@
+===== PAGE 52 (index 51) =====
+51
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+A Long and Noble Line
+Stretching as far back as to when the Morphin 
+Grid has needed them, Red Rangers have had a 
+place on their most successful champion teams. 
+Across dimensions and across time, these noble 
+warrior leaders have all had the same ideal 
+embossed on their very core – the team comes first, 
+and its enemies cannot be allowed to harm its mem-
+bers. Even if a Red Ranger has had to put themselves 
+directly on the line in the name of their teammates, 
+they would do so gladly for the sake of their friends.
+Spectrum Role Features
+As a Red Ranger, you gain the following:
+Power 
+Personal Power Regeneration: 2 per day
+Personal Power Capacity: +2 per every 5 levels
+Training
+Armor: Light, Medium, and Heavy armor
+Starting Skill Ranks: +2 Might, +1 Persuasion
+Grid Equipment
+You start with your own personal possessions from 
+your pre-Morphin’ life, but also gain the following 
+items from the Morphin Grid. Those marked with an 
+asterisk are only available when Morphed.
+•	Wrist Communicator
+•	Power Morpher
+•	Blade Blaster*
+•	Versatile Power Weapon*
+LEVEL
+ROLE PERKS
+PERSONAL 
+POWER 
+CAPACITY
+POWER 
+STRIKE
+STRENGTH 
+INCREASE
+SPEED 
+INCREASE
+SMARTS 
+INCREASE
+SOCIAL 
+INCREASE
+1st
+It’s Morphin Time!, Power Strike
+2
++1 Damage
++2
+—
+—
++1
+2nd
+Follow Me!, Weapon Mastery
+2
++1 Damage
+—
+—
+—
++1
+3rd
+Zord
+2
++1 Damage
+—
++1
+—
+—
+4th
+General Perk
+2
++1 Damage
+—
+—
++1
+—
+5th
+Extra Attack, Let’s Bring ‘Em 
+Together!
+4
++1 Damage
++1
+—
+—
+—
+6th
+Zord Feature, Grid Power
+4
++2 Damage
+—
+—
+—
++1
+7th
+Resilience
+4
++2 Damage
+—
++1
+—
+—
+8th
+General Perk
+4
++2 Damage
+—
+—
++1
+—
+9th
+Team Focus (1)
+6
++2 Damage
++1
+—
+—
+—
+10th
+Zord Feature, Extra Attack (2)
+6
++2 Damage
+—
+—
+—
++1
+11th
+Grid Power
+6
++3 Damage
+—
++1
+—
+—
+12th
+General Perk
+6
++3 Damage
+—
+—
++1
+—
+13th
+—
+8
++3 Damage
++1
+—
+—
+—
+14th
+Zord Feature
+8
++3 Damage
+—
+—
+—
++1
+15th
+Extra Attack (3)
+8
++3 Damage
+—
++1
+—
+—
+16th
+General Perk, Grid Power
+8
++4 Damage
++1
+—
+—
+—
+17th
+Zord Feature
+10
++4 Damage
+—
+—
+—
++1
+18th
+Team Focus (2)
+10
++4 Damage
++1
+—
+—
+—
+19th
+General Perk
+10
++4 Damage
+—
+—
+—
++1
+20th
+Red Ranger Prime
+10
++4 Damage
++1
+—
+—
+—
+TABLE 4-6: THE RED RANGER
+                                          
+
+
+===== PAGE 53 (index 52) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+52
+It’s Morphin Time!
+Starting at 1st level, by summoning the energy 
+within you through your Power Morpher and saying 
+the words “It’s Morphin Time!” as a standard action, 
+you are enveloped with a stylized shell of Morphin 
+Grid energy that serves as your armor, grants you 
+access to your Power-based weapons, and many 
+other abilities that require Power to activate.
+While Morphed, the following traits and features 
+apply:
+•	Your Toughness Bonus is determined by your 
+Armor Training: Light (+1), Medium (+2), Heavy 
+(+4), Ultra-Heavy (+6).
+•	All of your Jump distance maximums are tripled.
+•	As a Free Action, you can summon any single 
+Power-based weapon to your hands.
+•	When reduced to 0 Health, you may choose to 
+avoid Defeat by automatically returning to your 
+natural form, unconscious, and at 1 Health. 
+Power Strike
+At 1st level, a Red Ranger’s attacks can be direct 
+conduits to their raw Morphin Grid energy. You 
+can, when making any form of melee attack while 
+Morphed, spend 1 Personal Power to add a number 
+of bonus Damage to the attack if successful. The 
+amount is listed on the table above.
+Follow Me!
+Upon reaching 2nd level, a Red Ranger’s lead-
+ership skills are just beginning to shine. At the 
+beginning of any combat, instead of rolling their 
+own Initiative, your teammates may always choose 
+to instead set their Initiative as 1d4 lower than yours 
+(minimum final result of 1). They must choose to 
+follow this Role Perk BEFORE you roll your Initiative 
+result, but each team member who chooses to do 
+this emboldens you and adds +1 to your result.
+For example, Jason uses Follow Me! at the begin-
+ning of a fight with Goldar and a pack of Putties. 
+Trini, Zack, and Billy decide to follow his lead; 
+while Tommy and Kimberly do not. Tommy and 
+Kimberly roll their own Initiative. Jason rolls a 13 for 
+his Initiative, adding +2 from his Initiative modifier, 
+but also adding +3 from his teammates joining in for 
+a final result of 18. Each rolling 1d4 to subtract from 
+Jason’s 18, Trini ends up with a 17, while Zack and 
+Billy both end up at 15.
+Weapon Mastery
+At 2nd level, you are focused on making the most 
+out of your Power weapon attacks. Whenever you roll 
+a 1 or 2 on a Skill die for an attack you make with your 
+Power weapon, you can reroll the die and must use 
+the new roll, even if the new roll is a 1 or a 2.
+Zords
+By the time a Ranger reaches 3rd level, their role 
+in protecting the Morphin Grid requires them to bat-
+tle larger and more devastating foes. When piloting 
+your personal Zord, you cannot suffer Snags when 
+using the Driving skill.
+You now have access to a powerful construct of a 
+particular kind based upon the Power Ranger team 
+you are a part of. These are the various Zords, Borgs, 
+and Power vehicles that the Rangers summon to aid 
+them when the monsters and other minions of evil 
+are empowered by warlords like Lord Zedd and Rita 
+Repulsa. Rules and statistics surrounding Zords can 
+be found in the section starting on page 131.
+Red Ranger Zords
+What sort of shape a Red Ranger’s Zord takes 
+depends on the kind of Power Ranger Team they are 
+a part of. Examples of previously chosen Zords are: 
+•	Mighty Morphin Power Rangers: Tyrannosaurus 
+Rex, Red Dragon
+•	Ninja Power Rangers: Red Ape
+•	Alien Rangers: Red Battle Borg
+•	Power Rangers Zeo: Phoenix
+•	Power Rangers Turbo: Red Lightning Racer
+•	Space Rangers: Mega V1 Robot
+ Zord Feature
+Upon reaching 6th level, then again at 10th, 14th, 
+and 17th levels, a Ranger’s connection and profi-
+ciency with their Zord has strengthened and evolved 
+to a place where their abilities while using it are 
+stronger and more powerful than ever. Each time 
+this Role Perk is acquired by a Red Ranger, they may 
+choose from the list of Zord Features (see page 136 
+for details) to apply to their personal Zord.
+General Perk
+When you reach 4th level, and again at 8th, 12th, 
+16th, and 19th level, you have the ability to person-
+alize your Ranger a little further and must choose 
+to gain a generic Perk of your choice for which you 
+meet the prerequisites.
+                                          
+
+
+===== PAGE 54 (index 53) =====
+53
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+Extra Attack
+Beginning at 5th level, you can attack twice, 
+instead of once, whenever you take the Attack 
+action on your turn. The number of attacks increases 
+to three when you reach 10th level and four when 
+you reach 15th level. This Role Perk only functions 
+while Morphed and fighting as an individual.
+Let’s Bring ‘Em Together!
+Starting at 5th level, your connection to the team 
+and all of your Power weapons is strong enough to 
+allow you to collect all of them together to create 
+a special combined form of weapon that unleashes 
+a devastating team-based attack. You may, as a 
+standard action, spend 1 Personal Power to begin 
+the Let’s Bring ‘Em Together process, taking a 
+Contingency action with the trigger of “When all of 
+my teammate’s Power weapons are joined, we will 
+combine our attack on…” naming the target of the 
+attack. For this feature to function, each other team-
+mate must move to be adjacent to you and name 
+the same Contingency action trigger.
+When all of your teammates have moved to be 
+adjacent, spent the 1 Personal Power, and named 
+the appropriate Contingency action trigger – your 
+team collectively triggers the Contingency actions 
+and the combined Power weapon attack takes 
+place. The ranged attack has a Reach of 100/250, 
+gains an additional 2 to hit using your attack traits 
+and abilities, but inflicts 1 Damage upon a success-
+ful hit per participating member. After the attack 
+takes place, the team’s Power weapons are returned 
+to them as normal. 
+Grid Power
+First upon reaching 6th level, then again at 11th 
+and 16th levels, your understanding and connection 
+to the power that flows from the Morphin Grid in 
+ways other Rangers may not. Each time you acquire 
+this Role Perk, you may choose a Grid Power (see 
+page 99) to add to your Ranger, so long as they meet 
+the requirements, if any. 
+Resilience
+Upon achieving 7th level, your ability to stand 
+firm against the enemies of your team makes you 
+far more resistant to damage when you willfully 
+defend against it. While Morphed, when tar-
+geted by any attack you were aware of, you 
+may choose to spend 1 Personal Power and 
+roll your Athletics skill die. You reduce all incoming 
+attacks by the amount rolled until the start of your 
+next turn.
+Team Focus
+Starting at 9th level, Red Rangers are efficient 
+at finishing off enemies that have been damaged 
+but not vanquished by their teammates. You add 
+a 1 to any melee attack that targets a target that 
+has already been attacked by your teammate since 
+your last turn. Beginning at 18th level, this bonus is 
+increased to 2.
+Red Ranger Prime
+At 20th level, you have become the most 
+advanced version possible of your team’s Red 
+Ranger. Your Morphed form immediately gains the 
+following benefits:
+•	Resistance to normal blunt and sharp damage.
+•	Additional point of 
+Damage on Power 
+Weapon Attacks
+•	Gain Edge on Strength 
+skill checks
+                                          
+
+
+===== PAGE 55 (index 54) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+54
+YELLOW RANGER
+Chosen for their understanding of 
+the arts, both creative and martial, 
+candidates to accept the power of 
+the Yellow Ranger should be clever, 
+witty, and full of originality. They 
+are fast thinkers and just as fast on 
+their feet, able to judge where best 
+to apply their skills and get there 
+quickly to do so. The Yellow energy 
+of the Spectrum chooses those 
+with adaptable minds and agile 
+hands to wield its power. Yellow 
+Rangers are not the hammer in the 
+toolbox, they are the paintbrush. 
+Instead of applying a direct single 
+solution that may pass or fail in 
+one fell swoop, a Yellow Ranger 
+is drawn to using many smaller 
+applications of their skills to build 
+up to a more certain solution.
+Soul of the Team
+Where other Rangers of the 
+Spectrum fill certain roles 
+like inventor, leader, or 
+supporting healer, Yellow 
+Rangers are like the water in 
+which their boats sail upon. A 
+Yellow Ranger is a friend, a con-
+fidante, and always ready to stand 
+shoulder-to-shoulder or back-to-back 
+with one or more of their teammates. 
+Their team can count on them to 
+be there, chipping away at and 
+coming up with solutions for the 
+same problems and obstacles the 
+team might face.
+                                          

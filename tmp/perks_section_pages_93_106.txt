@@ -1,0 +1,879 @@
+===== PAGE 93 (index 92) =====
+92
+A
+s characters progress in levels and gain 
+experience as Power Rangers, they earn 
+new benefits from their Role. These bene-
+fits are ultimately what makes each version 
+of the same Spectrum color different from 
+one another. These customizable features 
+are why Tommy, as a Red Ranger, is differ-
+ent than Rocky as a Red Ranger, and even 
+Jason’s Red Ranger and can be separated 
+into Perks and Grid Powers.
+07 PERKS AND
+PERKS AND
+GRID POWERS
+GRID POWERS
+                                          
+
+
+===== PAGE 94 (index 93) =====
+93
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+Perks are gained either from special character 
+elements, such as the adaptability of some Origins, 
+or by sacrificing an Essence Score Improvement 
+Role feature, and add unique and interesting traits, 
+proficiencies, or even actions to a Power Ranger.
+Grid Powers are special traits, actions, and mod-
+ifiers that come directly from the Morphin Grid to 
+help make a Power Ranger into more than just the 
+sum of their parts. It is a way for the character to 
+modify themselves to better serve their position in 
+their Power Ranger team.
+General Perks
+A General Perk represents a talent or an area of 
+expertise that gives a character special capabili-
+ties. It embodies training, experience, and abilities 
+beyond what a role provides.
+At certain levels, your Role gives you the 
+Essence Score Improvement feature. Using the 
+optional perks rule, you can forgo taking that 
+feature to take a perk of your choice instead. You 
+can take each perk only once, unless the perk’s 
+description says otherwise.
+You must meet any prerequisite specified in a 
+perk to take that perk. If you ever lose a perk’s pre-
+requisite, you can’t use that perk until you regain 
+the prerequisite. For example, the Wrestler perk 
+requires you to have a Strength of 3 or higher. If 
+your Strength is reduced below 3 somehow—per-
+haps by a nasty spell cast by Rita Repulsa—you 
+can’t benefit from the Wrestler perk until your 
+Strength is restored.
+Acute (Sense)
+Prerequisite: Choose one of the five Senses (Sight, 
+Hearing, Taste, Touch, or Smell)
+Whether it is a natural occurrence or something 
+that has developed in you, one of your five senses 
+is much stronger than those of an average person, 
+and you gain the following benefits:
+•	You gain Edge when rolling a Skill Test for 
+Alertness if your chosen sense can be applied to 
+what is potentially being perceived.
+•	You may gain a 1 dice shift on a non-Alertness 
+Skill Test where you can apply some use of your 
+chosen Sense.
+•	You can choose this Perk up to five times; once 
+for each Sense.
+Always Alert
+Always aware of your surroundings, you gain the 
+following benefits:
+•	You gain Edge when rolling for Initiative.
+•	You can’t be surprised while you are conscious.
+Athlete’s Grace
+You have trained your body with general health 
+training to gain the following benefits:
+•	On hard or solid surfaces, your ground movement 
+rate increases by 5 feet.
+•	When you are prone, standing up uses only 5 feet 
+of ground movement.
+•	Climbing doesn’t halve your movement type.
+Adolescent Attitude
+Finding your place in the world and knowing you 
+are still learning, you gain the following benefits:
+•	You may reroll 1s on Social Skill dice.
+•	Once per scene, you can choose to attempt any 
+skill that you do not possess levels in. Treat that 
+skill as if you had a d2 in it.
+Bowl-Over
+You are adept at throwing your weight around 
+when you’re moving.
+•	When you Sprint, you can use a Free action to 
+Push an adjacent creature at any time along 
+the action.
+•	If successful, targets of your Push are always 
+knocked Prone, if possible.
+Defender
+Prerequisite: Speed 3 or higher
+No one hits your friends – not if you can help it!
+•	When you are wielding a Finesse-based 
+weapon with which you have Specialization 
+in and another creature hits an adjacent ally 
+with a melee attack, you can roll your Skill 
+Dice and lower the opponent’s Skill Test result 
+by the amount rolled, potentially causing the 
+attack to miss.
+                                          
+
+
+===== PAGE 95 (index 94) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+94
+Dig Deep
+You have a deep reserve of fighting willpower, 
+gaining the following benefits:
+•	Once per scene, you can ignore the 1 Damage 
+by taking an automatic Snag on 
+all Skill Tests until the end of 
+your next turn.
+•	Once per scene, you can heal 
+1d2 Health by forfeiting your 
+entire turn.
+Dodgy
+Prerequisite: Speed 3 or higher
+You have learned a lot from being in school, gaining 
+the following benefits
+•	You gain a +2 bonus to your Evasion.
+•	On any turn where you do not move more than 5 
+feet you may Defend as a Free action.
+Educated
+Prerequisite: Smarts 3 or higher
+You have learned a lot from being in school, gain-
+ing the following benefits:
+•	Gain fluency in 1 Language of your choice.
+•	Add an additional Story Point to your team’s pool 
+each game session.
+•	May act as though Specialized in any Smarts skill 
+once per day.
+EMT Crash Course
+You’re no doctor but you’ve been 
+in enough scrapes to know the 
+basics of trauma care and 
+the value of having a stocked 
+medkit on hand. You gain the 
+following benefits:
+•	Once per scene, as long as 
+you have a medical kit on you, 
+you can spend an action to 
+heal one Damage on yourself 
+or an ally.
+•	As long as you have a med-
+ical kit, you may restore an 
+Essence point to an ally
+•	You gain Edge on Science: 
+Medicine checks to learn 
+clues from deceased persons
+                                          
+
+
+===== PAGE 96 (index 95) =====
+95
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+Expertise
+Prerequisite: Choose a Skill at d4 level or higher
+You have been practicing with one of your skills, 
+gaining the following benefits to the chosen skill:
+•	Ignore the first 1 dice shift applied to your 
+Skill Tests
+•	You may reroll 1s on any Skill Dice rolled
+Extra Grid Power
+You are infused with a slight boost from the 
+Morphin Grid, and gain the following benefits:
+•	Increase your Maximum Personal Power by 1.
+•	Gain one Grid Power for which you meet the 
+prerequisites.
+Fast
+You are incredibly quick, gaining the following 
+benefits:
+•	You gain a 2 bonus to Initiative Skill Tests.
+•	Choose one movement type you already possess 
+and increase it by 10 feet.
+Fearsome Reputation
+•	Intimidation is a Social Essence skill for you.
+•	When using Intimidation while morphed, you 
+gain a 2 die shift.
+Garage Band
+Prerequisite: Performance d4 or higher
+You use your musical talents to make extra money 
+and friends, gaining the following benefits:
+•	At or after a performance, you have Edge on 
+Streetwise Skill Tests.
+•	You gain 2 on Persuasion Skill Tests targeting 
+fans of your band.
+Giant-Killer
+You are unphased by fighting huge enemies, gain-
+ing the following benefits:
+•	You have 1 with any attack roll made to hit tar-
+gets at least two Size classes larger than you.
+•	Additionally, you gain Edge on any attack roll 
+made to hit targets more than five Size classes 
+larger than you.
+Grid Champion
+Prerequisite: You must have previously vanquished 
+a Towering or larger Size enemy.
+Rita Repulsa and Lord Zedd’s minions and 
+monsters are nothing to you, granting you the 
+following benefits:
+•	You cannot be surprised by teleporting Putties or 
+ambushing Tengas.
+•	You have a 1 bonus to hit Putties and Tengas of 
+any variety.
+Heavy Armor Shell
+Prerequisite: Medium Armor Training
+You have learned how to Morph into a heavier 
+armored shell, and gain the following benefits:
+•	You gain the Heavy Armor Training, changing your 
+Morphed Toughness Bonus accordingly.
+                                          
+
+
+===== PAGE 97 (index 96) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+96
+Heroic Intervention
+Prerequisite: Level 8 or higher
+You will always be there for the people that need 
+you. You gain the following benefits:
+•	Add one additional Story Point to the team pool 
+each session.
+•	By spending 1 Power, you can move up to 15 feet 
+in any direction if it puts you adjacent to an ally 
+or an enemy currently taking its move.
+•	As long as you are adjacent to an ally, you gain +1 
+on all Defenses.
+Humanitarian
+Prerequisite: Social 3 or higher
+You go out of your way to help people, gaining 
+the following benefits:
+•	You have Edge on Insight and Diplomacy skill 
+checks that target humans.
+•	You can attempt a DIF 12 Survival Skill Test on 
+any human to heal them of 1 Damage.
+•	You gain Edge on skill checks to acquire food, 
+water, medicine, or shelter from human sources.
+Inspired
+You are driven to do great things, and it shows. 
+You have the following benefit:
+•	You may reroll any one die rolled, once per day.
+Instinctual Initiative
+You are quick-witted a wily when a combat 
+ensues, gaining the following benefits:
+•	You gain Edge to roll Initiative.
+•	You may move OR take a Free action while sur-
+prised, but not both.
+Iron Hands
+Prerequisite: Strength Essence 3 or higher
+Your martial arts practice has really paid off, gain-
+ing you the following benefits:
+•	You inflict +1 Damage to your Might (Martial Arts) 
+attacks.
+Keen Eye
+Prerequisite: Alertness (Perception)
+Your attention to detail is second to none, granting 
+you the following benefits:
+•	You gain Edge on all Alertness (Perception) tests.
+•	You gain 1 on Skill Tests based on your sense of sight.
+•	You can attempt a DIF 12 Alertness Skill Test to 
+recall any visual detail from the last 24 hours.
+                                          
+
+
+===== PAGE 98 (index 97) =====
+97
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+Linguistics
+You have been busy learning new languages, 
+gaining the following:
+•	Gain fluency in any 3 languages of your choice.
+Luck
+You must have been born under a lucky sign, have 
+a guardian angel, or some kind of karmic boon that 
+keeps you from making terrible mistakes. You gain 
+the following benefit:
+•	You may re-roll any result of a natural 1 on any 
+skill die of d4 or higher. You must abide by the 
+second result, no matter what it might be.
+Medium Armor Shell
+Prerequisite: Light Armor Training
+You have learned how to Morph into a heavier 
+armored shell, and gain the following benefits:
+•	You gain the Medium Armor Training, changing 
+your Morphed Toughness Bonus accordingly.
+Ninja Power
+Prerequisite: Personal Power Maximum of 4  
+or higher
+You have tapped into the eternal spiritual 
+powers of Ninjor, granting you the following 
+benefits:
+•	You can spend 1 Power in conjunction with 
+your It’s Morphin Time! Spectrum class fea-
+ture to activate your “ninja power.” While 
+Morphed with Ninja Power, the following is 
+true:
+	
+• Your martial arts attacks inflict +1 
+Damage.
+	
+• You have Edge on all Speed-based skills.
+	
+• You may choose an elemental type of damage 
+your Martial Arts attacks inflict (cold, fire, etc.).
+	
+• You may, as a Free action, jump up to 20 feet in 
+any direction. This jump does not modify your 
+Movement for the round, nor is it modified by 
+other Perks or game effects. Any attacks target-
+ing you this turn, after this jump, suffer 1.
+Peerless Pilot
+Prerequisite: Any Driving Specialization of D6  
+or higher
+Your skill at the controls of a vehicle is without 
+competition, giving you the following benefits:
+•	You have Edge on Initiative rolls while piloting a 
+vehicle you are skilled with at D6 level or higher.
+•	You have Edge on Driving skill checks while 
+piloting a vehicle you are skilled with at D6 level 
+or higher.
+•	You may always automatically pass the Skill 
+Test to emergency disembark from a vehicle 
+you are piloting.
+                                          
+
+
+===== PAGE 99 (index 98) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+98
+Righteous Heart
+You are closer to the forces of light and goodness 
+than the average Power Ranger, like many cham-
+pions of the Grid before you. This grants you the 
+following benefits:
+•	You are completely immune to fear-causing 
+effects.
+•	While Morphed, you may spend a Free action to 
+gain resistance to any one type of damage. This 
+resistance lasts until the end of your next turn.
+Sharpshooter’s Grace
+Prerequisite: Targeting D6 or higher
+Your aim is near perfect with ranged weaponry, 
+granting you the following benefits:
+•	You no longer suffer a Snag when making a 
+ranged attack outside a weapon’s normal reach.
+•	You gain a 2 on ranged attacks made at targets 
+within 30 feet.
+Spectrum Shift
+Your color of energy has changed within the 
+Morphin Grid, and now you are a new type of 
+Power Ranger!
+For rules on how this perk functions, see page 58 
+in the Role Spectrum chapter.
+Supercharged Essence
+Prerequisite: Choose an Essence Score you 
+possess at 5 or higher
+Your Morphed form is augmented in a way to give 
+you a supernaturally enhanced ability. This gives 
+you the following benefits:
+•	While Morphed, all skills attached to your chosen 
+Essence gains 1.
+•	This Perk may be taken multiple times, but only 
+once per Essence.
+Terran Study
+Prerequisite: Cannot originally be from Earth
+You have been studying a great deal about the peo-
+ple and cultures of Terra, or Earth. This grants you the 
+following benefits:
+•	You gain Edge when using your Cultures skill about 
+humanity.
+•	You have Edge on Deception, Insight, and 
+Persuasion skill checks that target human beings.
+•	Gain fluency in two Earth-based languages of your 
+choice.
+Ultra-Heavy Armor Shell
+Prerequisite: Heavy Armor Training
+You have learned how to Morph into the heaviest 
+and most adorned of armored shells, and gain the 
+following benefits:
+•	You gain the Ultra-Heavy Armor Training, 
+changing your Morphed Toughness Bonus 
+accordingly.
+Vast Wealth
+You have access to a large supply of Earth cur-
+rency, whether from some kind of savings, wages, or 
+a familial fund. Gaining the following benefits:
+•	 Once per game session, you may choose to 
+automatically pass any Skill Tests whose success 
+could feasibly be ‘bought’ with enough money.
+•	 You gain Edge on Social Skill Tests where 
+you can flaunt your wealth.
+•	 You gain Edge on all Wealth 
+Checks.
+                                          
+
+
+===== PAGE 100 (index 99) =====
+99
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+Wrestler
+Prerequisite: Strength 3 or higher
+You are a skilled wrestler, and gain the following 
+benefits:
+•	You have Edge on attack rolls to Grapple.
+•	You can use a Free action to try to pin a creature 
+grappled by you. To do so, make a DIF 12 Might 
+Skill Test (modified by the target’s Size Class). If 
+you succeed, the grappled creature is made Prone 
+in an adjacent square. 
+Grid Powers
+Gained through experience levels in a Power 
+Ranger’s Spectrum Role, Grid Powers are unique 
+abilities and modifiers that are chosen by the 
+player to better suit their style and responsibilities 
+of their character.
+Whenever a Grid Power is gained, it becomes 
+immediately effective and any actions it might 
+allow become immediately available. Unless 
+stated otherwise, a character may only choose 
+any given Grid Power once.
+Augment Power Weapon
+Your summoned Power Weapon is 
+a stronger conduit of your Morphin 
+Grid energy. You may spend 1 
+Power to enhance the accuracy 
+of your Power Weapon by 1 
+for 1 minute.
+Boost Initiative
+You are able to flood your reflexes with raw energy. 
+Anytime after your Initiative order is determined, you 
+may spend Power to increase your current Initiative 
+standing at a ratio of +2 per Power spent.
+Environmentally Sealed
+Your Morphed form is now fully sealed from exter-
+nal environmental threats. While Morphed, you can 
+survive indefinitely in toxic atmospheres, a vacuum, 
+or underwater. Additionally, you are immune to 
+inhalation-based threats.
+                                          
+
+
+===== PAGE 101 (index 100) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+100
+Faster Regeneration
+Your Morphed form can repair damage at an 
+increased rate. You may spend 1 Power to heal 
+1d2 Damage, usable once per scene.
+Illuminate
+You can shine with the light of righteousness. While 
+Morphed, you may spend 1 Power to emanate bright 
+light in a 30 foot radius for 1 minute. While in effect, 
+your Martial Arts attacks inflict energy damage.
+Harden Armor
+You shield your armored shell with energy from 
+the Morphin Grid. Your armor bonus to Toughness, 
+while Morphed, is 1 point higher. This Grid Power 
+may be chosen up to three times.
+Machine Merge
+You and your Zord can become one body, one 
+mind. When you summon your Zord, you can be 
+considered to be driving it anywhere within 100 
+feet and line of sight. Aside from you being a safe 
+distance from your Zord, there are no other changes 
+as to how you are driving the vehicle in question 
+(rolling Initiative, using vehicle attacks, etc.).
+Mnemonic Recall
+You have access to the flow of historic details as 
+etched in the energies of the Morphin Grid. You may 
+spend 1 Power to instantly remember one particular 
+detail from your own past from the last 30 days.
+Penetrating Strikes
+You can funnel raw Morphin Grid energy into 
+your hand to hand impacts. By spending 1 Power, 
+you allow your Martial Arts attacks to ignore armor 
+bonuses to Toughness for 1 minute.
+Power Blast
+While Morphed, you can force Morphin Grid 
+energy to coalesce into an unstable bubble, hurling 
+it toward your enemies to explode. After spending 
+between 1 to 5 Power you can make a Throwing-
+based ranged attack action with a reach of 40/100. 
+If it hits, the target suffers 1 Damage per Power 
+spent in energy damage. If it misses, the attack fiz-
+zles and the Power is wasted.
+Power Heal
+By focusing the energy of the Morphin Grid into 
+a living being, you can knit wounded flesh. While 
+Morphed, you can spend Power while touching an 
+injured living creature. Each Power spent heals 1 
+Damage or removes one negative condition (poison, 
+transformed into a plant, etc.).
+Power Quake
+You can send a ripple across the Morphin Grid 
+itself, possibly knocking enemies – and allies – off 
+balance in the process. While Morphed, you can 
+take an action to punch the ground and spend 1 to 
+3 Power to send a tremor out in a 15’ radius, radi-
+ating from you. Every creature or vehicle caught in 
+the area must pass a Athletics or Acrobatics Skill Test 
+or be knocked Prone. The DIF for this test is equal to 
+12 plus 3 for each Power spent.
+Power Shield
+You can draw the protective nature of the Morphin 
+Grid around one of your hands, creating a shield. By 
+spending 1 Power to summon the shield, granting the 
+wielder a +2 armor bonus to Toughness. The shield 
+is a physical object that can be transferred to others, 
+and lasts until you return to your normal form.
+Power Strike
+While wielding your summoned Power weapon, 
+you can push raw energy into one of its attacks. 
+You may spend between 1 to 3 Power when mak-
+ing an attack action. If it hits, the target suffers an 
+additional 1 energy Damage per Power spent. If it 
+misses, the attack fizzles and the Power is wasted.
+                                          
+
+
+===== PAGE 102 (index 101) =====
+101
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+Power Transfer
+You can lean upon the linked nature of beings 
+within the Morphin Grid, pushing energy from 
+yourself into other things that might need it. While 
+Morphed and in contact with a creature or object 
+that has a measurable need for energy (Power, 
+charges in an arcane item, battery life, etc.), you 
+may freely donate Power to replenish the creature or 
+object an equitable amount (GM’s discretion).
+Relentless Blows
+Your mastery of fighting unarmed allows you to 
+attack with speed and precision. If you make an 
+unarmed attack on your turn, you may spend 1 
+Power to make two additional unarmed strikes as a 
+Free Action.
+Repair Zord
+You spend your own internal Morphin Grid 
+energy to repair damage done to your Zord – or the 
+combined Megaform your Zord is a part of! While 
+piloting your Zord, you may spend any number of 
+Power to repair damage it may have suffered. For 
+each 2 Power spent, you repair 1d2 Damage. If 
+healing a combined Megaform, the cost of this Grid 
+Power increases by 1, but the amount healed is 
+divided evenly amongst all combined parts (mini-
+mum of 1).
+Sharkcycle Rider
+Calling upon one of Zordon’s rarer gifts to 
+his Rangers, you gain the ability to summon a 
+Sharkcycle by spending 1 Power, teleporting it to 
+anywhere within 30 feet of you. This vehicle 
+matches your Spectrum color, and you 
+gain Edge on Driving skill checks while 
+using it!
+Speed Boost
+You use the Morphin Grid’s 
+energy flow to push your Morphed 
+form to the limit, increasing your 
+ground movement and potentially 
+giving you the jump on your ene-
+mies, too. While Morphed, your 
+ground movement rate is increased 
+by 10 feet. Additionally, you can 
+spend 1 Power to gain Edge on an 
+Initiative roll.
+Super Leap
+The force of gravity is even less of a concern 
+on you now that the Morphin Grid pushes and 
+pulls you through the air. Instead of the normal 
+triple maximums on your jumping distances, your 
+Morphed form may now jump to anywhere within 
+90 feet as a Move action.
+Translation Grid
+Your Morphed form now taps into the data streams 
+that flow in and out of the Morphin Grid, allowing 
+you to translate any spoken you hear and any writ-
+ten language you see as well as broadcast your own 
+voice in a universally understood language.
+Unseen Hand
+With a little focus, you can use the same invisible 
+forces within the Morphin Grid to move objects as if 
+with an invisible hand. You may summon an invisi-
+ble, floating hand that appears at a point you choose 
+within range. The hand lasts for the duration or until 
+you dismiss it as an action. The hand vanishes if it 
+is ever more than 30 feet away from you, or if you 
+choose to drop concentration over it.
+You can use a Free action to control the hand. 
+You can use the hand to manipulate an object, open 
+an unlocked door or container, stow or retrieve an 
+item from an open container, or knock over small 
+objects. You can move the hand up to 30 feet each 
+time you use it. The hand can’t attack or carry more 
+than 10 pounds. By spending 1 Power, this weight 
+maximum is increased to 50 pounds for one minute.
+                                          
+
+
+===== PAGE 103 (index 102) =====
+102
+08 EQUIPMENT
+EQUIPMENT
+T
+he Power Rangers arsenal is a funda-
+mental part of their ability to combat 
+evil. From Power Morphers and Power 
+Suits to their assorted weapons, a Ranger, 
+while heroic in their own right, has lit-
+tle power without these important pieces 
+of equipment. Given to each Ranger by 
+Zordon upon their calling, this equip-
+ment is all stored at the Command Center, 
+ready for assignment to the heroes of the 
+Morphin Grid.
+What’s that you usually yell about now? 
+Something about “Morphin’ Time,” isn’t it?
+
+- Goldar
+                                          
+
+
+===== PAGE 104 (index 103) =====
+103
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+About Equipment
+A Power Ranger’s most important asset beyond 
+their quick thinking and fast reflexes is their Power 
+Morpher. Your Power Morpher controls everything 
+in your arsenal, including your Zord.
+The equipment catalogued in this chapter includes:
+•	Power Morphers
+•	Weapons
+•	Power Suits
+•	Gear
+•	Kits
+•	Vehicles
+Each section details the acquisition and use of 
+such equipment, including rules for customizing 
+and personalizing equipment. 
+Equipment Assignment and 
+Requisition 
+Unlike in some roleplaying games, Power Rangers 
+characters do not purchase their equipment with a 
+resource like money, credits, or gold pieces. Characters 
+have equipment standard to the type of Ranger they 
+are, and depending on the mission, they are given the 
+opportunity to request access to other items, many of 
+which are either housed in the Command Center or 
+can be crafted over time by Alpha 5 or science and 
+technology-minded characters. 
+While morphed, your character automatically 
+receives a combination of “standard issue” Power 
+Rangers armor and sidearm, specialized weap-
+onry, qualified equipment, and mission critical 
+items. At all times, Power Rangers wear their Wrist 
+Communicator and Power Morpher.
+Standard Issue: You and every Power Ranger 
+receives the same basic equipment: a Power 
+Morpher, a Wrist Communicator, a Power Suit, and 
+a Blade Blaster. 
+Qualified Equipment: Different equipment 
+requires different training, just as different training 
+requires different equipment. You are assigned gear 
+with which you have qualified training from your 
+Role and other perks. Generally, this Qualified 
+Equipment will be your special Power Weapon. 
+Sometimes, however, you will have the opportu-
+nity to choose other Qualified Equipment for your 
+arsenal, and you are allowed to do so as long as you 
+have all of the prerequisite training required.
+Vehicles are an exception to this rule. Regardless 
+of qualifications, vehicles are never assigned as 
+qualified equipment, only as mission critical items, 
+and occasionally requisitioned. 
+Personal Gear: You can bring approved personal 
+items along on missions, although it is important to 
+remember that Personal Gear that is not Grid-powered 
+cannot be stored “in the Morphin Grid” as described 
+in the Carry Limits section, below. These items have 
+the potential of being lost or discovered by prying eyes 
+if you are not able to secure them in some other way 
+during combat. As you level up, you gain opportunities 
+to customize and create equipment between missions. 
+Any customized weapons, armor, and gadgetry that you 
+have engineered (yourself or with the help of others) 
+between missions that are Grid-powered can be used 
+like any other Standard Issue or Qualified Equipment.
+Mission Critical Items: Your team may sometimes 
+receive a limited supply of specialized equipment 
+without which the mission would be impossible. This 
+can include anything from specific vehicles such as 
+the Rad Bug to one-use Power Crystals and other rare 
+equipment. Mission Critical items listed in a mission 
+loadout are assigned to your team, not each Power 
+Ranger, so the responsibility of these items is shared. 
+Carry Limits
+While morphed into Power Ranger form, you have 
+the ability to carry all of the equipment granted to you 
+by your Power Morpher. Your Power Weapon can be 
+drawn from what appears to be thin air, but which is 
+in reality, an energy pocket within the Morphin Grid. 
+Beyond this, however, you will have some carrying 
+limits, as you only have two hands, which are needed 
+to fight off your foes! Instead of tracking mass and vol-
+ume, the Power Rangers Roleplaying Game handles 
+carrying capacity broadly. Assume your character has 
+a pouch attached to your utility belt, which can hold 
+small items. Anything else that you may need aside 
+from your weapon must be carried in hand.
+Because your Power Weapons can be stored either 
+in the Morphin Grid or in your utility belt holster, 
+you have a capacity of six total “hands” of weapons 
+for your own personal arsenal. Each weapon in the 
+equipment list states the number of hands required 
+to use it effectively. You can have any combination 
+of equipment on you as long as the total number of 
+hands required to yield them all does not exceed six.
+You can only wear one Power Suit, which you 
+must be qualified for. 
+                                          
+
+
+===== PAGE 105 (index 104) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+104
+Equipment Properties
+The following terms define and describe how dif-
+ferent categories of equipment operate, and how to 
+access them. When a term is not listed, it does not 
+apply to that category of equipment. 
+Category: What the equipment is in the broadest 
+terms. The categories of equipment are: 
+•	Weapons
+•	Armor
+•	Gear
+•	Kits
+•	Vehicles
+Availability: The difficulty in obtaining such equip-
+ment. Generally the higher the availability difficulty, 
+the more powerful or versatile the weapon. Most 
+equipment that you will use in your game will be of 
+Standard or Limited availability.
+AVAILABILITY
+DIFFICULTY
+Automatic
+0
+Standard
+0
+Limited
+10
+Restricted
+15
+Prototype
+20
+Unique
+25
+Theoretical
+30
+TABLE 8-1: EQUIPMENT AVAILABILITY
+Automatic: Automatic equipment generally covers 
+items that characters would inherently have, such 
+as accessibility and assistive items, like a pair of 
+prescription glasses or a hearing aid. 
+Standard: Equipment assigned to every Power 
+Ranger when they are called upon. This gener-
+ally includes a Power Morpher, Power Armor, 
+Blade Blaster, your first Power Weapon, and 
+Communication Device.
+Limited: Complex or expensive items that require 
+additional training or trust, like upgraded Metallic 
+Armor or special or customized Power Weapons.
+Restricted: Dangerous gear in the wrong hands, 
+or items with limited tactical application without 
+highly specialized training. 
+Prototype: Not-yet-approved items looking for a 
+field test, like Alpha 5’s Defender Wheel or Billy’s 
+Rad Bug. 
+Unique: One-of-a-kind item, like the Gold 
+Ranger’s Golden Power Staff or the Lightning 
+Cruiser. Before a Unique item can be requisitioned, 
+it must be established, such as on a mission, or 
+created as a theoretical item that is successfully 
+requisitioned, and returned after a mission. 
+Theoretical: Equipment that does not exist yet but 
+the right combination of existing equipment and 
+upgrades could make it exist. 
+Equipment may only be added to your arsenal if you 
+are qualified to use it. Upgrading equipment impacts 
+the availability of equipment. All weapons upgrades 
+have a limit of three modifications. When requesting 
+upgraded equipment, first apply all desired upgrades 
+to the base equipment one at a time, starting with the 
+lowest Difficulty and working up.
+For example: You decide to upgrade your Power 
+Bow and use all three available modifications. You 
+ask for a Power Bow (standard), adding upgrade 1: 
+a scope (standard), upgrade 2: bladed limbs (lim-
+ited), and upgrade 3: fire arrows (prototypical).
+Upgrade 1: Standard + Standard = Standard.
+Upgrade 2: Standard + Limited = Limited.
+Upgrade 3: Limited + Prototypical = Theoretical.
+You’ve managed to design a weapon that doesn’t 
+exist: A bow that shoots fire arrows that at up to 2 
+targets up to 60 feet away, which can also be used 
+in close combat range. If you can beat a DIF 30 
+Targeting Skill Test, perhaps Alpha 5 can build it for 
+you by your next mission.
+Type: The broad terms commonly used to describe 
+the equipment. 
+Classification: More specific terms to describe the 
+equipment. 
+Requirements: Additional qualifications that must 
+be met in order to use the equipment as intended, 
+such as a minimum ability score or skill rank, or 
+character level. More complex equipment has more 
+or higher requirements. 
+Range: The minimum and maximum range at 
+which the equipment is effective. For weapons, the 
+attacker’s reach determines the effective range of a 
+melee weapon, although the weapon may increase 
+the attacker’s reach. 
+Hands: How many hands it takes to use the equip-
+ment as intended. A weapon that can use either 
+one or two hands depending on how you use it is 
+labeled “versatile.”
+                                          
+
+
+===== PAGE 106 (index 105) =====
+105
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 08: EQUIPMENT
+Effects: The intended consequence of using the 
+equipment. Typically a weapon’s effect is a number 
+of Damage, but can also include being stunned, 
+incapacitated, or other debilitating effects. 
+Alternate Effects: Some weapons are intended to 
+be used in more than one way, or can easily be used 
+in unintended ways. Typically, alternate effects have 
+a consequence of using them in this way, such as a 
+downshift in the check. Some weapons have more 
+than one alternate effect. Each option is separated 
+with a comma. 
+When attacking with a weapon with alternate 
+effects, declare which effect you are using before 
+making your attack. For example, the Power Axe 
+can be used as both a melee bladed weapon or as 
+an individual cannon for ranged attacks. 
+Traits: Pertinent information about the opera-
+tion of the equipment. For example, Silent denotes 
+equipment that makes no noise when used, ideal for 
+stealth missions. 
+Weapons
+The Morphin Grid has infused the weapons used 
+by the Power Rangers with specific Grid Power that 
+resonates with each specific Ranger. While there are 
+certain weapons, such as Blade Blasters, which are 
+standard issue for every Ranger, some are specifi-
+cally attuned to the Spectrum colors attached to a 
+Power Ranger’s Role. 
+In the Essence20 Roleplaying System, rather than 
+providing individual entries with subtle differences 
+for all weapons, weapons are set apart by the Power 
+Ranger’s specific training. Functionally, all Power 
+Swords work the same way and therefore use the 
+same rules (in this case, they are classified as close 
+combat heavy bladed weapons). It is the Power 
+Ranger’s training and how they modify their weap-
+ons that set them apart. 
+                                          

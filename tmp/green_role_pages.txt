@@ -1,0 +1,479 @@
+===== PAGE 44 (index 43) =====
+43
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+Unique Connection
+Being apart from the common Spectrum for as 
+long as it had been, the Green energy wavelength 
+has a different and truly unique way that it inter-
+acts with the Morphin Grid. It can seamlessly bond 
+with other Rangers to be part of a team, linking its 
+Grid Zord to one or more other members’ to form 
+specialized Megazords in some cases, and staying 
+separately devastating when they do battle on their 
+own. It is as if the Morphin Grid itself understands 
+the wildcard nature of the Green Ranger and has 
+adapted to it accordingly.
+Spectrum Role Features
+As a Green Ranger, you gain the following:
+Power
+Personal Power Regeneration: 3 per day
+Personal Power Capacity: +1 per every 3 levels
+Training
+Armor: Light and Medium armor
+Starting Skill Ranks: +1 Might, +1 Conditioning, 
++1 Finesse or Initiative
+Grid Equipment
+You start with your own personal possessions from 
+your pre-Morphin’ life, but also gain the following 
+items from the Morphin Grid. Those marked with an 
+asterisk are only available when Morphed.
+•	Wrist Communicator
+•	Power Morpher
+•	Blade Blaster*
+LEVEL
+ROLE PERKS
+PERSONAL 
+POWER 
+CAPACITY
+SOLO 
+STRIKE
+STRENGTH 
+INCREASE
+SPEED 
+INCREASE
+SMARTS 
+INCREASE
+SOCIAL 
+INCREASE
+1st
+It’s Morphin Time!, Solo Strike, 
+Unique Weapon
+2
+1
++2
++1
+—
+—
+2nd
+Survival Boon 
+2
+1
+—
++1
+—
+—
+3rd
+Zord
+3
+1
+—
+—
+—
++1
+4th
+General Perk
+3
+1
+—
+—
++1
+—
+5th
+Extra Attack
+4
+1
++1
+—
+—
+—
+6th
+Zord Feature, Grid Power
+4
+2
+—
++1
+—
+—
+7th
+Sidestep
+5
+2
+—
+—
+—
++1
+8th
+General Perk
+5
+2
+—
+—
++1
+—
+9th
+Survival Boon
+6
+2
++1
+—
+—
+—
+10th
+Zord Feature, Team Player
+6
+2
+—
++1
+—
+—
+11th
+Grid Power
+7
+3
+—
+—
+—
++1
+12th
+General Perk
+7
+3
+—
+—
++1
+—
+13th
+—
+8
+3
++1
+—
+—
+—
+14th
+Zord Feature, Survival Boon
+8
+3
+—
++1
+—
+—
+15th
+—
+9
+3
+—
+—
+—
++1
+16th
+General Perk, Grid Power
+9
+4
++1
+—
+—
+—
+17th
+Zord Feature
+10
+4
+—
++1
+—
+—
+18th
+At All Costs
+10
+4
++1
+—
+—
+—
+19th
+General Perk
+11
+4
+—
++1
+—
+—
+20th
+Green Ranger Prime
+11
+4
++1
+—
+—
+—
+TABLE 4-3: THE GREEN RANGER
+                                          
+
+
+===== PAGE 45 (index 44) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+44
+It’s Morphin Time!
+Starting at 1st level, by summoning the energy 
+within you through your Power Morpher and saying 
+the words “It’s Morphin Time!” as a standard action, 
+you are enveloped with a stylized shell of Morphin 
+Grid energy that serves as your armor, grants you 
+access to your Power-based weapons, and many 
+other abilities that require Power to activate.
+While Morphed, the following traits and features 
+apply:
+•	Your Toughness Bonus is determined by your 
+Armor Training: Light (+1), Medium (+2), Heavy 
+(+4), Ultra-Heavy (+6).
+•	All of your Jump distance maximums are tripled.
+•	As a Free Action, you can summon any single 
+Power-based weapon to your hands.
+•	When reduced to 0 Health, you may choose to 
+avoid Defeat by automatically returning to your 
+natural form, unconscious, and at 1 Health.
+Solo Strike
+Starting at 1st level, the Green Ranger is skilled at 
+picking a single target and going at it one on one. 
+This Role Perk allows you to make a special kind of 
+melee attack. By making only a single attack against 
+an adjacent target which is also not adjacent to any 
+of your allies, you may apply the dice shift listed on 
+the table above. Hit or miss, you may not make any 
+other attacks in the round in which you attempt a 
+Solo Strike.
+Unique Weapon
+To aid you in wielding the Green energy, you are 
+given a special, unique Power Weapon at 1st level. 
+This weapon has a special ability attached to it, 
+but also a risk of some kind. At 1st level, you may 
+choose or roll randomly from the following table to 
+create the different aspects of your Green Ranger 
+Unique Weapon.
+1D4  
+ROLL
+TYPE OF 
+WEAPON 
+(SKILL USED)
+SPECIAL 
+ABILITY
+ITEM RISK
+1
+Ranged 
+Weapon 60/100 
+(Targeting)
+Stores up to 
+3 Personal 
+Power for 
+wielder to use.
+User loses 1d4 
+Personal Power 
+upon a roll of 
+natural 1 to hit.
+2
+Small Melee 
+(Finesse)
+Calls Zord in 
+half normal 
+time.
+DIF12 Performance 
+skill check while 
+possessing weapon 
+to temporarily steal 
+control of Zord.
+3
+Versatile Melee 
+(Might or 
+Finesse, chosen 
+at attack)
+Gains 2 
+shift when 
+attacking 
+targets at least 
+3 sizes larger.
+Does not Morph 
+with user; it always 
+exists in a physical 
+state.
+4
+Two-Handed 
+Melee (Might)
+Inflicts energy 
+damage 
+instead of its 
+normal type.
+Slows all 
+of wielder’s 
+movement types 
+down by 10 ft. 
+TABLE 4-4: UNIQUE WEAPON TRAITS
+Survival Boon
+Green Rangers need to have an extra sense of 
+self-protection that other Rangers aren’t offered 
+because of the time they spend fighting on their 
+own. At 2nd level you may choose one of the 
+following self-preservation skills to apply to your 
+Ranger. You may make a second choice at 9th level, 
+and a third at 14th level.
+360° Awareness – You cannot be surprised if awake, 
+you gain 1 to your Alertness and Initiative rolls.
+Enhanced Shell – Your Morphed form’s body shell 
+is slightly more protected, having manifested a 
+shielded mantle. Your Toughness is +1.
+Like a Shadow – You can become statue-still at 
+a moment’s notice, gaining Edge on all Infiltration 
+skill checks.
+Move Like a Song – The first attack that targets you 
+each round has a Snag. If that attack already has a 
+Snag, it automatically misses instead.
+Savant – You have a knack for trying anything and 
+getting it right. If you don’t have any levels in a skill, 
+you can always try a skill check using a D2 as your 
+skill level. You must still purchase the D2 level in a 
+skill to increase it further.
+                                          
+
+
+===== PAGE 46 (index 45) =====
+45
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+Zords
+By the time a Ranger reaches 3rd level, their role 
+in protecting the Morphin Grid requires them to bat-
+tle larger and more devastating foes. When piloting 
+your personal Zord, you cannot suffer Snags when 
+using the Driving skill.
+You now have access to a powerful construct of a 
+particular kind based upon the Power Ranger team 
+you are a part of. These are the various Zords, Borgs, 
+and Power vehicles that the Rangers summon to aid 
+them when the monsters and other minions of evil 
+are empowered by warlords like Lord Zedd and Rita 
+Repulsa. Rules and statistics surrounding Zords can 
+be found in the section starting on page 131.
+Green Ranger Zords
+What sort of shape a Green Ranger’s Zord takes 
+depends on the kind of Power Ranger Team they are 
+a part of. Examples of previously chosen Zords are: 
+•	Mighty Morphin Power Rangers: Dragonzord
+•	Power Rangers Zeo: Taurus
+•	Power Rangers Turbo: Desert Thunder Truck
+Zord Feature
+Upon reaching 6th level, then again at 10th, 14th, 
+and 17th levels, a Ranger’s connection and profi-
+ciency with their Zord has strengthened and evolved 
+to a place where their abilities while using it are 
+stronger and more powerful than ever. Each time 
+this Role Perk is acquired by a Green Ranger, they 
+may choose from the list of Zord Features (see page 
+136 for details) to apply to their personal Zord.
+General Perk
+When you reach 4th level, and again at 8th, 12th, 16th, 
+and 19th level, you have the ability to personalize your 
+Ranger a little further and must choose to gain a generic 
+Perk of your choice for which you meet the prerequisites.
+Extra Attack
+Beginning at 5th level, you can attack twice, 
+instead of once, whenever you take the Attack 
+action on your turn. This Role Perk only functions 
+while Morphed and fighting as an individual.
+Grid Power
+First upon reaching 6th level, then again at 11th 
+and 16th levels, your understanding and connection 
+to the power that flows from the Morphin Grid in 
+ways other Rangers may not. Each time you acquire 
+this Role Perk, you may choose a Grid Power (see 
+page 99) to add to your Ranger, so long as they meet 
+the requirements, if any. 
+Sidestep
+At 7th level, you can sidestep danger and dodge 
+certain area effect attacks, such as the slime bar-
+rage from the Goo Fish or a strafe from Lord Zedd’s 
+eyebeams. When you are subjected to an attack 
+that has an Area of Effect that targets your Evasion, 
+you may spend a point of Personal Power to reduce 
+the attack result by the number rolled on your 
+Acrobatics skill die.
+Team Player
+Upon reaching 10th level, you are less of a lone 
+wolf and ready to be a better member to your team 
+– so much so that you can transfer your unique 
+Survival Boons to your Power Ranger teammates. 
+By making contact between your Morphed form 
+and a teammate’s Morphed form, and both of you 
+spend 1 Personal Power to make the transfer, you 
+may choose one of your current Survival Boons to 
+pass to that teammate. This transfer lasts until both 
+of you return to your normal form; the next time you 
+use It’s Morphin Time!, all transferred Survival Boons 
+will have been returned to you.
+At All Costs
+At 18th level, you have formed a connection with 
+your team strong enough to surprise you with what you 
+are capable of on their behalf. You can, once per day, 
+fight beyond reaching 0 Health while Morphed. Instead 
+of being Defeated or returning to your normal form, you 
+may continue to fight normally. During this time, when 
+an enemy successfully hits you, you lose 1 Personal 
+Power instead of taking Damage. If, at any time during 
+this Role Perk’s use, you reach 0 Personal Power, you 
+immediately return to your normal form with 0 Health, 
+with the conditions Unconscious and Defeated. This is a 
+dangerous Role Perk, and is normally only called upon 
+when the team is truly in trouble.
+Green Ranger Prime
+At 20th level, you have become the most 
+advanced version possible of your team’s Green 
+Ranger. Your Morphed form immediately gains the 
+following benefits:
+•	+2 to all Defenses
+•	Deal an additional point of Damage on Unique 
+Weapon Attacks
+•	Edge on Social skill checks
+                                          
+
+
+===== PAGE 47 (index 46) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+46
+PINK RANGER
+Infused with one of the supporting 
+energies in the Spectrum, Pink Rangers 
+are warriors that specialize in backing 
+up their team from the rear ranks. 
+They are archers, snipers, and 
+markspeople of the highest cali-
+ber. When a Pink Ranger is on the 
+team, the rest of their allies can 
+always fight confidently knowing 
+that a Grid-enhanced sharpshooter is 
+watching their back.
+Can’t Catch Me!
+Pink Rangers are solid martial artists, 
+but first and foremost they are ranged 
+combat experts with numerous abilities 
+and talents that benefit the team most 
+when they are outside of the reach of 
+an enemy. They are nimble, agile, and 
+often chosen for their gymnastic tal-
+ents – skills perfect for dodging out of 
+trouble’s way to get a better vantage 
+point to pick off Putties and Kengas 
+that might threaten their friends!
+True Heart
+It takes a lot of heart and trust 
+in their teammates to stand in 
+the rear or on the flanks, picking 
+off enemies a few at a time instead 
+of wading in and fighting back to 
+back with their friends. They fill their 
+team with hope and good will; some-
+times with words, sometimes with 
+actions. When a Power Ranger looks 
+over their shoulder, whether it is at the 
+local juice bar hanging out or in the 
+middle of a field of Eye Guy’s floating 
+minions, and sees their Pink Ranger is 
+watching – they can trust they are in 
+good hands.
+                                          

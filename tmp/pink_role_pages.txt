@@ -1,0 +1,409 @@
+===== PAGE 48 (index 47) =====
+47
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+Best Defense
+Pink Rangers are light on their feet and lightly 
+armored within their shell, but their energy and 
+their training makes up for it by simply keeping 
+the enemy from getting their hands on them. They 
+duck and dodge most incoming threats, relying on 
+their teammates to lend a hand when things get 
+thick, but always taking down important targets as 
+they dance, flip, and dart around the battlefield.
+Spectrum Role Features
+As a Pink Ranger, you gain the following:
+Power 
+Personal Power Regeneration: 4 per day
+Personal Power Capacity: +2 per every 4 levels
+Training
+Armor: Light armor
+Starting Skill Ranks: +1 Finesse, +1 Targeting, +1 
+Persuasion
+Grid Equipment
+You start with your own personal possessions from 
+your pre-Morphin’ life, but also gain the following 
+items from the Morphin Grid. Those marked with an 
+asterisk are only available when Morphed.
+•	Wrist Communicator
+•	Power Morpher
+•	Blade Blaster*
+•	Ranged Power Weapon*
+LEVEL
+ROLE PERKS
+PERSONAL 
+POWER 
+CAPACITY
+VOLLEY 
+SHOTS
+STRENGTH 
+INCREASE
+SPEED 
+INCREASE
+SMARTS 
+INCREASE
+SOCIAL 
+INCREASE
+1st
+It’s Morphin Time!, Volley
+2
+2
+—
++2
+—
++1
+2nd
+Hard Target, Fleet of Foot 
+2
+2
+—
+—
+—
++1
+3rd
+Zord
+2
+2
+—
+—
++1
+—
+4th
+General Perk
+4
+2
++1
+—
+—
+—
+5th
+Penetrating Shot, Group Strike (10’ 
+x 10’)
+4
+3
+—
++1
+—
+—
+6th
+Zord Feature, Grid Power
+4
+3
+—
+—
+—
++1
+7th
+Extra Attack, Sidestep
+6
+3
+—
+—
++1
+—
+8th
+General Perk
+6
+3
++1
+—
+—
+—
+9th
+Precision Aim (+1 Damage)
+6
+4
+—
++1
+—
+—
+10th
+Zord Feature, Group Strike (15’ x 
+15’)
+8
+4
+—
+—
+—
++1
+11th
+Grid Power
+8
+4
+—
+—
++1
+—
+12th
+General Perk, Fleet of Foot 
+8
+4
++1
+—
+—
+—
+13th
+—
+10
+5
+—
++1
+—
+—
+14th
+Zord Feature
+10
+5
+—
+—
+—
++1
+15th
+Group Strike (20’ x 20’)
+10
+5
+—
+—
++1
+—
+16th
+General Perk, Grid Power
+12
+5
+—
++1
+—
+—
+17th
+Zord Feature
+12
+6
+—
+—
+—
++1
+18th
+Precision Aim (+2 Damage)
+12
+6
+—
++1
+—
+—
+19th
+General Perk
+14
+6
+—
+—
+—
++1
+20th
+Pink Ranger Prime
+14
+6
+—
++1
+—
+—
+TABLE 4-5: THE PINK RANGER
+                                          
+
+
+===== PAGE 49 (index 48) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+48
+It’s Morphin Time!
+Starting at 1st level, by summoning the energy 
+within you through your Power Morpher and saying 
+the words “It’s Morphin Time!” as a standard action, 
+you are enveloped with a stylized shell of Morphin 
+Grid energy that serves as your armor, grants you 
+access to your Power-based weapons, and many 
+other abilities that require Power to activate.
+While Morphed, the following traits and features 
+apply:
+•	Your Toughness Bonus is determined by your 
+Armor Training: Light (+1), Medium (+2), Heavy 
+(+4), Ultra-Heavy (+6).
+•	All of your Jump distance maximums are tripled.
+•	As a Free Action, you can summon any single 
+Power-based weapon to your hands.
+•	When reduced to 0 Health, you may choose to 
+avoid Defeat by automatically returning to your 
+natural form, Unconscious, and at 1 Health.
+Volley
+At 1st level, your Pink Ranger skills with a ranged 
+Power Weapon are such that you can use your 
+Morphin Grid power to launch a volley of attacks 
+instead of a single shot. By spending 1 Personal Power, 
+you may make a special Volley attack action as long 
+as you do not move. This Volley attack action allows 
+you to make a number of ranged attacks against valid 
+targets equal to the Volley Shots number listed on the 
+table above. Range, cover, and other modifiers apply 
+to these targets individually.
+Hard Target
+At 2nd level, you are particularly adept at making 
+yourself difficult to hit in combat. As part of a Move 
+action, you are allowed to roll your Acrobatics skill 
+to augment your Evasion score by the result until the 
+beginning of your next turn.
+Fleet of Foot
+Starting at 2nd level, your ground movement 
+increases by 10 feet while Morphed. Your Morphed 
+ground movement increases by an additional 10 feet 
+at 12th level.
+Zords
+By the time a Ranger reaches 3rd level, their role 
+in protecting the Morphin Grid requires them to bat-
+tle larger and more devastating foes. When piloting 
+your personal Zord, you cannot suffer Snags when 
+using the Driving skill.
+You now have access to a powerful construct of a 
+particular kind based upon the Power Ranger team 
+you are a part of. These are the various Zords, Borgs, 
+and Power vehicles that the Rangers summon to aid 
+them when the monsters and other minions of evil 
+are empowered by warlords like Lord Zedd and Rita 
+Repulsa. Rules and statistics surrounding Zords can 
+be found in the section starting on page 131.
+ Pink Ranger Zords
+What sort of shape a Pink Ranger’s Zord takes 
+depends on the kind of Power Ranger Team they are 
+a part of. Examples of previously chosen Zords are: 
+•	Mighty Morphin Power Rangers: Pterodactyl, 
+Firebird
+•	Ninja Power Rangers: Shining Crane
+•	Alien Rangers: Pink Battle Borg
+•	Power Rangers Zeo: Artillery Tank
+•	Power Rangers Turbo: Wind Chaser Racer
+•	Space Rangers: Mega V5 Hover Rover
+Zord Feature
+Upon reaching 6th level, then again at 10th, 14th, 
+and 17th levels, a Ranger’s connection and profi-
+ciency with their Zord has strengthened and evolved 
+to a place where their abilities while using it are 
+stronger and more powerful than ever. Each time 
+this Role Perk is acquired by a Pink Ranger, they 
+may choose from the list of Zord Features (see page 
+136 for details) to apply to their personal Zord.
+General Perk
+When you reach 4th level, and again at 8th, 12th, 
+16th, and 19th level, you have the ability to person-
+alize your Ranger a little further and must choose 
+to gain a generic Perk of your choice for which you 
+meet the prerequisites.
+                                          
+
+
+===== PAGE 50 (index 49) =====
+49
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+Penetrating Shot
+At 5th level, your aim with your ranged Power 
+Weapon is so steady that you can direct a num-
+ber of shots into the same exact point – delivering 
+a punishing amount of damage to one target. By 
+spending an additional 1 Personal Power when 
+using the Volley feature, you can choose to make 
+a single attack roll against a single target that will 
+apply to ALL of the shots from the Volley. This attack 
+gains a number of 1 shifts equal to the additional 
+shots after the first made in the Volley.
+Group Strike
+Upon reaching 5th level, you can split the energy 
+blasts from your ranged Power Weapon into a shower 
+of smaller blasts that saturate an entire area. After 
+spending 1 Personal Power, you choose a 10 foot by 
+10 foot area within range and line of sight, and make 
+a ranged attack roll against all targets in that area. The 
+area affected increases to 15 feet by 15 feet at 10th 
+level, and again at 15th level to 20 feet by 20 feet.
+Grid Power
+First upon reaching 6th level, then again 
+at 11th and 16th levels, your understanding 
+and connection to the power that flows from 
+the Morphin Grid in ways other Rangers may 
+not. Each time you acquire this Role Perk, you may 
+choose a Power (see page 99) to add to your Ranger, 
+so long as they meet the requirements, if any. 
+Sidestep
+At 7th level, you can sidestep danger and dodge 
+certain area effect attacks, such as the slime bar-
+rage from the Goo Fish or a strafe from Lord 
+Zedd’s eyebeams. When you are subjected to 
+an attack that has an Area of Effect that tar-
+gets your Evasion, you may spend a point of 
+Personal Power to reduce the attack result by the 
+number rolled on your Acrobatics skill die.
+Extra Attack
+Beginning at 7th level, you can attack twice, 
+instead of once, whenever you take the Attack 
+action on your turn. This Role Perk only functions 
+while Morphed and fighting as an individual.
+Precision Aim
+At 9th level, your ranged attacks are instinctually 
+well-aimed and seem to seek out the weak points 
+in enemies. If you do not move on your turn, your 
+ranged combat attacks now inflict an additional 
+point of damage if they hit. At 18th level, the bonus 
+damage is increased to two Damage.
+Pink Ranger Prime
+At 20th level, you have become the most 
+advanced version possible of your team’s Pink 
+Ranger. Your Morphed form immediately gains the 
+following benefits:
+•	+2 to all Defenses.
+•	Additional point of Damage on Targeting Attacks
+•	Edge on Speed skill checks
+                                          
+
+
+===== PAGE 51 (index 50) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 04: ROLES - THE POWER RANGER SPECTRUM
+50
+RED RANGER
+Born leaders and warriors through and through, 
+candidates chosen to embody the noble spirit and 
+fighting prowess that each Red Ranger uses to 
+stand proud and strong in the front lines of their 
+Ranger teams. They are fearless fighters that 
+show their teammates how to defend the 
+Morphin Grid personally. Ready with their 
+fists, their blades, and an inspiring show 
+of leadership, Red Rangers are almost 
+always the center  of any team 
+conflicts – inspiring others to stand 
+proud and so the same!  
+Stand Tall and Fierce!
+Red Rangers personify the kind 
+of proud nobility and martial skill 
+prowess it takes to lead a Power 
+Ranger team. Subtlety and sub-
+terfuge are not the kinds of skills 
+that tend to be important to a Red 
+Ranger, as their candidates are 
+chosen for their ability to think 
+on their feet and solve problems 
+directly rather than trying to find 
+ways around them. Red Rangers 
+are, by no means, unintelligent 
+or ignorant – they just tend to 
+excel at taking on trouble head 
+on.
+Always Ready to 
+Help
+The strength and sanctity 
+of the Power Ranger team 
+is, at their core, where a Red 
+Ranger draws its strength. Their 
+fighting styles revolve around 
+teaming up on enemies, dealing 
+decisive blows after a teammate 
+has softened them up, and either 
+serving as the core of a team’s Grid 
+Zord Megaform – or alternatively, 
+standing back to back in their own 
+fighting Zord with a Megaform made 
+up of the rest of the team! 
+                                          

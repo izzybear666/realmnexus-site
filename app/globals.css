@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Print styles: create a light, printer-friendly layout while keeping the on-screen theme */
+@media print {
+  /* Hide navigation elements and interactive controls */
+  .no-print { display: none !important; }
+
+  /* Use light background with dark text for printing */
+  body { background: #fff !important; color: #000 !important; }
+
+  /* Ensure content uses no heavy backgrounds and is readable */
+  .rounded-3xl, .rounded-2xl, .rounded-xl { box-shadow: none !important; background: transparent !important; border: none !important; }
+
+  /* Character sheet sections should break nicely across pages */
+  .character-section { page-break-inside: avoid; }
+
+  /* Make fonts readable on paper */
+  h1, h2, h3 { color: #000 !important; }
+
+  /* Prevent clipping of long blocks */
+  pre, code, textarea { white-space: pre-wrap; }
+}

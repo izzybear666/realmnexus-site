@@ -1,0 +1,220 @@
+===== PAGE 94 (index 93) =====
+93
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+Perks are gained either from special character 
+elements, such as the adaptability of some Origins, 
+or by sacrificing an Essence Score Improvement 
+Role feature, and add unique and interesting traits, 
+proficiencies, or even actions to a Power Ranger.
+Grid Powers are special traits, actions, and mod-
+ifiers that come directly from the Morphin Grid to 
+help make a Power Ranger into more than just the 
+sum of their parts. It is a way for the character to 
+modify themselves to better serve their position in 
+their Power Ranger team.
+General Perks
+A General Perk represents a talent or an area of 
+expertise that gives a character special capabili-
+ties. It embodies training, experience, and abilities 
+beyond what a role provides.
+At certain levels, your Role gives you the 
+Essence Score Improvement feature. Using the 
+optional perks rule, you can forgo taking that 
+feature to take a perk of your choice instead. You 
+can take each perk only once, unless the perk’s 
+description says otherwise.
+You must meet any prerequisite specified in a 
+perk to take that perk. If you ever lose a perk’s pre-
+requisite, you can’t use that perk until you regain 
+the prerequisite. For example, the Wrestler perk 
+requires you to have a Strength of 3 or higher. If 
+your Strength is reduced below 3 somehow—per -
+haps by a nasty spell cast by Rita Repulsa—you 
+can’t benefit from the Wrestler perk until your 
+Strength is restored.
+Acute (Sense)
+Prerequisite: Choose one of the five Senses (Sight, 
+Hearing, Taste, Touch, or Smell)
+Whether it is a natural occurrence or something 
+that has developed in you, one of your five senses 
+is much stronger than those of an average person, 
+and you gain the following benefits:
+• You gain Edge when rolling a Skill T
+est for 
+Alertness if your chosen sense can be applied to 
+what is potentially being perceived.
+• You may gain a 1 dice shift on a non-Alertness 
+Skill Test where you can apply some use of your 
+chosen Sense.
+• You can choose this Perk up to fi
+ve times; once 
+for each Sense.
+Always Alert
+Always aware of your surroundings, you gain the 
+following benefits:
+• You gain Edge when rolling for Initiativ
+e.
+• You can’t be surprised while y
+ou are conscious.
+Athlete’s Grace
+You have trained your body with general health 
+training to gain the following benefits:
+• On hard or solid surfaces, your ground movement 
+r
+ate increases by 5 feet.
+• When you are prone, standing up uses only 5 feet 
+of ground movement.
+• Climbing doesn’t halve your mo
+vement type.
+Adolescent Attitude
+Finding your place in the world and knowing you 
+are still learning, you gain the following benefits:
+• You may reroll 1s on Social Skill dice.
+• Once per scene, you can choose to attempt any 
+skill that y
+ou do not possess levels in. Treat that 
+skill as if you had a d2 in it.
+Bowl-Over
+You are adept at throwing your weight around 
+when you’re moving.
+• When you Sprint, you can use a Free action to
+ 
+Push an adjacent creature at any time along 
+the action.
+• If successful, targets of your Push are always 
+knoc
+ked Prone, if possible.
+Defender
+Prerequisite: Speed 3 or higher
+No one hits your friends – not if you can help it!
+• When you are wielding a Finesse-based 
+weapon with w
+hich you have Specialization 
+in and another creature hits an adjacent ally 
+with a melee attack, you can roll your Skill 
+Dice and lower the opponent’s Skill Test result 
+by the amount rolled, potentially causing the 
+attack to miss.
+                                           
+
+===== PAGE 95 (index 94) =====
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+94
+Dig Deep
+You have a deep reserve of fighting willpower, 
+gaining the following benefits:
+• Once per scene, you can ignore the 1 Damage 
+by taking an automatic Snag on 
+all Skill T
+ests until the end of 
+your next turn.
+• Once per scene, you can heal 
+1d2 Health by forfeiting your 
+entire turn.
+Dodgy
+Prerequisite: Speed 3 or higher
+You have learned a lot from being in school, gaining 
+the following benefits
+• You gain a +2 bonus to your Evasion.
+• On any turn where you do not mo
+ve more than 5 
+feet you may Defend as a Free action.
+Educated
+Prerequisite: Smarts 3 or higher
+You have learned a lot from being in school, gain-
+ing the following benefits:
+• Gain fluency in 1 Language of your choice.
+• Add an additional Story Point to your team’s pool 
+eac
+h game session.
+• May act as though Specialized in any Smarts skill 
+once per da
+y.
+EMT Crash Course
+You’re no doctor but you’ve been 
+in enough scrapes to know the 
+basics of trauma care and 
+the value of having a stocked 
+medkit on hand. You gain the 
+following benefits:
+• Once per scene, as long as 
+you hav
+e a medical kit on you, 
+you can spend an action to 
+heal one Damage on yourself 
+or an ally.
+• As long as you have a med
+-
+ical kit, you may restore an 
+Essence point to an ally
+• You gain Edge on Science: 
+Medicine checks to learn 
+clues from deceased persons
+                                           
+
+===== PAGE 96 (index 95) =====
+95
+POWER RANGERS ROLEPLAYING GAME- CHAPTER 07: PERKS AND GRID POWERS
+Expertise
+Prerequisite: Choose a Skill at d4 level or higher
+You have been practicing with one of your skills, 
+gaining the following benefits to the chosen skill:
+• Ignore the first 1 dice shift applied to your 
+Skill Tests
+• You may reroll 1s on any Skill Dice rolled
+Extra Grid Power
+You are infused with a slight boost from the 
+Morphin Grid, and gain the following benefits:
+• Increase your Maximum Personal Po
+wer by 1.
+• Gain one Grid Power for whic
+h you meet the 
+prerequisites.
+Fast
+You are incredibly quick, gaining the following 
+benefits:
+• You gain a 2 bonus to Initiative Skill Tests.
+• Choose one movement type you alread
+y possess 
+and increase it by 10 feet.
+Fearsome Reputation
+• Intimidation is a Social Essence skill for you.
+• When using Intimidation while morphed, you 
+gain a 2 die shift.
+Garage Band
+Prerequisite: Performance d4 or higher
+You use your musical talents to make extra money 
+and friends, gaining the following benefits:
+• At or after a performance, you have Edge on 
+Streetwise Skill 
+Tests.
+• You gain 2 on Persuasion Skill Tests targeting 
+fans of your band.
+Giant-Killer
+You are unphased by fighting huge enemies, gain-
+ing the following benefits:
+• You have 1 with any attack roll made to hit tar-
+gets at least two Size classes larger than you.
+• Additionally, you gain Edge on any attac
+k roll 
+made to hit targets more than five Size classes 
+larger than you.
+Grid Champion
+Prerequisite: You must have previously vanquished 
+a Towering or larger Size enemy.
+Rita Repulsa and Lord Zedd’s minions and 
+monsters are nothing to you, granting you the 
+following benefits:
+• You cannot be surprised by teleporting Putties or 
+ambushing T
+engas.
+• You have a 1 bonus to hit Putties and Tengas of 
+any variety.
+Heavy Armor Shell
+Prerequisite: Medium Armor Training
+You have learned how to Morph into a heavier 
+armored shell, and gain the following benefits:
+• You gain the Heavy Armor 
+Training, changing your 
+Morphed Toughness Bonus accordingly.
+                                           
